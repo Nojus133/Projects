@@ -1,4 +1,11 @@
-Nojus Budreika
-s344224@oslomet.no
+# Oppgave 3: Bestilling av kinobilletter med databaselagring
 
-Applikasjon Bestilling av kinobilletter lagrer billettene på server side ved bruk av Spring Boot. JavaScript sammen med jQuery ble brukt på klient side for input validering og get/post metoder. Bootstrap 4 ble brukt til stylingen av websiden. 
+## Oppgave beskrivelse:
+Ta utgangspunkt i koden fra obligatorisk oppgave 2 og erstatt arrayet på tjener/server med en tabell i en relasjonsdatabase. Ellers skal applikasjonen ha den samme funksjonaliteten som i oblig 1 og 2.
+
+## Teknologier
+* Spring Boot
+* SQL Database
+* JavaScript
+* JQuery
+* Bootstrap 4
