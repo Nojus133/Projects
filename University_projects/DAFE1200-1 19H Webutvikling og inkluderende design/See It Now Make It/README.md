@@ -19,4 +19,4 @@ practices.
 
 
 ## Reference website to recreate
-![alt text](https://github.com/Nojus133/Projects/blob/main/University_projects/DAFE1200-1%2019H%20Webutvikling%20og%20inkluderende%20design/See%20It%20Now%20Make%20It/image.jpg?raw=true)
+![alt text](https://github.com/Nojus133/Projects/blob/main/University_projects/DAFE1200-1%2019H%20Webutvikling%20og%20inkluderende%20design/See%20It%20Now%20Make%20It/Resources/Home.png)
