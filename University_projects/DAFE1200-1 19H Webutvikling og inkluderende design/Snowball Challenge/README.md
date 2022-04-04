@@ -1,6 +1,8 @@
 # The Snowball Challenge
 
-## Description
+Site: https://stunning-faun-bc77e7.netlify.app
+
+## Assignment description
 In this assignment, you will pair up groups of two. Over the two weeks, you will have to analyze the 
 business case (provided at the bottom of the page), come up with and alter ideas in collaboration with 
 your group members and create a website. Document all of your processes and decisions process 
