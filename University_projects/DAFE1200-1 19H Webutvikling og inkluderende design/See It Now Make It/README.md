@@ -20,14 +20,14 @@ practices.
 
 ## Reference website to recreate
 ![Home](https://user-images.githubusercontent.com/54367157/161605995-dc881069-52aa-4934-bea8-283028efb39e.PNG)
+![Problem](https://user-images.githubusercontent.com/54367157/161606101-da10afc8-b664-4567-b5cd-db1a2ac4698d.PNG)
 ![Problem (2)](https://user-images.githubusercontent.com/54367157/161606071-2d4636b3-6208-4379-8fe2-7332aed8ba4f.PNG)
 ![Problem (3)](https://user-images.githubusercontent.com/54367157/161606080-b68be9cf-1cd2-48e0-ac62-30c2c3922521.PNG)
 ![Problem (4)](https://user-images.githubusercontent.com/54367157/161606090-e77185de-4a7a-442d-a56f-ea305dfcd1cb.PNG)
-![Problem](https://user-images.githubusercontent.com/54367157/161606101-da10afc8-b664-4567-b5cd-db1a2ac4698d.PNG)
-![Prototype (2)](https://user-images.githubusercontent.com/54367157/161606112-0d62dfc3-30ff-4668-a83c-2360442ea6b6.PNG)
-![Prototype](https://user-images.githubusercontent.com/54367157/161606123-7b9b8f71-da4e-42e0-ac54-d8c5006859ff.PNG)
+![Solution](https://user-images.githubusercontent.com/54367157/161606169-67286899-057d-4f31-8046-fbdf248682da.PNG)
 ![Solution (2)](https://user-images.githubusercontent.com/54367157/161606134-0fd42988-aa8c-417c-b29d-689947212506.PNG)
 ![Solution (3)](https://user-images.githubusercontent.com/54367157/161606145-67cd0cbb-1919-49f9-a9d2-3b269393fcbf.PNG)
 ![Solution (4)](https://user-images.githubusercontent.com/54367157/161606151-5ae86f97-de7e-4956-9737-bb1b5155ef00.PNG)
-![Solution](https://user-images.githubusercontent.com/54367157/161606169-67286899-057d-4f31-8046-fbdf248682da.PNG)
+![Prototype](https://user-images.githubusercontent.com/54367157/161606123-7b9b8f71-da4e-42e0-ac54-d8c5006859ff.PNG)
+![Prototype (2)](https://user-images.githubusercontent.com/54367157/161606112-0d62dfc3-30ff-4668-a83c-2360442ea6b6.PNG)
 ![Sources](https://user-images.githubusercontent.com/54367157/161606177-2579516e-9cb1-41c6-9b43-6a5c12b20ac7.PNG)
