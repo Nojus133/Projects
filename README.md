@@ -1,3 +1,3 @@
-# Projects
+## Projects
 
-Repository of personal and university projects
+### Repository of personal and university projects
