@@ -1,7 +1,6 @@
 ## See It Now Make It
 
-Project:
-
+Project: https://enchanting-squirrel-eeef82.netlify.app/
 
 ## Assignment description
 In this assignment the TA will hand out a print screen of a website, where your task is to individually 
