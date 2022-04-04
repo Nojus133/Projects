@@ -1,6 +1,6 @@
 # The Snowball Challenge
 
-Site: https://stunning-faun-bc77e7.netlify.app
+Project: https://stunning-faun-bc77e7.netlify.app
 
 ## Assignment description
 In this assignment, you will pair up groups of two. Over the two weeks, you will have to analyze the 
