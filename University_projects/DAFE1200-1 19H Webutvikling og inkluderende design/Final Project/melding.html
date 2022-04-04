@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="no" id="text-size">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GreenUp | GreenUp</title>
+    <link rel="stylesheet" type="text/css" href="../css/style.css" />
+    <!--fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet"/>
+    <link rel="shortcut icon" type="image/x-icon" href="../img/Leaf logo.png" />
+  </head>
+  <body>
+    <div class="accessabilitymenu">
+      <ul>
+        <li>
+          <a id="language" href="message.html">Språk</a>
+          <a id="languageoptions">Switch to English</a>
+        </li>
+        <li>
+          <button id="textsize" onclick="changeFontSize();"> Tekststørrelsen </button>
+          <a id="textsizeinfo">Trykk CTRL (Mac CMD) og + eller - for å justere tekststørrelsen</a>
+        </li>
+      </ul>
+    </div>
+    <header>
+      <div class="container">
+        <a href="norsk.html#home" class="a-logo">
+          <div class="logo">
+            <img src="../img/Leaf logo.png" alt="logo" />
+            <h1>GreenUp</h1>
+          </div>
+        </a>
+        <!--mobile-->
+        <label class="menu" for="mobile-menu">
+          <div class="hamburger-menu">
+            <div></div>
+          </div>
+        </label>
+        <input type="checkbox" id="mobile-menu" />
+        <nav>
+          <a href="../html/product.html" class="visit-store">
+            <img src="../img/cart-grey.png" alt="Besøk nettbutikken"/>
+          </a>
+          <a id="visit-store-info">Besøk nettbutikken</a>
+          <ul>
+            <li><a href="norsk.html#home">Hjem</a></li>
+            <li><a href="norsk.html#problem">Problem</a></li>
+            <li><a href="norsk.html#mission">Mål</a></li>
+            <li><a href="norsk.html#service">Vårt Konsept</a></li>
+            <li><a href="norsk.html#howtogreenup">Hvordan bli Grønn?</a></li>
+            <li><a href="norsk.html#contact">Kontakt oss</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <div class="container response">
+      <h1>Meldingen din ble sendt!</h1>
+      <a href="norsk.html#contact"><span class="back">&lt</span> Gå tilbake</a>
+    </div>
+
+    <script src="../js/script2.js"></script>
+  </body>
+</html>

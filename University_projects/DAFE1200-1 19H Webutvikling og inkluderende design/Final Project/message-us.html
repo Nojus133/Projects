@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en" id="text-size">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Message us | GreenUp</title>
+    <link rel="shortcut icon" type="image/x-icon" href="../img/Leaf logo.png">
+    <link rel="stylesheet" type="text/css" href="../css/style.css">
+    <!--fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="accessabilitymenu">
+        <ul>
+            <li>
+                <a id="language" href="kontakt-oss.html">Language</a>
+                <a id="languageoptions">Switch to Norwegian</a>
+            </li>
+            <li>
+                <button id="textsize" onclick="changeFontSize();">Tekststørrelse</button>
+                <a id="textsizeinfo">Press CTRL (Mac CMD) and + or - to adjust text size</a>
+            </li>
+        </ul>    
+    </div>
+        <header>
+                <div class="container">
+                        <a href="index.html#home" class="a-logo">
+                        <div class="logo">
+                            <img src="../img/Leaf logo.png" alt="logo">
+                            <h1>GreenUp</h1>
+                        </div>
+                        </a>
+                        <!--mobile-->
+                        <label class="menu" for="mobile-menu">
+                            <div class="hamburger-menu">
+                                <div></div>
+                            </div>
+                        </label>
+                        <input type="checkbox" id="mobile-menu"/>
+                        <nav>
+                            <a href="../html/product.html" class="visit-store"><img src="../img/cart-grey.png"  alt="visit online store"></a>
+                            <a id="visit-store-info">Visit our online store</a>
+                            <ul>
+                                <li><a href="index.html#home">Home</a></li>
+                                <li><a href="index.html#problem">Problem</a></li>
+                                <li><a href="index.html#product">Our Service</a></li>
+                                <li><a href="index.html#howtogreenup">How to Green Up?</a></li>
+                                <li><a href="index.html#contact">Contact</a></li>
+                            </ul>
+                        </nav>
+                    </div>
+        </header>
+        <div class="message-us container">
+            <div class="text">
+                <form action="message.html" id="contact-form">
+                        <label for="name" class="name">Name:</label>
+                        <input id="name" type="text" placeholder="Enter your name here">
+                        <label for="email" class="name">Email:</label>
+                        <input id="email" type="email" placeholder="Enter your email here" required>
+                        <label for="subject" class="name">Subject:</label>
+                        <select id="subject" name="subject">
+                            <option>Select subject</option>
+                            <option>Installation</option>
+                            <option>Contract</option>
+                            <option>Service</option>
+                        </select>
+                        <label for="textarea" class="name">Message:</label>
+                        <textarea name="Message" id="textarea" placeholder="Your message..."></textarea>
+                        <button type="submit" id="send">SEND</button>
+                        <button class="cancel" onclick="myFunction2()">Clear tekst</button>
+                </form>
+            </div>
+        </div>
+        <footer>
+                <div class="container">
+                    <a href="index.html#home">
+                    <div class="logo">  
+                        <img src="../img/Leaf logo.png" alt="logo">
+                        <h1 style="color: #fff;">GreenUp</h1>
+                    </a>
+                    </div>
+                    <ul>
+                        <li><a href="message-us.html">Message us</a></li>
+                        <li><a href="references.html">References</a></li>
+                        <li><a href="kontakt-oss.html">Bytt til norsk</a></li>
+                    </ul>
+                    <span class="copyright">GreenUp, Copyright &copy;2019</span>
+                </div>
+            </footer>
+    <script  src="../js/script2.js">
+    </script>
+</body>
+</html>
