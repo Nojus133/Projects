@@ -1,0 +1,192 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+nav {
+  width: 200px;
+  height: 100vh;
+  background: #35478C;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav-list {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.nav-list li a{
+  display: block;
+  padding: 20px 0;
+  text-transform: uppercase;
+  color: white;
+  opacity: 0.6;
+}
+
+.nav-list li a:hover {
+  opacity: 1;
+}
+
+#active {
+  font-weight: 500;
+  opacity: 1;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+nav {
+  width: 200px;
+  height: 100vh;
+  background: #35478C;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav-list {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.nav-list li a{
+  display: block;
+  padding: 20px 0;
+  text-transform: uppercase;
+  color: white;
+  opacity: 0.6;
+}
+
+.nav-list li a:hover {
+  opacity: 1;
+}
+
+#active {
+  font-weight: 500;
+  opacity: 1;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+nav {
+  width: 200px;
+  height: 100vh;
+  background: #35478C;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav-list {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.nav-list li a{
+  display: block;
+  padding: 20px 0;
+  text-transform: uppercase;
+  color: white;
+  opacity: 0.6;
+}
+
+.nav-list li a:hover {
+  opacity: 1;
+}
+
+#active {
+  font-weight: 500;
+  opacity: 1;
+}
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: 'Roboto', sans-serif;
+}
+
+a{
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+nav {
+  width: 200px;
+  height: 100vh;
+  background: #35478C;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.nav-list {
+  text-align: center;
+  margin-top: 150px;
+}
+
+.nav-list li a{
+  display: block;
+  padding: 20px 0;
+  text-transform: uppercase;
+  color: white;
+  opacity: 0.6;
+}
+
+.nav-list li a:hover {
+  opacity: 1;
+}
+
+#active {
+  font-weight: 500;
+  opacity: 1;
+}
