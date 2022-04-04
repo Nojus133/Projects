@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IUY | Prototype</title>
+    <!--css-->
+    <link rel="stylesheet" type="text/css" href="../css/style2.css">
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond:400,500&display=swap" rel="stylesheet">
+  </head>
+
+
+  <body class="bodycolor">
+    <header class="fixed">
+        <img class="logo" src="../img/logo.png">
+      <nav class="nav1">
+        <div id="text-size">
+          <h5>Text size</h5>
+        </div>
+        <img id="flag" src="../img/no.png" alt="norwegian-language">
+        
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="problem.html">Problem</a></li>
+          <li><a href="solution.html">Solution</a></li>
+          <li><a href="prototype.html" class="active">Prototype</a></li>
+          <li><a href="sources.html">Sources</a></li>
+        </ul>
+      </nav> 
+      <span class="menu" id="hammenu" onclick="openNav()">&#9776;</span>
+
+        
+        <!--mobile navbar-->
+      <nav class="mobile" id="sidenav">
+          <!---->
+          <span onclick="closeNav()">
+              <img id="close" src="../img/letter-x.png">
+          </span>
+
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="problem.html">Problem</a></li>
+            <li><a href="solution.html">Solution</a></li>
+            <li><a href="prototype.html">Prototype</a></li>
+            <li><a href="sources.html">Sources</a></li>
+          </ul>
+          <div id="text-size2">
+            <h5>Text size</h5>
+          </div>
+          <img id="flag2" src="../img/no.png" alt="norwegian-language">
+      </nav>
+    </header>
+    
+    <div class="prototype-main">
+      <div class="prototype-text">
+        <h1>Welcome to our prototype!</h1>
+        <p class="space">Below, you'll find the slideshow for our prototype and thought around how the app wil work. <br>The prototype is designed to fit both hearing and deaf people.</p>
+        <p class="space">The idea behind the desing and functionality of the app, is that it can be used by adult and children. <br>Each slideshow shows the functionality of all the buttons on the app and is therefor divided into four slideshows. If the user want to navigate back to the home screen, he/she can click on the back button which is on every screen</p>
+        <h3>Short about the app</h3>
+        <p class="space1">By going through the pictures below, we'll nagvigate you throug the app's functionality. <br>The user will come across a home screen with three buttons:</p>
+        <p class="space1"><span class="nr">1</span>) Translate</p>
+        <p class="space1"><span class="nr">2</span>) Connect device</p>
+        <p class="space1"><span class="nr">3</span>) Support</p>
+      </div>
+      <img src="../img/phone_start.png">
+    </div>
+    
+    <div class="slide-container">  
+      <div class="slide slide-left">
+        <span class="numbers">1/6</span>
+        <span class="arrow-left">></span>
+        <span class="arrow-right">></span>  
+        <img src="../img/2.1.png">
+        <div class="slide-text">
+          <p>On the main page, the user will come across this image. The user will have three choices to choose from.</p> 
+          <p>The user will here click on the "Translate" button.</p>
+        </div>
+      </div>
+    
+      <div class="slide slide-right">
+        <span class="numbers">1/4</span>
+        <span class="arrow-left">></span>
+        <span class="arrow-right">></span>  
+        <img src="../img/2.1.png">
+        <div class="slide-text">
+          <p>Now, we are back to the main page, and the user will have three choices to chose between.</p> 
+          <p>The user will here click on the "Translate" button.</p>
+        </div>
+      </div>
+      
+      <div class="slide slide-left">
+        <span class="numbers">1/2</span>
+        <span class="arrow-left">></span>
+        <span class="arrow-right">></span>  
+        <img src="../img/2.2.png">
+        <div class="slide-text">
+          <p>Here will the user click on the "Connect to device" button.</p> 
+          <p>Here you can use Bluetooth or local WiFi networks to connect.</p>
+        </div>
+      </div>
+      
+      <div class="slide slide-right">
+        <span class="numbers">1/2</span>
+        <span class="arrow-left">></span>
+        <span class="arrow-right">></span>  
+        <img src="../img/2.3.png">
+        <div class="slide-text">
+          <p>Here the user can press the "Support" button for information about the app.</p> 
+          <p>Here you can read about us and be able to contact us.</p>
+        </div>
+      </div>
+    </div>
+    
+    <script>
+      function openNav() {
+        document.getElementById("sidenav").style.width = "180px";
+      }
+
+      function closeNav() {
+        document.getElementById("sidenav").style.width = "0";
+      }
+    </script>
+  </body>
+</html>
