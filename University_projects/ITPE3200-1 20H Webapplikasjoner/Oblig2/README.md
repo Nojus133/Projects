@@ -2,8 +2,7 @@
 
 Prosjekt: https://oblig2-itpe3200.herokuapp.com/
 
-Admin login:
-
+Admin login:<br>
 Brukernavn: Admin<br>
 Passord: Admin123
 
