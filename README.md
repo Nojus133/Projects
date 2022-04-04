@@ -2,4 +2,4 @@
 
 ### Repository of personal and university projects
 
-![](Home.png)
+![](Home.PNG)
