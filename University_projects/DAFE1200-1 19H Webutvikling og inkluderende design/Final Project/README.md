@@ -30,8 +30,11 @@ not have to feasible, but it should be possible to achieve in three to five year
 
 ### Part 2:
 * Create a website that
-  - Explains why the problem is important from a social or technological 
-perspective.  
+  - Explains why the problem is important from a social or technological perspective. 
+  - Describes how the problem relates to the solution that you have identified.  
+  - Describes what the solution is. For example, if your solution is a mobile app, 
+then describe the app. You do not need to code the solution, but prototyping 
+it is recommended.   
 * The website can include text, images, videos, hyperlinks or any other forms of web 
 content that your group created or that you cite appropriately. 
 * Accessibility and usability are more important than functionality. In other words, do 
