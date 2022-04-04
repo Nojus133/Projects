@@ -8,3 +8,4 @@
 * HTML/CSS
 * JavaScript/TypeScript
 * SQLite
+* Unit testing
