@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oblig 3</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+          integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body class="bg-dark">
+<main class="container bg-light rounded px-sm-5 py-3 py-sm-5 my-md-4">
+    <h1 class="mb-4">Bestilling av kinobilletter</h1>
+
+    <form action="javascript:void(0)">
+        <div class="row">
+            <div class="form-group col-md-6">
+                <label for="film">Velg film:</label>
+                <select id="film" class="form-control">
+                    <option value="" selected disabled hidden>Velg film</option>
+                    <option value="Little Woman">Little woman</option>
+                    <option value="Birds of prey">Birds of prey</option>
+                    <option value="Parasite">Parasite</option>
+                    <option value="1917">1917</option>
+                    <option value="Waves">Waves</option>
+                </select>
+                <span class="text-danger" id="filmMelding"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label for="antall">Antall:</label>
+                <input class="form-control" type="number" min="1" max="100" id="antall">
+                <span class="text-danger" id="antallMelding"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group col-md-6">
+                <label for="fornavn">Fornavn</label>
+                <input class="form-control" type="text" id="fornavn">
+                <span class="text-danger" id="fornavnMelding"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label for="etternavn">Etternavn</label>
+                <input class="form-control" type="text" id="etternavn">
+                <span class="text-danger" id="etternavnMelding"></span>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="form-group col-md-6">
+                <label for="telefonnr">Telefonnummer</label>
+                <input class="form-control" type="tel" id="telefonnr">
+                <span class="text-danger" id="telefonMelding"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label for="epost">Epost</label>
+                <input class="form-control" type="email" id="epost">
+                <span class="text-danger" id="epostMelding"></span>
+            </div>
+        </div>
+        <button class="btn btn-primary mb-5" onclick="kjøpBillett()">Kjøp billett</button>
+    </form>
+
+    <div id="filmer"></div>
+</main>
+
+<script type="application/javascript" src="scripts.js"></script>
+</body>
+</html>
