@@ -1,6 +1,7 @@
 # Prosjektoppgave i Webapplikasjoner i .NET Core , Del 2
 
 Prosjekt: https://oblig2-itpe3200.herokuapp.com/
+
 Admin login:
 Brukernavn: Admin
 Passord: Admin123
