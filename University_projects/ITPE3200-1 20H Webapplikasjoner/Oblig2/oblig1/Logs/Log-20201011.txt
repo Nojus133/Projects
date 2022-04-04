@@ -1,0 +1,1070 @@
+2020-10-11T09:15:57.7104473+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:15:57.7335338+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:15:57.7356016+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:23:25.0450423+02:00 8000008b-0003-fe00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-11T09:24:30.2912563+02:00 800000c7-0006-fd00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-11T09:26:45.5404120+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:26:45.5506060+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:26:45.5526290+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:28:06.7406532+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:28:06.7498453+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:28:06.7517954+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:29:32.1262569+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:29:32.1363492+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:29:32.1382249+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:30:52.4723924+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:30:52.4816857+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:30:52.5044958+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:33:14.6352765+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:33:14.6470801+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:33:14.6494038+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:36:51.4303779+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:36:51.4400039+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:36:51.4425656+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:42:44.0138609+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:42:44.0239993+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:42:44.0258268+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:43:06.6646849+02:00 800001d6-0004-ff00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T09:47:56.9382993+02:00 8000013e-0001-ff00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T09:48:42.3824490+02:00 800000d7-0002-fd00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T09:49:38.9935007+02:00 800001de-0004-ff00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T09:54:03.1351339+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T09:54:03.1445927+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T09:54:03.1462654+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T09:54:28.8912048+02:00 80000142-0001-ff00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T09:54:44.8940534+02:00 80000100-0006-fd00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T10:00:59.5974210+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T10:00:59.6069190+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T10:00:59.6089351+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T10:02:18.4545250+02:00 800000af-0003-fe00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T10:05:41.7342565+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T10:05:41.7449971+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T10:05:41.7468163+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T10:06:00.4030781+02:00 800003cf-0000-fc00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T10:06:41.5254161+02:00 8000011d-0002-fd00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T10:19:08.9353942+02:00 80000125-0002-fd00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T11:59:50.4224037+02:00 80000134-0006-fd00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-11T12:00:15.4881416+02:00 8000021f-0004-ff00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T12:00:32.1919840+02:00 800003fb-0000-fc00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T12:46:01.7718990+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T12:46:01.7817317+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T12:46:01.7838796+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T12:53:56.0394375+02:00 80000166-0006-fd00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T12:59:25.4684548+02:00 80000435-0000-fc00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T13:01:02.9893699+02:00 8000016a-0006-fd00-b63f-84710c7967bb [INF] Verdiene er ikke valide (b7b04cd7)
+2020-10-11T13:19:12.1097055+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T13:19:12.1192736+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T13:19:12.1208906+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T13:19:18.6732546+02:00 8000017e-0002-fd00-b63f-84710c7967bb [INF] Innloggingsfeil for bruker Admin (82462fc0)
+2020-10-11T17:23:53.4612270+02:00 80000293-0004-ff00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-11T18:35:56.4002657+02:00 800000f3-0003-fe00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-11T19:43:15.0355092+02:00 8000047d-0000-fc00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-11T20:16:27.5480030+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:16:27.5620055+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:16:27.5641887+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:16:45.4096772+02:00 8000054a-0002-ff00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:16:45.4146887+02:00 8000054a-0002-ff00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:19:15.7072391+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:19:15.7171032+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:19:15.7188992+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:21:10.6241957+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:21:10.6663909+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:21:10.6905538+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:23:14.2760579+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:23:14.2860861+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:23:14.2879054+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:28:31.3344566+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:28:31.3662289+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:28:31.3683145+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:29:25.1934655+02:00 800006b3-0004-fd00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:29:25.1995907+02:00 800006b3-0004-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:30:22.3855657+02:00 800001c9-0006-fd00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:30:22.3893079+02:00 800001c9-0006-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:30:28.3769455+02:00 800003da-0000-fd00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:30:28.3790982+02:00 800003da-0000-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:31:10.5088364+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:31:10.5182242+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:31:10.5201764+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:31:26.2954565+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:31:26.3046211+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:31:26.3066991+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:33:49.9050016+02:00 80000203-0002-fd00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:33:49.9093682+02:00 80000203-0002-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:34:09.3551404+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:34:09.3647825+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:34:09.3665040+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:35:23.0106139+02:00 80000213-0002-fd00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:35:23.0146366+02:00 80000213-0002-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:35:36.0060662+02:00 800006bd-0004-fd00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:35:36.0084814+02:00 800006bd-0004-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:36:12.8688372+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:36:12.8793333+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:36:12.8812037+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:37:05.9189264+02:00 80000123-0003-fe00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:37:05.9231083+02:00 80000123-0003-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:37:44.8311551+02:00  [INF] Now listening on: "https://localhost:5001" (d826f4b8)
+2020-10-11T20:37:44.8377540+02:00  [INF] Now listening on: "http://localhost:5000" (d826f4b8)
+2020-10-11T20:37:44.8400974+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:37:44.8417501+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:37:44.8435239+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:38:16.0870628+02:00 0HM3E2IV96K1I:00000009 [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:38:16.0906560+02:00 0HM3E2IV96K1I:00000009 [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:39:20.2723619+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:39:20.2823998+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:39:20.2843670+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:41:24.6940538+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:41:24.7045729+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:41:24.7064386+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:42:34.8572389+02:00 8000012b-0003-fe00-b63f-84710c7967bb [INF] Value cannot be null. (Parameter 'entity') (6738f939)
+2020-10-11T20:42:34.8618921+02:00 8000012b-0003-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T20:43:07.8377350+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:43:07.8476232+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:43:07.8493441+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:44:34.3094602+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:44:34.3205914+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:44:34.3224867+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:48:05.2693645+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:48:05.2794471+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:48:05.2813384+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:51:50.2798100+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:51:50.2933503+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:51:50.2953744+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:57:20.7356988+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:57:20.7469341+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:57:20.7487877+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T20:59:15.8615600+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T20:59:15.8708824+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T20:59:15.8728000+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T21:08:18.7506408+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T21:08:18.7599070+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T21:08:18.7619421+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T21:08:41.8521544+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T21:08:41.8617716+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T21:08:41.8636239+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T21:12:47.0295011+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T21:12:47.0390984+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T21:12:47.0410427+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T21:16:12.2378164+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T21:16:12.2495870+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T21:16:12.2519204+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:00:59.1576022+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:00:59.1722597+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:00:59.1751857+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:03:49.5101040+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:03:49.5212140+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:03:49.5228949+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:04:25.1703029+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:04:25.1799962+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:04:25.1821975+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:07:28.4097770+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:07:28.4197897+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:07:28.4214262+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:10:37.4045118+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:10:37.4139945+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:10:37.4157761+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:25:33.0954767+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:25:33.1057983+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:25:33.1081203+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:27:12.4861788+02:00 8000017d-0006-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("3"ms) [Parameters=["@p0='?' (Size = 4)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:27:12.5739348+02:00 8000017d-0006-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:27:12.6514862+02:00 8000017d-0006-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:27:12.6538280+02:00 8000017d-0006-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:27:46.3947152+02:00 800002ed-0000-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 9)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:27:46.4080910+02:00 800002ed-0000-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:27:46.4427276+02:00 800002ed-0000-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:27:46.4453863+02:00 800002ed-0000-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:30:53.7579065+02:00 80000143-0007-ff00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 9)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:30:53.7895305+02:00 80000143-0007-ff00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2020-10-11T22:32:45.1025648+02:00 80000143-0007-ff00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:32:45.1053213+02:00 80000143-0007-ff00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:32:52.8818736+02:00 80000159-0003-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 19)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Kunder\"
+WHERE \"Epost\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:32:52.8949817+02:00 80000159-0003-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettKunde(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 389
+2020-10-11T22:32:52.9330422+02:00 80000159-0003-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:32:52.9347715+02:00 80000159-0003-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:33:00.7373647+02:00 8000017f-0006-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?'"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Bestillinger\"
+WHERE \"BId\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:33:00.7501711+02:00 8000017f-0006-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettBestilling(Int32 id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 421
+2020-10-11T22:33:00.8005849+02:00 8000017f-0006-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:33:00.8031658+02:00 8000017f-0006-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:33:44.4424540+02:00 800002a1-0005-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?'"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Tidsplaner\"
+WHERE \"TId\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:33:44.4553663+02:00 800002a1-0005-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettTidsplan(Int32 id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 453
+2020-10-11T22:33:44.4945749+02:00 800002a1-0005-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:33:44.4963462+02:00 800002a1-0005-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:43:37.3017846+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:43:37.3126129+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:43:37.3145898+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:44:00.9711583+02:00 8000018f-0006-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("2"ms) [Parameters=["@p0='?' (Size = 9)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:44:01.0244642+02:00 8000018f-0006-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:44:01.0841290+02:00 8000018f-0006-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:44:01.0870133+02:00 8000018f-0006-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:44:26.8660072+02:00 80000732-0004-fd00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 12)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:44:26.8779095+02:00 80000732-0004-fd00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:44:26.9150711+02:00 80000732-0004-fd00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:44:26.9172578+02:00 80000732-0004-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:44:28.2737926+02:00 80000734-0004-fd00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 12)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:44:28.2890021+02:00 80000734-0004-fd00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:44:28.3304737+02:00 80000734-0004-fd00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:44:28.3331534+02:00 80000734-0004-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:44:29.4916819+02:00 8000058f-0002-ff00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 12)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:44:29.5047229+02:00 8000058f-0002-ff00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:44:29.5396174+02:00 8000058f-0002-ff00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:44:29.5415236+02:00 8000058f-0002-ff00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:44:33.5139570+02:00 80000305-0000-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 12)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:44:33.5281754+02:00 80000305-0000-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:44:33.5634760+02:00 80000305-0000-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:44:33.5653597+02:00 80000305-0000-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:45:12.3613152+02:00 80000197-0006-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?'"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Tidsplaner\"
+WHERE \"TId\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:45:12.3733787+02:00 80000197-0006-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettTidsplan(Int32 id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 453
+2020-10-11T22:45:12.4119747+02:00 80000197-0006-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:45:12.4136803+02:00 80000197-0006-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:46:03.2563154+02:00 80000599-0002-ff00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 9)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:46:03.2784686+02:00 80000599-0002-ff00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:46:03.3124206+02:00 80000599-0002-ff00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:46:03.3152929+02:00 80000599-0002-ff00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:46:20.3763528+02:00 8000030d-0000-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 9)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Strekninger\"
+WHERE \"StedNavn\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:46:20.3910811+02:00 8000030d-0000-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettStrekning(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 373
+2020-10-11T22:46:20.4257163+02:00 8000030d-0000-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:46:20.4278319+02:00 8000030d-0000-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:47:01.4415993+02:00 80000746-0004-fd00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?'"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Tidsplaner\"
+WHERE \"TId\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:47:01.4562105+02:00 80000746-0004-fd00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettTidsplan(Int32 id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 453
+2020-10-11T22:47:01.4977441+02:00 80000746-0004-fd00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:47:01.5006790+02:00 80000746-0004-fd00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:55:11.2311393+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:55:11.2397736+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:55:11.2416172+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:56:01.4294308+02:00 800005a3-0002-ff00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?'"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Tidsplaner\"
+WHERE \"TId\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T22:56:01.4786213+02:00 800005a3-0002-ff00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettTidsplan(Int32 id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 453
+2020-10-11T22:56:01.5375730+02:00 800005a3-0002-ff00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T22:56:01.5397313+02:00 800005a3-0002-ff00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T22:56:36.6492216+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:56:36.6581396+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:56:36.6601169+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T22:59:07.9267173+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T22:59:07.9364170+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T22:59:07.9383211+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T23:01:59.3588119+02:00 800005f1-0002-ff00-b63f-84710c7967bb [INF] Fant ikke rutene (59a5961b)
+2020-10-11T23:02:10.0514305+02:00 8000020d-0006-fe00-b63f-84710c7967bb [INF] Fant ikke rutene (59a5961b)
+2020-10-11T23:02:19.7811092+02:00 8000034b-0000-fe00-b63f-84710c7967bb [INF] Fant ikke rutene (59a5961b)
+2020-10-11T23:02:26.1854100+02:00 8000034d-0000-fe00-b63f-84710c7967bb [INF] Fant ikke rutene (59a5961b)
+2020-10-11T23:02:44.0032403+02:00 800005f3-0002-ff00-b63f-84710c7967bb [INF] Fant ikke rutene (59a5961b)
+2020-10-11T23:03:43.0225217+02:00 800005fd-0002-ff00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 19)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Kunder\"
+WHERE \"Epost\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T23:03:43.0772351+02:00 800005fd-0002-ff00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettKunde(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 389
+2020-10-11T23:03:43.1204313+02:00 800005fd-0002-ff00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T23:03:43.1221248+02:00 800005fd-0002-ff00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T23:03:50.2408034+02:00 80000353-0000-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?'"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Bestillinger\"
+WHERE \"BId\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T23:03:50.2552323+02:00 80000353-0000-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettBestilling(Int32 id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 421
+2020-10-11T23:03:50.2919801+02:00 80000353-0000-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T23:03:50.2936808+02:00 80000353-0000-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T23:05:33.2001452+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T23:05:33.2095679+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T23:05:33.2115489+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T23:07:13.5467534+02:00 8000017d-0003-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?' (Size = 19)"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Kunder\"
+WHERE \"Epost\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T23:07:13.5985662+02:00 8000017d-0003-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettKunde(String id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 389
+2020-10-11T23:07:13.6556533+02:00 8000017d-0003-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T23:07:13.6578195+02:00 8000017d-0003-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T23:07:22.3102226+02:00 8000021f-0006-fe00-b63f-84710c7967bb [ERR] Failed executing DbCommand ("1"ms) [Parameters=["@p0='?'"], CommandType='Text', CommandTimeout='30']"
+""DELETE FROM \"Bestillinger\"
+WHERE \"BId\" = @p0;
+SELECT changes();" (627a98df)
+2020-10-11T23:07:22.3234420+02:00 8000021f-0006-fe00-b63f-84710c7967bb [ERR] An exception occurred in the database while saving changes for context type '"oblig1.DAL.BussReiseContext"'."
+""Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)" (170f029e)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while updating the entries. See the inner exception for details.
+ ---> Microsoft.Data.Sqlite.SqliteException (0x80004005): SQLite Error 19: 'FOREIGN KEY constraint failed'.
+   at Microsoft.Data.Sqlite.SqliteException.ThrowExceptionForRC(Int32 rc, sqlite3 db)
+   at Microsoft.Data.Sqlite.SqliteDataReader.NextResult()
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.Data.Sqlite.SqliteCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at oblig1.DAL.BussReiseRepository.SlettBestilling(Int32 id) in C:\Users\Budre\source\repos\oblig2\oblig1\DAL\BussReiseRepository.cs:line 421
+2020-10-11T23:07:22.3632119+02:00 8000021f-0006-fe00-b63f-84710c7967bb [INF] An error occurred while updating the entries. See the inner exception for details. (5d65ae99)
+2020-10-11T23:07:22.3652710+02:00 8000021f-0006-fe00-b63f-84710c7967bb [INF] Kunne ikke slette raden fra databasen (266c85c6)
+2020-10-11T23:08:59.0046995+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-11T23:08:59.0156422+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-11T23:08:59.0190675+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-11T23:17:18.9614011+02:00 800007b5-0004-fd00-b63f-84710c7967bb [INF] Kunne ikke hente billett priser (544fab4d)

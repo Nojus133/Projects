@@ -1,0 +1,7 @@
+2020-10-16T00:01:01.9071004+02:00 80000056-0005-ff00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-16T00:01:31.7880642+02:00 80000162-0004-ff00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-16T00:02:26.8817579+02:00 80000063-0003-fe00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-16T00:03:17.2819183+02:00 8000016a-0004-ff00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-16T09:17:09.2158225+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-16T09:17:09.2256040+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-16T09:17:09.2276098+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)

@@ -1,0 +1,67 @@
+2020-10-13T09:59:53.3353016+02:00 80000336-0001-ff00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-13T11:34:04.2226850+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T11:34:04.2408504+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T11:34:04.2443457+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T11:34:20.8644954+02:00 80000552-0000-fd00-b63f-84710c7967bb [INF] The LINQ expression 'DbSet<Rute>
+    .Join(
+        outer: DbSet<Strekninger>, 
+        inner: r => EF.Property<Nullable<int>>(r, "StedNavnSId"), 
+        outerKeySelector: s => EF.Property<Nullable<int>>(s, "SId"), 
+        innerKeySelector: (o, i) => new TransparentIdentifier<Rute, Strekninger>(
+            Outer = o, 
+            Inner = i
+        ))
+    .Where(r => r.Inner.ToString().Equals(__id_0))' could not be translated. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to either AsEnumerable(), AsAsyncEnumerable(), ToList(), or ToListAsync(). See https://go.microsoft.com/fwlink/?linkid=2101038 for more information. (dad9f611)
+2020-10-13T11:34:35.9712954+02:00 80000283-0003-fe00-b63f-84710c7967bb [INF] The LINQ expression 'DbSet<Rute>
+    .Join(
+        outer: DbSet<Strekninger>, 
+        inner: r => EF.Property<Nullable<int>>(r, "StedNavnSId"), 
+        outerKeySelector: s => EF.Property<Nullable<int>>(s, "SId"), 
+        innerKeySelector: (o, i) => new TransparentIdentifier<Rute, Strekninger>(
+            Outer = o, 
+            Inner = i
+        ))
+    .Where(r => r.Inner.ToString().Equals(__id_0))' could not be translated. Either rewrite the query in a form that can be translated, or switch to client evaluation explicitly by inserting a call to either AsEnumerable(), AsAsyncEnumerable(), ToList(), or ToListAsync(). See https://go.microsoft.com/fwlink/?linkid=2101038 for more information. (dad9f611)
+2020-10-13T11:38:13.4210600+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T11:38:13.4361898+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T11:38:13.4387013+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T11:40:32.9889288+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T11:40:33.0087885+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T11:40:33.0122573+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T11:46:49.3284489+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T11:46:49.3432521+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T11:46:49.3465839+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T11:49:03.4291163+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T11:49:03.4463667+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T11:49:03.4500968+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T11:52:56.0591204+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T11:52:56.0739180+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T11:52:56.0767557+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T17:16:09.7951884+02:00 80000568-0000-fd00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
+2020-10-13T19:09:47.4118709+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T19:09:47.4233151+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T19:09:47.4253472+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T19:15:53.0242985+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T19:15:53.0349062+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T19:15:53.0366283+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T19:16:35.9289409+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T19:16:35.9395999+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T19:16:35.9415586+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T19:18:49.2157748+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T19:18:49.2315519+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T19:18:49.2337117+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T19:29:54.4415375+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T19:29:54.4510487+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T19:29:54.4529928+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T19:30:19.7612431+02:00 80000150-0004-fc00-b63f-84710c7967bb [INF] Kunne ikke oppdatere raden (7e402001)
+2020-10-13T19:33:44.8621768+02:00 8000094e-0002-ff00-b63f-84710c7967bb [INF] Kunne ikke oppdatere raden (7e402001)
+2020-10-13T19:53:19.8050904+02:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-13T19:53:19.8152433+02:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-13T19:53:19.8174259+02:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig2\oblig1" (b5d60022)
+2020-10-13T19:54:08.7447701+02:00 800002ee-0006-fd00-b63f-84710c7967bb [INF] Kunne ikke oppdatere raden (7e402001)
+2020-10-13T19:57:49.0526006+02:00 800009e9-0004-fd00-b63f-84710c7967bb [INF] Kunne ikke oppdatere raden (7e402001)
+2020-10-13T19:58:06.9981294+02:00 800002f6-0006-fd00-b63f-84710c7967bb [INF] Kunne ikke oppdatere raden (7e402001)
+2020-10-13T19:58:19.7945485+02:00 800002ec-0003-fe00-b63f-84710c7967bb [INF] Kunne ikke oppdatere raden (7e402001)
+2020-10-13T19:58:25.2096675+02:00 8000025d-0002-fd00-b63f-84710c7967bb [INF] Kunne ikke oppdatere raden (7e402001)
+2020-10-13T19:58:42.1576031+02:00 80000261-0002-fd00-b63f-84710c7967bb [INF] Kunne ikke oppdatere raden (7e402001)
+2020-10-13T21:22:53.1810453+02:00 800002f0-0003-fe00-b63f-84710c7967bb [INF] Uautorisert bruker (c8a96df9)
