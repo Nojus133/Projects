@@ -1,0 +1,1253 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+body {
+  background-color: #E8E8E8;
+}
+
+html,body {
+   height:100%;
+}
+
+.container-desktop {
+  display: none;
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container-mobile {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.container {
+  width: 95%;
+  margin: 0 auto;
+  background: white;
+  background-size: cover;
+  padding: 0 20px;
+  padding-top: 80px;
+  overflow: auto;
+}
+
+
+.arrow {
+  width: 40px;
+  height: auto;
+  cursor: pointer;
+  display: block;
+  margin: auto;
+  position: absolute;
+  bottom: 20px;
+  left: calc(50% - 20px);
+}
+
+.desktop-nav {
+  display: none;
+}
+
+.mobile-sidebar {
+  display: block;
+  width: 100%;
+  height: 40px;
+  margin: 0 auto;
+}
+
+.mobile-sidebar ul {
+  display: inline-block;
+  text-align: center;
+  width: 100%;
+  height: 40px;
+}
+
+.mobile-sidebar li {
+  display: inline-block;
+  list-style: none;
+  padding: 0 1vw 20px;
+  font-size: 16px;
+  font-weight: 300;
+}
+
+.active {
+  border-bottom: 2px solid #C6C07D;
+}
+
+.hamburger-menu {
+  float: right;
+  width: 35px;
+  height: auto;
+  margin-top: calc(6vh - 11px);
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.mobile-nav {
+  width: 100%;
+  min-height: 70px;
+  background-color: #282828;
+  overflow: auto;
+}
+
+.mobile-nav h1 {
+  font-size: 30px;
+  margin-left: 20px;
+  line-height: 70px;
+  font-weight: 500;
+  display: inline-block;
+}
+
+.mobile-nav a {
+  color: #FFF;
+}
+
+.nav-icons {
+  height: 30px;
+  display: block;
+  float: right;
+  margin-top: calc(35px - 15px);
+  margin-right: 20px;
+}
+
+.mobile-nav img {
+  width: 22px;
+  height: auto;
+  float: right;
+  display: inline-block;
+  line-height: 0;
+  margin-left: 15px;
+  cursor: pointer;
+}
+
+.main-section {
+  width: 100%;
+  min-height: 274px;
+  background: url("../img/alvaro-bernal-RgIKRYhmG2k-unsplash.jpg") 0;/*https://www.wallpapershaze.com/web/wallpapers/wallpaper-wrist-watch-dial-style-strap_4272x2848.jpg */
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.mobile-section {
+  background-color: #FFF;
+  overflow: auto;
+}
+
+.text-header {
+  width: 80%;
+  padding-top: 60px;
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: black;
+  text-align: left;
+  line-height: 1.4;
+}
+
+.main-text {
+  margin-top: 20px;
+  font-size: 16px;
+  color: black;
+  font-weight: 400;
+  line-height: 1.8;
+  margin-bottom: 40px;
+}
+
+.btn1 {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 60px;
+  color: #B5AF72;
+  font-size: 18px;
+  background: none;
+  padding: 7px 16px;
+  border: solid 2px #C6C07D;
+  cursor: pointer;
+}
+
+.deals {
+  width: 100%;
+  height: auto;
+  background-color: #FFF;
+  margin: 2vw 0;
+  margin-bottom: 0;
+  text-align: center;
+}
+
+.deals h2 {
+  padding-top: 40px;
+  margin-bottom: 20px;
+}
+
+.deals span {
+  border-bottom: 3.5px solid #C6C07D;
+
+}
+
+.box {
+  display: inline-block;
+  width: 30%;
+  height: auto;
+  margin-left: 1vw;
+  margin-right: 1vw;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.box:hover {
+  border: 2px solid #737579;
+}
+
+.box-img {
+  width: 100%;
+  height: 30vw;
+  background: url("../img/71Urmj4IuBL._UL1500_.jpg") 0;/*https://www.watchfelt.dk/5200-home_default/mvmt-white-tan-laeder-45mm-.jpg */
+  background-size: cover;
+}
+
+.box-price {
+  margin-top: 2vw;
+  padding-bottom: 2vw;
+}
+
+.box-price p {
+  font-size: 3.4vw;
+}
+
+.box-price p:nth-child(1) {
+  text-decoration: line-through;
+  font-size: 3vw;
+  font-weight: 300;
+  color: #737579;
+}
+
+a:nth-child(2) .box-img {
+  background: url("../img/GunmetalSandstoneLeather.Front.SIZE-EDIT_1200x.progressive.jpg") 0;/*https://www.satovi.com/UserDocsImages/Articles/d-mc01gml.jpg?preset=max-size&jpg */
+  background-size: cover;
+}
+
+a:nth-child(3) .box-img {
+  background: url("../img/BlackBlackLeather.Front-SIZE-EDIT_1200x.progressive.jpg") 0;/*https://lh3.googleusercontent.com/msjzCNpr3bMSwUskhKRxqtMA9LYmYFoAxc8lB0qmh7b7aTmtCuRbpSVuvZenN-bLMAi4rA=s85 */
+  background-size: cover;
+}
+
+.card {
+  width: 100%;
+  height: 35vw;
+  background-color: #FFF;
+  margin-top: 2vw;
+}
+
+.card-img {
+  display: inline-block;
+  width: 33%;
+  height: 100%;
+  background: url("../img/marvin-meyer-hFBYgI1GOIc-unsplash.jpg") -20px;/*https://c.pxhere.com/photos/6a/32/hand_watch_hold_holding_handle-937529.jpg!d */
+  background-size: cover;
+  float: left;
+}
+
+.card-img2{
+  display: block;
+  width: 33%;
+  height: 100%;
+  background: url("../img/output-onlinejpgtools1.png") -20px;/*https://debenhams.scene7.com/is/image/Debenhams/21_05_19_womens_watches_epsp_hero?wid=1592&hei=740&qlt=95&fmt=jpg&v=2 */
+  background-size: cover;
+  float: right;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card-text {
+  display: inline-block;
+  width: 66.9%;
+  min-height: 100%;
+  position: relative;
+}
+
+
+.card-text a {
+  border-bottom: 0.8vw solid #C6C07D;
+}
+
+.card-text h3 {
+  position: absolute;
+  top: calc(50% - 11.34px);
+  margin: 0 8%;
+  font-size: 3.9vw;
+}
+
+.align {
+  right: 0;
+}
+
+.newsletter {
+  width: 100%;
+  height: auto;
+  margin-top: 2vw;
+  background-color: #FFF;
+}
+
+.newsletter h3 {
+  font-weight: 500;
+  margin: 0px 5%;
+  padding: 30px 0 10px;
+  font-size: 3vw;
+  letter-spacing: 1.1px;
+}
+
+form {
+
+}
+
+.newsletter input {
+  margin: 10px 0 30px 5%;
+
+  width: 200px;
+  min-height: 6vw;
+  border: 2.5px solid #C6C07D;
+  padding-left: 10px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.newsletter button {
+  width: 80px;
+  min-height: 6vw;
+  margin-left: 10px;
+  border: 2.5px solid #C6C07D;
+  background: none;
+  font-size: 15px;
+  color: #C6C07D;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+footer {
+  display: block;
+  width: 100%;
+  height: 300px;
+  background-color: #282828;
+  position: relative;
+}
+
+.media {
+  width: 100%;
+  margin-bottom: 50px;
+}
+
+.media h5 {
+  color: white;
+  font-weight: 400;
+  font-size: 18px;
+  margin: 0 0 10px 15px;
+  padding-top: 50px;
+  cursor: default;
+}
+
+footer p {
+  color: white;
+  font-weight: 300;
+  font-size: 15px;
+  margin: 10px 0 10px 15px;
+}
+
+footer a {
+  color: white;
+}
+
+.media-icons {
+  margin-left: 5px;
+  width: 90%;
+  height: 35px;
+}
+
+.media-icons img {
+  height: 100%;
+  display: inline-block;
+  margin: 0 10px;
+  cursor: pointer;
+}
+
+.copyright {
+  width: 200px;
+  font-size: 14px;
+  margin: 0;
+  text-align: center;
+  margin-bottom: 10px;
+  position: absolute;
+  bottom: 0;
+  left: calc(50% - 100px);
+}
+
+
+/* COLLECTIONS PAGE*/
+.sale {
+  width: 100%;
+  min-height: 200px;
+  background: linear-gradient(90deg, rgba(0,0,0,0.21659085997680327) 0%, rgba(0,0,0,0.4995040252429097) 0%, rgba(0,0,0,0.4995040252429097) 25%, rgba(0,0,0,0.4995040252429097) 50%, rgba(0,0,0,0.502305145691089) 75%, rgba(0,0,0,0.4995040252429097) 100%), url("../img/190517_automatics_5883_RB_Mobile.jpg") 0;/*https://shinola.imgix.net/media/wysiwyg/layout/refresh/20190520/mens/watches/190517_automatics_5883_RB_Mobile.jpg?ixlib=php-1.1.0 */
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+.sale h1 {
+  text-align: center;
+  font-size: 30px;
+  color: white;
+}
+
+.sale-text {
+  width: 80%;
+  margin: 0 auto;
+  position: absolute;
+  top: 35%;
+  left: 10%;
+}
+
+.container-collections {
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+  overflow: auto;
+}
+
+.choose {
+  width: 100%;
+  height: auto;
+  background-color: #C6C07D;
+  overflow: auto;
+}
+
+.choose a {
+  display: inline-block;
+  width: calc(50% - 2px);
+  
+}
+
+.choose div {
+  box-sizing: border-box;
+  width: 100%;
+  color: white;
+  background-color: #282828;
+  border-bottom: 2px solid #C6C07D;
+}
+
+.choose .active-link {
+  background-color: #E8E8E8;
+  color: black;
+  border: 2px solid #E8E8E8;
+}
+
+.choose h1 {
+  font-size: 20px;
+  padding: 10px;
+  margin-left: 20px;
+}
+
+.choose a:nth-child(2) {
+  float: right;
+}
+
+.sort {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100px;
+  height: 30px;
+  border: 2.5px solid #C6C07D;
+  font-family: 'Roboto', sans-serif;
+  float: right;
+  margin-right: 40px;
+}
+
+.item-wrapper {
+  width: calc(90% + 40px);
+  margin: 0 auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.item {
+  width: calc(45% - 20px);
+  height: 0;
+  padding-bottom: 65%;
+  background-color: white;
+  display: inline-block;
+  margin: 10px; 
+  box-shadow: -4px 4px 6px 0px rgba(0,0,0,0.13);
+  position: relative;
+  cursor: pointer;
+}
+
+.item:nth-of-type(1) .item-img {
+  background: url("../img/71Urmj4IuBL._UL1500_.jpg") 0;
+  /*https://www.watchfelt.dk/5200-home_default/mvmt-white-tan-laeder-45mm-.jpg */
+  background-size: cover;
+}
+
+.item:nth-of-type(2) .item-img {
+  background: url("../img/GunmetalSandstoneLeather.Front.SIZE-EDIT_1200x.jpg") 0;
+  /*https://www.satovi.com/UserDocsImages/Articles/d-mc01gml.jpg?preset=max-size&jpg */
+  background-size: cover;
+}
+
+.item:nth-of-type(3) .item-img {
+  background: url("../img/BlackBlackLeather.Front-SIZE-EDIT_1200x.progressive.jpg") 0;
+  /*https://lh3.googleusercontent.com/AVL2W1qaL1GPC_VTQBQ2zuuW07oIC-RdGx8z8DfnOfSSAXaAthG9ykNjMLmrkiV7UgKE=s85 */
+  background-size: cover;
+}
+
+.item:nth-of-type(4) .item-img {
+  background: url("../img/Kairos-Blue_Brown_3bb0d1c4-efab-41ab-be40-d8033975b69f_2048x2048.jpg") 0;
+  /*https://cdn.shopify.com/s/files/1/0627/5517/products/Chrono-S-Blue_Brown_460042b4-36c5-4056-9439-19c9cae80c80.jpg?v=1567122358 */
+  background-size: cover;
+}
+
+.item:nth-of-type(5) .item-img {
+  background: url("../img/17361026_1_640.jpg") 0;
+  /*https://www.tissotwatches.com/media/shop/catalog/product/cache/14/small_image/800x/62defc7f46f3fbfc8afcd112227d1181/T/1/T116.617.36.057.00.png */
+  background-size: cover;
+}
+
+.item:nth-of-type(6) .item-img {
+  background: url("../img/61zejSfKTmL._UL1200_.jpg") 0;
+  /*https://images-na.ssl-images-amazon.com/images/I/617FUjl3EXL._UL1500_.jpg */
+  background-size: cover;
+}
+
+.item:nth-of-type(7) .item-img {
+  background: url("../img/b38ba396-348b-46f5-aeef-1ee6bc0ed239.jpg") 0;
+  /*https://lh3.googleusercontent.com/vVJDKoSJkawEAvfaqYPF93J925y96h-ZTcG_JOb5Io6H0BcoyfWLVXo-b2rYt4Rn4I3Z8Q=s85 */
+  background-size: cover;
+}
+
+.item:nth-of-type(8) .item-img {
+  background: url("../img/17381053_1_640.jpg") 0;
+  /*https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8zP0QDbnMmuKRe1olXSZu4hAUuP8TO2IK4O-Qlq8kKjNqjf9D */
+  background-size: cover;
+}
+
+.item:nth-of-type(9) .item-img {
+  background: url("../img/image.jpg") 0;
+  /*https://cdn2.chrono24.com/images/uhren/images_94/s8/11587894_xxl_v1562080086804.jpg */
+  background-size: cover;
+}
+
+.item:nth-of-type(10) .item-img {
+  background: url("../img/download.jfif") 0;
+  /*https://klockorochsmycken.se/wp-content/uploads/2013/10/AR2460_main.jpg */
+  background-size: cover;
+}
+
+.item:nth-of-type(11) .item-img {
+  background: url("../img/2010986_000_20.jpg") 0;
+  /*https://img02.ztat.net/article/LA/25/1M/00/WQ/11/LA251M00W-Q11@2.jpg?imwidth=765&filter=packshot */
+  background-size: cover;
+}
+
+.item:nth-of-type(12) .item-img {
+  background: url("../img/93f8b252-826d-48a7-9b27-7c6d58f41efe.jpg") 0;
+  /*https://shoplook.io/s3img/products/54947-1-0b07d.png */
+  background-size: cover;
+}
+
+.item-img {
+  width: 100%;
+  height: 0;
+  padding-bottom: 100%;
+  position: relative;
+  overflow: hidden;
+}
+
+
+
+.add{
+  display: none;
+  width: 100%;
+  height: auto;
+  background-color: #282828;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  color: white;
+  font-weight: 300;
+  letter-spacing: 1.3px;
+}
+
+.item-img:hover {
+  border: 0.6px solid #737579;
+}
+
+.item-img:hover .add{
+  display: block;
+}
+
+.item-price {
+  width: 100%;
+  height: 0;
+  padding-bottom: 40%;
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 3.6vw;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-bottom: 10%;
+}
+
+.item-price p {
+  display: block;
+  width: 100%;
+}
+
+.item-price p:nth-child(1) {
+  margin-bottom: 5px;
+  font-weight: 500;
+  transition: 0.4s;
+}
+
+.item-price span {
+  text-decoration: line-through;
+  color: #737579;
+  font-weight: 300;
+  font-size: 3.3vw;
+}
+
+
+/*About page*/
+
+.wrapper {
+  width: 100%;
+  background: white;
+  margin: 0 auto;
+}
+
+.about {
+  padding: 6%;
+  text-align: center;
+}
+
+.about h1 {
+  font-size: 30px;
+  margin: 20px 0 40px 0;
+  display: inline-block;
+}
+
+.about h1::after {
+  content: '';
+  display: block;
+  margin-top: 0;
+  border-bottom: 5px solid #C6C07D;
+}
+
+.about p {
+  font-size: 18px;
+  line-height: 2.2;
+  margin-bottom: 40px;
+}
+
+.pics {
+  width: 100%;
+}
+
+.pics div {
+  width: 100%;
+  border-bottom: 5px solid white;
+  overflow: hidden;
+}
+
+.pic1 img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.5s;
+}
+
+.pic2 img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.5s;
+}
+
+.pic3 img {
+  display: block;
+  width: 100%;
+  height: auto;
+  transition: 0.5s;
+}
+
+
+
+/* CONTACT PAGE */
+
+.contact {
+  margin-top: 0;
+}
+
+.contact h1 {
+  font-size: 30px;
+  margin-bottom: 40px;
+}
+
+.border {
+  border-bottom: 3px solid #D9D389;
+}
+
+.email h1 {
+  font-size: 30px;
+  font-weight: 500;
+  margin: 50px 0 20px 0;
+}
+
+.info p {
+  font-size: 24px;
+}
+
+
+.info ul {
+  list-style: none;
+  font-size: 18px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-top: 10px;
+}
+
+.email-form  input{
+  background-color: none;
+  width: 100%;
+  border: 2.5px solid #D9D389;
+  height: 40px;
+  margin-bottom: 20px;
+}
+
+textarea {
+  width: 100%;
+  border: 2.5px solid #D9D389;
+  resize: none;
+  margin-bottom: 20px;
+}
+
+.submit {
+  display: block;
+  border: 2.5px solid #D9D389;
+  width: 100px;
+  height: 40px;
+  background: none;
+  color: #D9D389;
+  font-size: 20px;
+  margin-bottom: 50px;
+}
+
+
+@media only screen and (min-width: 630px) {
+  
+  .main-section {
+    min-height: 400px;
+  }
+  
+  .mobile-nav h1 {
+    float: left;
+  }
+  
+  .nav-icons {
+    float: right;
+  }
+  
+  .mobile-sidebar {
+    display: inline-block;
+    height: 70px;
+    width: auto;
+    float: right;
+  }
+  
+  .mobile-sidebar ul {
+    display: inline-block;
+    height: 100%;
+    line-height: 70px;
+  }
+  
+  .mobile-sidebar li {
+    padding-bottom: 0;
+  }
+  
+  .newsletter input {
+    width: 40%;
+    min-height: 40px;
+  }
+  
+  .newsletter button {
+    min-height: 40px;
+    width: 12%;
+  }
+  
+  .item-wrapper {
+    width: 95%;
+  }
+  
+  .item {
+    width: calc(32.8% - 20px);
+    padding-bottom: 46.261%
+  }
+  
+  .item-price {
+    font-size: 3vw;
+  }
+  
+  .item-price span {
+    font-size: 2.7vw;
+  }
+  
+  .container-collections {
+  width: 95%;
+  }
+  
+  .sort {
+    margin-right: 10px;
+  }
+  
+  .wrapper {
+    width: 90%;
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  
+  .main-section {
+    min-height: 500px;
+    position: relative;
+  }
+  
+  .container-desktop {
+    display: block;
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    margin-bottom: 50px;
+  }
+  
+  .container-mobile {
+    display: none;
+  }
+  
+  .text-header {
+    color: #F2F2F2;
+    font-size: 30px;
+    width: 50%;
+  }
+  
+  .main-text {
+    color: #F2F2F2;
+    font-size: 23px;
+    display: inline-block;
+    width: 90%;
+  }
+  
+  .btn1 {
+    display: block;
+    margin: 0;
+    width: 15vw;
+    height: 5vw;
+    font-size: 2vw;
+  }
+  
+  .arrow {
+    display: none;
+  }
+  
+  .form {
+    width: auto;
+  }
+  
+  .newsletter input {
+    width: 400px;
+    min-height: 50px;
+    font-size: 20px;
+    line-height: 0;
+    display: inline-block;
+  }
+  
+  .newsletter button {
+    min-height: 50px;
+    width: 12%;
+    display: inline-block;
+  }
+  
+  .container {
+    width: 80%;
+  }
+  
+  .email-form input {
+    width: 80%;
+  }
+  
+  textarea {
+    width: 80%;
+    margin-top: 10px;
+  }
+  
+  .item-wrapper {
+    width: 90%;
+  }
+  
+  .item-price {
+    font-size: 2.7vw
+  }
+  
+  .item-price span {
+    font-size: 2.4vw;
+  }
+  
+  .add {
+    font-size: 18px;
+  }
+  
+  .item {
+    width: calc(32.8% - 40px);
+    padding-bottom: 42%;
+    margin: 20px;
+    margin-bottom: 30px;
+  }
+  
+  .item-price {
+    padding-bottom: 35%;
+    margin-bottom: 10%;
+    
+  }
+  
+  .item-price p:nth-child(1) {
+    margin-bottom: 0px;
+    font-size: 20px;
+  }
+  
+  .item-price p:nth-child(2) {
+    font-size: 18px;
+  }
+
+  
+  .item-price span {
+    font-size: 16px;
+  }
+  
+  .container-collections {
+  width: 90%;
+  }
+  
+  .sort {
+    margin-right: 20px;
+  }
+  
+  .choose a:nth-child(1) h1 {
+    text-align: right;
+    margin-right: 20px;
+    margin-left: 0;
+  }
+  
+  .wrapper {
+    width: 85%;
+  }
+}
+
+
+@media only screen and (min-width: 1024px) {
+  
+  .mobile-nav {
+    background: none;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+  }
+  
+  .main-section {
+    min-height: 600px;
+  }
+  
+  .mobile-sidebar {
+    float: left;
+    display: inline;
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin-left: 20px;
+  }
+  
+  .mobile-nav {
+    text-align: center;
+  }
+  
+  #sidepage {
+    background-color: #282828;
+  }
+  
+  .mobile-nav h1 {
+    float: none;
+    display: inline-block;
+    margin-left: 0;
+    font-size: 44px;
+  }
+  
+  .nav-icons {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin-right: 40px;
+  }
+  
+  .nav-icons img {
+    width: 30px;
+    margin-left: 30px;
+  }
+  
+  .container-desktop {
+    margin-bottom: 0;
+    height: 400px;
+    margin-top: 10%;
+  }
+  
+  .btn1 {
+    width: 140px;
+    height: 50px;
+    font-size: 20px;
+  }
+  
+  .box {
+    width: 25%;
+  }
+  
+  .box-img {
+    height: 25vw;
+  }
+  
+  .box-price p {
+    font-size: 2vw;
+  }
+  
+  .box-price p:nth-child(1) {
+    font-size: 1.6vw;
+  }
+  
+  .card {
+    width: 49.99%;
+    display: inline-block;
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .right {
+    float: right;
+  }
+  
+  .card-img {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+    background: url("../img/marvin-meyer-hFBYgI1GOIc-unsplash.jpg") 0;
+    background-size: cover;
+  }
+  
+  .card-img2 {
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .card-text {
+    display: block;
+    background-color: white;
+  }
+  
+  .left2 {
+    position: absolute;
+    left: -66.9%;
+    transition: 0.5s ease-in-out;
+  }
+  
+  .card-text h3 {
+    font-size: 3vw;
+    margin: 0 10%;
+    line-height: 1.6;
+    top: calc(50% - 61px);
+  }
+  
+  .text-right {
+    text-align: right;
+  }
+  
+  .right2 {
+    position: absolute;
+    right: -66.9%;
+    transition: 0.5s ease-in-out;
+  }
+  
+  .newsletter {
+    display: block;
+  }
+  
+  footer {
+    display: block;
+    width: 100%;
+  }
+  
+  .card:hover .left2{
+    left: 0;
+  }
+  
+  .card:hover .right2 {
+    right: 0;
+  }
+  
+  .container {
+    padding-top: 150px;
+  }
+  
+  .email-form input {
+    width: 60%;
+  }
+  
+  textarea {
+    width: 60%;
+    margin-top: 10px;
+  }
+  
+  .item-wrapper {
+    width: 80%;
+  }
+  
+  .item {
+    width: calc(242px - 40px);
+    padding-bottom: 0;
+    height: 303px;
+  }
+  
+  .container-collections {
+  width: 60%;
+  }
+  
+  .sort {
+    margin-right: 0;
+  }
+  
+  .sale {
+    margin-top: 70px;
+    height: 300px;
+  }
+  
+  #color {
+    background: #282828;
+  }
+  
+  .wrapper {
+    margin-top: 50px;
+  }
+  
+  .pic1:hover img {
+    transform: scale(1.2);
+  }
+  
+  .pic2:hover img {
+    transform: scale(1.2);
+  }
+  
+  .pic3:hover img {
+    transform: scale(1.2);
+  }
+}
+
+@media only screen and (min-width: 1100px) {
+  .item-price p:nth-child(1):hover {
+    transition: 0.4s;
+    letter-spacing: 1.2px;
+  }
+  
+  .wrapper {
+    width: 80%;
+  }
+  
+  .pics div {
+    border-bottom: none;
+  }
+  
+  .pics div:nth-child(1) {
+    display: block;
+    height: 320px;
+  }
+  
+  
+  .pics div:nth-child(2) {
+    width: 50%;
+    display: inline-block;
+    height: 320px;
+  }
+  
+  .pic2 img {
+    height: 320px;
+  }
+  
+  .pics div:nth-child(3) {
+    width: 50%;
+    float: right;
+  }
+  
+  .pic3 img {
+    object-fit: cover;
+    height: 320px;
+  }
+}
+
+@media only screen and (min-width: 1242px) {
+  .container-collections {
+    width: 80%;
+  }
+  
+  .sort {
+    margin-right: 20px;
+  }
+  
+  .pics {
+    width: 993.59px;
+    margin: 0 auto;
+  }
+  
+  .about {
+    padding-left: 12vw;
+    padding-right: 12vw;
+  }
+}
+
+@media only screen and (min-width: 1500px) {
+  .item-wrapper {
+    width: 1100px;
+  }
+  
+  .sale {
+    height: 400px;
+  }
+  
+  .container-collections {
+    width: 1100px;
+  }
+  
+  .sort {
+    margin-right: 80px;
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
