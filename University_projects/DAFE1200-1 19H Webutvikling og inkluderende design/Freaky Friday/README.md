@@ -1,6 +1,6 @@
 # Freaky Friday
 
-Project:
+Project: https://poetic-meringue-ba036a.netlify.app
  
 ## Assignment description
 In this assignment, you will have to acquire a description from another student about a website you are 
