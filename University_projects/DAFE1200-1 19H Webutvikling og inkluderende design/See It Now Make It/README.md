@@ -20,3 +20,4 @@ practices.
 
 ## Reference website to recreate
 ![](University_projects/DAFE1200-1%2019H%20Webutvikling%20og%20inkluderende%20design/See%20It%20Now%20Make%20It/resources/Home.PNG)
+![Home](https://user-images.githubusercontent.com/54367157/161605995-dc881069-52aa-4934-bea8-283028efb39e.PNG)
