@@ -10,3 +10,4 @@
 * Version Control (Git)
 * REST
 * JSON
+* Regex
