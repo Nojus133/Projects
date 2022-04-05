@@ -1,4 +1,4 @@
-# Prosjektoppgave, del 3
+# Prosjektoppgave, Del 3
 
 Prosjekt: https://oblig320220405095732.azurewebsites.net/
 
