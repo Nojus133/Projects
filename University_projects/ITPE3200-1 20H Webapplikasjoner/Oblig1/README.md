@@ -1,4 +1,4 @@
-# Prosjektoppgave Del 1
+# Prosjektoppgave, Del 1
 
 Prosjekt: https://oblig1-itpe3200.herokuapp.com/
 
