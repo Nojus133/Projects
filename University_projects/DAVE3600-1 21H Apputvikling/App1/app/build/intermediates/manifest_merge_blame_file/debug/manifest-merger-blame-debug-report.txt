@@ -1,0 +1,99 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.s344224mappe1"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="31" />
+9-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:5:5-45:19
+12        android:allowBackup="true"
+12-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:6:9-35
+13        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+13-->[androidx.core:core:1.5.0] C:\Users\nojam\.gradle\caches\transforms-3\109c406f854d135ad1ed87dae876b357\transformed\core-1.5.0\AndroidManifest.xml:24:18-86
+14        android:debuggable="true"
+15        android:extractNativeLibs="false"
+16        android:icon="@mipmap/ic_launcher"
+16-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:7:9-43
+17        android:label="@string/app_name"
+17-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:8:9-41
+18        android:roundIcon="@mipmap/ic_launcher_round"
+18-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:9:9-54
+19        android:supportsRtl="true"
+19-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:10:9-35
+20        android:testOnly="true"
+21        android:theme="@style/Theme.S344224mappe1" >
+21-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:11:9-51
+22        <activity
+22-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:12:9-15:64
+23            android:name="com.example.s344224mappe1.SpillActivity"
+23-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:13:13-42
+24            android:configChanges="orientation|screenLayout"
+24-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:15:13-61
+25            android:exported="true" />
+25-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:14:13-36
+26        <activity
+26-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:16:9-19:64
+27            android:name="com.example.s344224mappe1.FerdigSpillActivity"
+27-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:17:13-48
+28            android:configChanges="orientation|screenLayout"
+28-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:19:13-61
+29            android:exported="true" />
+29-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:18:13-36
+30        <activity
+30-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:20:9-24:64
+31            android:name="com.example.s344224mappe1.PreferanserActivity"
+31-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:21:13-48
+32            android:configChanges="orientation|screenLayout"
+32-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:24:13-61
+33            android:exported="true"
+33-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:23:13-36
+34            android:parentActivityName="com.example.s344224mappe1.MainActivity" />
+34-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:22:13-55
+35        <activity
+35-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:25:9-29:64
+36            android:name="com.example.s344224mappe1.StatistikkActivity"
+36-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:26:13-47
+37            android:configChanges="orientation|screenLayout"
+37-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:29:13-61
+38            android:exported="true"
+38-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:28:13-36
+39            android:parentActivityName="com.example.s344224mappe1.MainActivity" />
+39-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:27:13-55
+40        <activity
+40-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:30:9-34:63
+41            android:name="com.example.s344224mappe1.StartSpillActivity"
+41-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:31:13-47
+42            android:configChanges="orientation|screenLayout"
+42-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:34:13-61
+43            android:exported="true"
+43-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:33:13-36
+44            android:parentActivityName="com.example.s344224mappe1.MainActivity" />
+44-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:32:13-55
+45        <activity
+45-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:35:9-44:20
+46            android:name="com.example.s344224mappe1.MainActivity"
+46-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:36:13-41
+47            android:configChanges="orientation"
+47-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:38:13-48
+48            android:exported="true" >
+48-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:37:13-36
+49            <intent-filter>
+49-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:39:13-43:29
+50                <action android:name="android.intent.action.MAIN" />
+50-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:40:17-69
+50-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:40:25-66
+51
+52                <category android:name="android.intent.category.LAUNCHER" />
+52-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:42:17-77
+52-->C:\Users\nojam\Desktop\Apputvikling\s344224mappe1\app\src\main\AndroidManifest.xml:42:27-74
+53            </intent-filter>
+54        </activity>
+55    </application>
+56
+57</manifest>
