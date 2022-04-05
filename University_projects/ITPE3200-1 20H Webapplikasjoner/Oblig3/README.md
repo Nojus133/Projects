@@ -1,5 +1,6 @@
 # Prosjektoppgave, Del 3
 
+Bygget med .NET Core, Angular
 Prosjekt: https://oblig320220405095732.azurewebsites.net/
 
 ## Oppgave
