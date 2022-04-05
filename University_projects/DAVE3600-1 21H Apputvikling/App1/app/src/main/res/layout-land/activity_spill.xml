@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/chalkboard"
+    android:foreground="@drawable/ic_board_land2"
+    android:orientation="vertical"
+    android:paddingLeft="20dp"
+    android:paddingTop="5dp"
+    android:paddingRight="20dp">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txtAntallRiktige"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text=""
+            android:textColor="@color/accentPrimary"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtAntallGale"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:text=""
+            android:textColor="@color/accentPrimary"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtRunder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:gravity="end"
+            android:text=""
+            android:textColor="@color/accentPrimary"
+            android:textSize="14sp" />
+
+
+    </LinearLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/txtRegnestykke"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/rubik_bold"
+            android:text=""
+            android:textColor="@color/accentPrimary"
+            android:textSize="24sp" />
+
+        <EditText
+            android:id="@+id/textSvar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/accentPrimary"
+            android:clickable="false"
+            android:contextClickable="false"
+            android:editable="false"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:fontFamily="@font/rubik_bold"
+            android:inputType="number"
+            android:maxLength="4"
+            android:minWidth="30sp"
+            android:textColor="@color/accentPrimary"
+            android:textSize="24sp"
+            tools:ignore="TouchTargetSizeCheck" />
+
+        <TextView
+            android:id="@+id/txtMessage"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="50dp"
+            android:fontFamily="@font/rubik_bold"
+            android:text=""
+            android:textColor="@color/accentPrimary"
+            android:textSize="24sp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/knapp1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="1"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knapp2"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="2"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knapp3"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="3"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knapp4"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="4"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knapp5"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="5"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knapp6"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="6"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/knapp7"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="7"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knapp8"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="8"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knapp9"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="4dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="9"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knapp0"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="4dp"
+            android:layout_marginRight="16dp"
+            android:layout_weight="1"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="0"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+
+        <Button
+            android:id="@+id/knappSlett"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:paddingTop="10dp"
+            android:paddingBottom="10dp"
+            android:text="@string/knappSlett"
+            android:textAppearance="@style/TextAppearance.AppCompat.Medium"
+            android:textSize="16sp"
+            app:cornerRadius="10dp"
+            app:icon="@drawable/ic_backspace"
+            app:iconGravity="textStart"
+            app:strokeColor="#4DFFFDF6"
+            app:strokeWidth="2dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btnAvslutt"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginRight="5dp"
+            android:layout_weight="2"
+            android:backgroundTint="@color/textDark"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp"
+            android:text="@string/avslutt"
+            android:textAllCaps="false"
+            android:textColor="@color/accentPrimary"
+            android:textSize="18sp"
+            android:typeface="normal"
+            app:cornerRadius="10dp"
+            app:strokeColor="@color/textDark"
+            tools:ignore="TextContrastCheck" />
+
+        <Button
+            android:id="@+id/btnNeste"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="5dp"
+            android:layout_weight="2"
+            android:backgroundTint="@color/accentPrimary"
+            android:fontFamily="@font/rubik_bold"
+            android:paddingTop="12dp"
+            android:paddingBottom="12dp"
+            android:text="@string/neste"
+            android:textAllCaps="false"
+            android:textColor="@color/textDark"
+            android:textSize="18sp"
+            android:typeface="normal"
+            app:cornerRadius="10dp"
+            app:strokeColor="@color/textDark"
+            tools:ignore="TextContrastCheck" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
+
+
+

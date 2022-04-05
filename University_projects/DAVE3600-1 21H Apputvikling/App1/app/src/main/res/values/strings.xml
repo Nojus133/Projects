@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Matte Trening</string>
+    <string name="start_spill">Start Spill</string>
+    <string name="spill_pa_nytt">Spill på nytt</string>
+    <string name="se_statistikk">Se statistikk</string>
+    <string name="preferanser">Preferanser</string>
+    <string name="tittel">Matte \nTrening</string>
+    <string name="tilbake">Gå Tilbake</string>
+    <string name="antallSpors">Antall Spørsmål:</string>
+    <string name="tallSpors">15</string>
+    <string name="antallRiktige">Antall riktige svar:</string>
+    <string name="antallRiktigeTall">0</string>
+    <string name="antallGale">Antall gale svar:</string>
+    <string name="antallGaleTall">0</string>
+    <string name="nullstill">Nullstill statistikk</string>
+    <string name="regnestykker_per_sesjon">Antall regnestykker per sesjon:</string>
+    <string name="sprak">Velg språk</string>
+    <string name="norsk">Norsk</string>
+    <string name="tysk">Tysk</string>
+    <string name="knappSlett">Slett</string>
+    <string name="resultat">Ditt resultat:</string>
+    <string name="riktige_resultat">riktige svar</string>
+    <string name="gale_resultat">gale svar</string>
+    <string name="avslutt">Avslutt</string>
+    <string name="neste">Neste</string>
+    <string name="statistikk_dialog_tittel">Nullstille statistikk?</string>
+    <string name="statistikk_dialog_melding">Antall gale og riktige svar skal telles på nytt</string>
+    <string name="spill_dialog_tittel">Avslutt spill?</string>
+    <string name="spill_dialog_melding">Sesjon vil ikke bli lagret</string>
+    <string name="dialog_confirm">Ja</string>
+    <string name="dialog_cancel">Nei</string>
+    <string name="svar_toast">Max lengde er 4 tall</string>
+    <string name="spill_skriv_svar">Må skrive inn svar først</string>
+    <string name="spill_riktig_svar">Riktig!</string>
+    <string name="spill_feil_svar">Feil!</string>
+    <string name="spill_riktige">riktige</string>
+    <string name="spill_gale">gale</string>
+
+    <string name="default_preference_antall_regnestykker">5</string>
+    <string name="default_preference_valgt_sprak">Norsk</string>
+
+    <string name="SHARED_PREFERENCES">sharedPreferences</string>
+    <string name="ANTALL_REGNESTYKKER">antallRegnestykker</string>
+    <string name="VALGT_SPRAK">valgtSprak</string>
+    <string name="ANTALL_RIKTIGE_SVAR">antallRiktigeSvar</string>
+    <string name="ANTALL_GALE_SVAR">antallGaleSvar</string>
+</resources>

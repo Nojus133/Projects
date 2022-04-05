@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Mathe Training</string>
+    <string name="start_spill">Start Spiele</string>
+    <string name="spill_pa_nytt">Nochmal abspielen</string>
+    <string name="se_statistikk">Siehe Statistiken</string>
+    <string name="preferanser">Einstellungen</string>
+    <string name="tittel">Mathe \nTraining</string>
+    <string name="tilbake">Zurückkehren</string>
+    <string name="antallSpors">Anzahl der Fragen:</string>
+    <string name="tallSpors">15</string>
+    <string name="antallRiktige">Richtiger Antworten:</string>
+    <string name="antallRiktigeTall">0</string>
+    <string name="antallGale">Falscher Antworten:</string>
+    <string name="antallGaleTall">0</string>
+    <string name="nullstill">Statistik Zurücksetzen</string>
+    <string name="regnestykker_per_sesjon">Anzahl der Berechnungen pro Sitzung:</string>
+    <string name="sprak">Sprache auswählen</string>
+    <string name="norsk">Norsk</string>
+    <string name="tysk">Deutsch</string>
+    <string name="knappSlett">Löschen</string>
+    <string name="resultat">Dein Ergebnis:</string>
+    <string name="riktige_resultat">richtige Antworten</string>
+    <string name="gale_resultat">falsche Antworten</string>
+    <string name="avslutt">Ausgang</string>
+    <string name="neste">Nächste</string>
+    <string name="statistikk_dialog_tittel">Statistik Zurücksetzen?</string>
+    <string name="statistikk_dialog_melding">Die Anzahl der falschen und richtigen Antworten muss erneut gezählt werden</string>
+    <string name="spill_dialog_tittel">Spiel beenden?</string>
+    <string name="spill_dialog_melding">Sitzung wird nicht gespeichert</string>
+    <string name="dialog_confirm">Ja</string>
+    <string name="dialog_cancel">Nein</string>
+    <string name="svar_toast">Die maximale Länge beträgt 4 Zahlen</string>
+    <string name="spill_skriv_svar">Muss zuerst Antworten eingeben</string>
+    <string name="spill_riktig_svar">Korrekt!</string>
+    <string name="spill_feil_svar">Falsch!</string>
+    <string name="spill_riktige">richtig</string>
+    <string name="spill_gale">falsch</string>
+
+    <string name="default_preference_antall_regnestykker">5</string>
+    <string name="default_preference_valgt_sprak">Norsk</string>
+
+    <string name="SHARED_PREFERENCES">sharedPreferences</string>
+    <string name="ANTALL_REGNESTYKKER">antallRegnestykker</string>
+    <string name="VALGT_SPRAK">valgtSprak</string>
+    <string name="ANTALL_RIKTIGE_SVAR">antallRiktigeSvar</string>
+    <string name="ANTALL_GALE_SVAR">antallGaleSvar</string>
+</resources>

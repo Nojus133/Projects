@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@drawable/chalkboard"
+    android:foreground="@drawable/ic_board"
+    android:gravity="bottom"
+    android:orientation="vertical"
+    android:paddingLeft="25dp"
+    android:paddingRight="25dp"
+    android:paddingBottom="70dp">
+
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/rubik_bold"
+        android:text="@string/regnestykker_per_sesjon"
+        android:textColor="@color/accentPrimary"
+        android:textSize="26sp" />
+
+    <RadioGroup
+        android:id="@+id/rgAntallRegnestykker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <RadioButton
+            android:id="@+id/rb_5_regnestykker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:buttonTint="@color/accentSecondary"
+            android:checked="true"
+            android:fontFamily="@font/rubik_bold"
+            android:text="5"
+            android:textColor="@color/accentPrimary"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:id="@+id/rb_10_regnestykker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="5dp"
+            android:buttonTint="@color/accentSecondary"
+            android:fontFamily="@font/rubik_bold"
+            android:text="10"
+            android:textColor="@color/accentPrimary"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:id="@+id/rb_15_regnestykker"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/accentSecondary"
+            android:fontFamily="@font/rubik_bold"
+            android:text="15"
+            android:textColor="@color/accentPrimary"
+            android:textSize="20sp" />
+    </RadioGroup>
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/rubik_bold"
+        android:text="@string/sprak"
+        android:textColor="@color/accentPrimary"
+        android:textSize="26sp" />
+
+    <RadioGroup
+        android:id="@+id/rgSprak"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/rb_Norsk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/accentSecondary"
+            android:checked="true"
+            android:fontFamily="@font/rubik_bold"
+            android:text="@string/norsk"
+            android:textColor="@color/accentPrimary"
+            android:textSize="20sp" />
+
+        <RadioButton
+            android:id="@+id/rb_Tysk"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:buttonTint="@color/accentSecondary"
+            android:fontFamily="@font/rubik_bold"
+            android:text="@string/tysk"
+            android:textColor="@color/accentPrimary"
+            android:textSize="20sp" />
+    </RadioGroup>
+
+    <Button
+        android:id="@+id/btnTilbake"
+        android:layout_width="220dp"
+        android:layout_height="75dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="40dp"
+        android:layout_marginBottom="10dp"
+        android:backgroundTint="@color/accentPrimary"
+        android:fontFamily="@font/rubik_bold"
+        android:text="@string/tilbake"
+        android:textAllCaps="false"
+        android:textColor="@color/textDark"
+        android:textSize="18sp"
+        android:typeface="normal"
+        app:cornerRadius="10dp"
+        app:strokeColor="@color/textDark"
+        tools:ignore="TextContrastCheck" />
+
+
+</LinearLayout>
+
+
+
