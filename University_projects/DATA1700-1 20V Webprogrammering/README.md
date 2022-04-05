@@ -11,3 +11,4 @@
 * REST
 * JSON
 * Regex
+* Database storage
