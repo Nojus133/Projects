@@ -1,0 +1,28 @@
+com/example/s344224mappe1/MyDialog.java
+ com.example.s344224mappe1.MyDialog
+ com.example.s344224mappe1.MyDialog$1
+ com.example.s344224mappe1.MyDialog$2
+ com.example.s344224mappe1.MyDialog$DialogClickListener
+com/example/s344224mappe1/BuildConfig.java
+ com.example.s344224mappe1.BuildConfig
+com/example/s344224mappe1/Language.java
+ com.example.s344224mappe1.Language
+com/example/s344224mappe1/Preference.java
+ com.example.s344224mappe1.Preference
+com/example/s344224mappe1/PreferanserActivity.java
+ com.example.s344224mappe1.PreferanserActivity
+com/example/s344224mappe1/MainActivity.java
+ com.example.s344224mappe1.MainActivity
+com/example/s344224mappe1/StatistikkActivity.java
+ com.example.s344224mappe1.StatistikkActivity
+com/example/s344224mappe1/Spill.java
+ com.example.s344224mappe1.Spill
+ com.example.s344224mappe1.Spill$1
+com/example/s344224mappe1/SpillActivity.java
+ com.example.s344224mappe1.SpillActivity
+ com.example.s344224mappe1.SpillActivity$1
+ com.example.s344224mappe1.SpillActivity$2
+com/example/s344224mappe1/FerdigSpillActivity.java
+ com.example.s344224mappe1.FerdigSpillActivity
+com/example/s344224mappe1/StartSpillActivity.java
+ com.example.s344224mappe1.StartSpillActivity
