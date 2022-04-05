@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="styles.css" />
+    <link
+      href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700,800,900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <progress id="loader" value="0"></progress>
+    <div class="play">
+      <h1>Rock Paper Scissors</h1>
+      <div>
+        <p>First to get 3 points wins</p>
+        <button onclick="playGame()">Play</button>
+      </div>
+    </div>
+    <main>
+      <div class="container">
+        <h1 id="title">Rock Paper Scissors</h1>
+        <div id="score__container">
+          <div class="score">
+            <h2>Player</h2>
+            <span id="player">0</span>
+          </div>
+          <div class="score">
+            <h2>Computer</h2>
+            <span id="computer">0</span>
+          </div>
+        </div>
+        <div id="arena"></div>
+        <div class="out"><p>Make a move</p></div>
+        <div id="choices__container">
+          <div class="choices" id="rock">
+            <img src="icons8-hand-rock-100.png" alt="" />
+            <p>Rock</p>
+          </div>
+          <div class="choices" id="paper">
+            <img src="icons8-hand-100.png" alt="" />
+            <p>Paper</p>
+          </div>
+          <div class="choices" id="scissors">
+            <img src="icons8-hand-scissors-100.png" alt="" />
+            <p>Scissors</p>
+          </div>
+        </div>
+        <div id="random"></div>
+      </div>
+    </main>
+
+    <script src="script.js" type="application/javascript"></script>
+  </body>
+</html>
