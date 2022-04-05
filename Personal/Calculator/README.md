@@ -7,4 +7,4 @@ Created as a side project to improve JavaScript skills. Project focused on CSS G
 ## Features:
 * Supports key presses
 * Responsive
-
+* !Bug free
