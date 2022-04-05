@@ -1,4 +1,4 @@
-# oppgave (oppgave 3) for Webapplikasjoner i .NET.Core
+# Prosjektoppgave, del 3
 
 Prosjekt: https://oblig320220405095732.azurewebsites.net/
 
