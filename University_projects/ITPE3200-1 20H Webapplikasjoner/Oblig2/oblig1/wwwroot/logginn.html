@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oblig 1</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/fde80d66f7.js" crossorigin="anonymous"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="white">
+    <nav class="container">
+        <div id="logo">
+            <a href="index.html"><img src="nor-way_rgb_hovedlogo-01-4526.svg" alt="nor-way logo"></a>
+        </div> 
+    </nav>
+
+    <section class="logginn-container container">
+        <a class="back" href="index.html"><i class="fas fa-angle-left"></i> Gå tilbake</a>
+        <header class="logginn-header">
+            <h1>Logg inn</h1>
+        </header>
+        <form action="" class="login-form">
+            <div class="input-div">
+                <label for="brukernavn">Brukernavn</label>
+                <input type="text" id="brukernavn">
+            </div>
+            <div class="input-div">
+                <label for="passord">Passord</label>
+                <input type="password" id="passord">
+            </div>
+            <span id="err"></span>
+            <div class="input-div">
+                <input type="button" class="disabled" value="Logg inn" id="login-btn">
+            </div>
+        </form>
+    </section>
+    <script src="js/logginn.js" type="module"></script>
+</body>
+</html>
