@@ -1,0 +1,28 @@
+<div *ngFor="let kategori of alleKategorier">
+    <app-faq-kategori [kategori]="kategori" [alleFaq]="alleFaq"></app-faq-kategori>
+</div>
+<div class="sendSp">
+    <h2>Fant du ikke svar på det du lurte om?</h2>
+    <button (click)="toggleModal($event)">Send oss spørsmål</button>
+</div>
+<div class="modal" *ngIf="isOpen" (click)="toggleModal($event)">
+    <form (click)="$event.stopPropagation()" [formGroup]="skjema" (ngSubmit)="lagreFaq()">
+        <h1>Send oss spørsmål</h1>
+        <label for="kategori">Velg kategori:</label>
+        <select name="" id="kategori" formControlName="kategori">
+            <option *ngFor="let kategori of alleKategorier" value={{kategori}}>{{kategori}}</option>
+        </select>
+        <input type="text" placeholder="Skriv din spørsmål her" formControlName="spors">
+        <p class="alert" [class.hidden]="skjema.controls.spors.valid || skjema.controls.spors.pristine || skjema.controls.spors.value === ''">
+            Spørmål skal ha mellom 15 og 150 bokstaver
+        </p>
+        <p [hidden]="!err" class="alert">{{err}}</p>
+        <div>
+            <button class="btn2" (click)="toggleModal($event)">Avbryt</button>
+            <button type="submit" class="btn1" [disabled]="!skjema.valid" [class.loader]="loading">
+                <span [class.hide]="loading">Send</span>
+            </button>
+        </div>
+        
+    </form>
+</div>

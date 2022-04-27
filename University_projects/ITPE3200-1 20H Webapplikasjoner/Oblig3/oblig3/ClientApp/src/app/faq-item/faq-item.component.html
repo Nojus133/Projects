@@ -1,0 +1,24 @@
+<div class="svar">
+    <button class="btn-question" (click)="toggle($event)">
+        <p [class.active]="isExpanded">{{ sporsmaal.spors }}</p>
+    </button>
+    <div class="svar-div" *ngIf="isExpanded">
+        <div *ngIf="sporsmaal.svar !==''">
+            <p>{{ sporsmaal.svar }}</p>
+            <div class="rating">
+                <p>Var svaren nyttig?</p>
+                <div>
+                    <button id="up" (click)="handleRating($event)">
+                        <i class="far fa-thumbs-up" [class.harPressetKnapp]="harPressetLikeKnapp"></i>
+                    </button>
+                    <span> {{likes}} </span>
+                    <button id="down" (click)="handleRating($event)">
+                        <i class="far fa-thumbs-down" [class.harPressetKnapp]="harPressetDislikeKnapp"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+    
+</div>

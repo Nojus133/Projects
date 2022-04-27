@@ -1,0 +1,24 @@
+<div class="kategori">
+    <button class="btn-kategori" (click)='toggle($event)' [class.darken]="isExpanded">
+        <i class="fas fa-chevron-down icon" [class.rotate]="isExpanded"></i>
+        <h2>{{kategori}}</h2>
+    </button>
+    <div class="question-container" *ngIf="isExpanded">
+        <app-faq-item *ngFor="let svar of medSvar" [sporsmaal]="svar"></app-faq-item>
+        <div *ngIf="utenSvar.length !== 0" class="uten-svar">
+            <button (click)='toggleSporsmaal($event)' [class.darken]="isExpandedSpors">
+                <i class="fas fa-chevron-down icon" [class.rotate]="isExpandedSpors"></i>
+                <p [class.active]="isExpandedSpors">
+                    <span *ngIf="!isExpandedSpors">Vis</span>
+                    <span *ngIf="isExpandedSpors">Skjul</span> 
+                    ikke ennå svarte spørsmål
+                </p>
+            </button>
+            <div *ngIf="isExpandedSpors">
+                <ul>
+                    <li *ngFor="let spors of utenSvar">{{ spors.spors }}</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
