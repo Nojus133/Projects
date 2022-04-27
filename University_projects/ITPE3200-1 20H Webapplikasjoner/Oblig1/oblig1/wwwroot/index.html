@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oblig 1</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script defer src="js/index.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav class="container">
+        <div id="logo">
+            <a href="index.html"><img src="nor-way_rgb_hovedlogo-01-4526.svg" alt="nor-way logo"></a>
+        </div> 
+        
+    </nav>
+    <main>
+        <section class="container">
+            <header>
+                <h1 class="strek">Velg din bussreise og bestill billett</h1>
+            </header>
+            <div id="bestilling">
+                <div class="input-div">
+                    <label for="fra">Reise fra</label>
+                    <div class="switch-div">
+                        <input type="text" id="fra" placeholder="F. Eks. Oslo" autocomplete="off">
+                        <div class="valgene"></div>
+                        <button class="switch" title="Bytte om destinasjoner" type="button"><img src="reverse 1.svg" alt="bytt-plassene"></button>
+                    </div>
+                    
+                </div>
+                <div class="input-div">
+                    <label for="til">Reise til</label>
+                    <div class="switch-div">
+                        <input type="text" id="til" placeholder="F. Eks. Bergen" autocomplete="off">
+                        <div class="valgene"></div>
+                    </div>
+                    <span class="alert"></span>
+                </div>
+                <div class="input-div">
+                    <label for="dato-en">Dato</label>
+                    <div class="switch-div" id="kal1">
+                        <input type="text" readonly id="dato-en" tabindex="0">
+                        <div class="kalendar" tabindex="-1"></div>
+                    </div>
+                    
+                </div>
+                <div class="input-div" id="returDato">
+                    <label for="dato-to">Retur dato</label>
+                    <div class="switch-div" id="kal2">
+                        <input type="text" readonly id="dato-to">
+                        <div class="kalendar" tabindex="-1"></div>
+                    </div>
+                    
+                </div>
+                <div class="input-div retur">
+                    <label for="envei" name="retur">Envei</label>
+                    <input type="radio" name="retur" id="envei" checked value="envei">
+                    <label for="tur" name="retur">Retur</label>
+                    <input type="radio" name="retur" id="tur" value="retur">
+                </div>
+                <div class="input-div reisende">
+                    <h2>Reisende</h2>
+                    <div class="en-type">
+                        <button type="button" class="btn2">-</button>
+                        <input type="number" name="" id="voksen" value="1" class="active">
+                        <button type="button" class="btn2">+</button>
+                        <label for="voksen" class="active">Voksen</label>
+                    </div>
+                    <div class="en-type">
+                        <button type="button" class="btn2">-</button>
+                        <input type="number" name="" id="barn"  value="0">
+                        <button type="button" class="btn2">+</button>
+                        <label for="barn">Barn (6 - 17 år)</label>
+                    </div>
+                    <div class="en-type">
+                        <button type="button" class="btn2">-</button>
+                        <input type="number" name="" id="student"  value="0">
+                        <button type="button" class="btn2">+</button>
+                        <label for="student">Student</label>
+                    </div>
+                    <span class="alert"></span>
+                </div>
+                <button type="button" class="btn3 disabled">Vis tid</button>
+            </div>
+        </section>
+    </main>
+    <footer>
+        <span>Copyright © 2009–2020 NOR-WAY Bussekspress</span> 
+    </footer>
+</body>
+</html>

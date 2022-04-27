@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="no">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/fde80d66f7.js" crossorigin="anonymous"></script>
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="white">
+    <nav class="container">
+        <div id="logo">
+            <a href="index.html"><img src="nor-way_rgb_hovedlogo-01-4526.svg" alt="nor-way logo"></a>
+        </div> 
+    </nav>
+    <section class="billetter container">
+        <button class="back"><i class="fas fa-angle-left"></i> Gå tilbake</button>
+        <header class="billetter-header">
+            <h1>Bestillings detaljer</h1>
+        </header>
+        <div id="billettValg">
+            <div class="bestilling-div">
+                <h2 class="bestilling-h2">Reise fra</h2>
+                <div class="bestilling-detaljer"></div>
+            </div>
+        </div>
+        <div class="bestillingInfo">
+            <form class="kundeInfo">
+                <div>
+                    <label for="email">Epost</label>
+                    <input type="text" id="epost">
+                    <span id="feilEpost" class="alert"></span>
+                </div>
+                <div>
+                    <label for="telefon">Telefon nummer</label>
+                    <input type="number" id="telefon">
+                    <span id="feilTelefon" class="alert"></span>
+                </div>
+            </form>
+            <div class="pris">
+                <div>
+                    <h2>Totalt pris:</h2>
+                    <p id="prisen">kr</p>
+                </div>
+
+                <button class="btn3 disabled">Bekreft bestilling</button>
+            </div>
+        </div>
+    </section>
+
+    <script src="js/bestilling.js"></script>
+</body>
+</html>
