@@ -1,0 +1,943 @@
+2020-11-05T10:11:55.7050331+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T10:11:55.7185144+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T10:11:55.7203519+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-11-05T10:25:41.1316188+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    width: 1.em;
+           ^
+      Invalid CSS after "    width: 1": expected expression (e.g. 1px, bold), was ".em;"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 76, column 13)
+ (8c00c1da)
+2020-11-05T10:37:53.6506877+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T10:37:53.6630388+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T10:37:53.6662576+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-11-05T10:40:20.1028280+01:00  [ERR] ERROR in app/faq/faq.component.ts:52:17 - error TS1003: Identifier expected.
+
+52           error..
+                   ~
+
+ (beba96c1)
+2020-11-05T10:40:26.7902373+01:00  [ERR] ERROR in app/faq/faq.component.ts:52:24 - error TS1005: ';' expected.
+
+52           this.err = er'
+                          ~
+app/faq/faq.component.ts:52:25 - error TS1002: Unterminated string literal.
+
+52           this.err = er'
+                           
+
+ (299b4451)
+2020-11-05T10:40:26.8663605+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(52,22): error TS2304: Cannot find name 'er'.
+    
+ (841e46ff)
+2020-11-05T10:40:28.3801120+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(52,22): error TS2304: Cannot find name 'er'.
+    
+ (841e46ff)
+2020-11-05T10:50:52.0867171+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(86,10): error TS2339: Property 'er' does not exist on type 'FaqComponent'.
+    
+ (836d8dd5)
+2020-11-05T10:50:53.8054451+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(86,5): error TS2322: Type 'void' is not assignable to type 'String'.
+    
+ (669d3f69)
+2020-11-05T10:59:29.8333909+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:16:15 - error TS1005: ';' expected.
+
+16     isExpanded: boolean = false;
+                 ~
+
+ (c5e89dcb)
+2020-11-05T10:59:30.3589766+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:16:15 - error TS1005: ';' expected.
+
+16     isExpanded: boolean = false;
+                 ~
+
+ (c5e89dcb)
+2020-11-05T10:59:30.4367016+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(16,5): error TS2304: Cannot find name 'isExpanded'.
+    src/app/faq-kategori/faq-kategori.component.ts(35,14): error TS2339: Property 'isExpanded' does not exist on type 'FaqKategoriComponent'.
+    src/app/faq-kategori/faq-kategori.component.ts(35,33): error TS2339: Property 'isExpanded' does not exist on type 'FaqKategoriComponent'.
+    
+ (66d05505)
+2020-11-05T10:59:31.1050730+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(16,5): error TS2304: Cannot find name 'isExpanded'.
+    src/app/faq-kategori/faq-kategori.component.ts(35,14): error TS2339: Property 'isExpanded' does not exist on type 'FaqKategoriComponent'.
+    src/app/faq-kategori/faq-kategori.component.ts(35,33): error TS2339: Property 'isExpanded' does not exist on type 'FaqKategoriComponent'.
+    
+ (66d05505)
+2020-11-05T10:59:33.0149134+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(14,15): error TS2314: Generic type 'Array<T>' requires 1 type argument(s).
+    
+ (0a957f20)
+2020-11-05T10:59:34.2916313+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:16:15 - error TS1005: '>' expected.
+
+16     isExpanded: boolean = false;
+                 ~
+
+ (1ad09b91)
+2020-11-05T10:59:34.8488859+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(16,5): error TS2304: Cannot find name 'isExpanded'.
+    src/app/faq-kategori/faq-kategori.component.ts(35,14): error TS2339: Property 'isExpanded' does not exist on type 'FaqKategoriComponent'.
+    src/app/faq-kategori/faq-kategori.component.ts(35,33): error TS2339: Property 'isExpanded' does not exist on type 'FaqKategoriComponent'.
+    
+ (66d05505)
+2020-11-05T10:59:35.2025466+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:16:5 - error TS1005: '>' expected.
+
+16     isExpanded: boolean = false;
+       ~~~~~~~~~~
+
+ (c570ce9d)
+2020-11-05T10:59:35.7585197+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(14,21): error TS2304: Cannot find name 'a'.
+    
+ (b087105a)
+2020-11-05T10:59:44.9922523+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:32:5 - error TS1003: Identifier expected.
+
+32     }
+       ~
+
+ (f8d8c465)
+2020-11-05T10:59:47.8613577+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(31,30): error TS2339: Property 'a' does not exist on type 'FaqKategoriComponent'.
+    
+ (47945a9c)
+2020-11-05T10:59:48.9771250+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:32:5 - error TS1003: Identifier expected.
+
+32     }
+       ~
+
+ (f8d8c465)
+2020-11-05T10:59:50.9091496+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(31,38): error TS2551: Property 'fil' does not exist on type 'any[]'. Did you mean 'fill'?
+    
+ (a03cfebe)
+2020-11-05T10:59:53.2369301+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(31,25): error TS2740: Type '{ <S extends any>(callbackfn: (value: any, index: number, array: any[]) => value is S, thisArg?: any): S[]; (callbackfn: (value: any, index: number, array: any[]) => unknown, thisArg?: any): any[]; }' is missing the following properties from type 'any[]': pop, push, concat, join, and 25 more.
+    
+ (099244f7)
+2020-11-05T10:59:55.7965440+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(31,45): error TS2304: Cannot find name 'e'.
+    
+ (71ca9538)
+2020-11-05T10:59:56.8712359+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(31,45): error TS2304: Cannot find name 'e'.
+    
+ (71ca9538)
+2020-11-05T10:59:58.5068927+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:31:48 - error TS1109: Expression expected.
+
+31         this.utenSvar = this.alleFaq.filter(e =)
+                                                  ~
+
+ (29e3d76e)
+2020-11-05T10:59:59.1371772+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:31:49 - error TS1109: Expression expected.
+
+31         this.utenSvar = this.alleFaq.filter(e =>)
+                                                   ~
+
+ (812324d0)
+2020-11-05T10:59:59.4585441+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(31,45): error TS2304: Cannot find name 'e'.
+    
+ (71ca9538)
+2020-11-05T11:00:00.1213254+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:31:52 - error TS1003: Identifier expected.
+
+31         this.utenSvar = this.alleFaq.filter(e => e.)
+                                                      ~
+
+ (391941f3)
+2020-11-05T11:00:44.8845226+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:31:60 - error TS1109: Expression expected.
+
+31         this.utenSvar = this.alleFaq.filter(e => e.svar ===)
+                                                              ~
+
+ (11cdfa39)
+2020-11-05T11:00:46.8970144+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:31:61 - error TS1109: Expression expected.
+
+31         this.utenSvar = this.alleFaq.filter(e => e.svar === )
+                                                               ~
+
+ (49b23a17)
+2020-11-05T11:00:48.6806381+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:31:61 - error TS1109: Expression expected.
+
+31         this.utenSvar = this.alleFaq.filter(e => e.svar === )
+                                                               ~
+
+ (49b23a17)
+2020-11-05T11:01:01.5940424+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(25,21): error TS2304: Cannot find name 'ute'.
+    
+ (efbe5334)
+2020-11-05T11:02:09.7395729+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(32,30): error TS2339: Property 'svare' does not exist on type 'FaqKategoriComponent'.
+    
+ (ad185239)
+2020-11-05T11:10:37.0193217+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+.ute
+   ^
+      Invalid CSS after ".ute": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 48, column 5)
+ (2fe601b8)
+2020-11-05T11:10:37.5966077+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+.uten
+    ^
+      Invalid CSS after ".uten": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 48, column 6)
+ (28ac01a5)
+2020-11-05T11:10:39.0777704+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+.uten-svar 
+          ^
+      Invalid CSS after ".uten-svar": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 48, column 12)
+ (7c6bef48)
+2020-11-05T11:13:21.4512909+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    margin
+   ^
+      Property "margin" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 49, column 5)
+ (91a2cbf6)
+2020-11-05T11:13:22.9758051+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    margin-top: ;
+             ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 49, column 15)
+ (b7279adf)
+2020-11-05T11:15:50.2713199+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    bu
+   ^
+      Property "bu" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 51, column 5)
+ (c2d2ae0c)
+2020-11-05T11:15:51.3688255+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    button
+   ^
+      Property "button" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 51, column 5)
+ (ca45d962)
+2020-11-05T11:16:02.7731570+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    padding
+   ^
+      Property "padding" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 50, column 5)
+ (1b8e83e5)
+2020-11-05T11:16:05.7254886+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    padding: ;
+          ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 50, column 12)
+ (4162a91c)
+2020-11-05T11:16:07.6328507+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    padding
+   ^
+      Property "padding" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 50, column 5)
+ (1b8e83e5)
+2020-11-05T11:16:09.7190487+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    padding-left: ;
+               ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 50, column 17)
+ (c78c9bde)
+2020-11-05T11:28:06.3088110+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        font
+       ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 53, column 9)
+ (f239f538)
+2020-11-05T11:28:07.5864084+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        font-weight: ;
+                  ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 53, column 20)
+ (34dab2c9)
+2020-11-05T11:28:12.4880585+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        font
+       ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 54, column 9)
+ (1f5a530e)
+2020-11-05T11:28:13.8370175+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        font-size: ;
+                ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 54, column 18)
+ (9b5461d9)
+2020-11-05T11:29:08.3745876+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        p
+       ^
+      Property "p" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 54, column 9)
+ (db1468e2)
+2020-11-05T11:29:10.8678523+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font
+           ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 55, column 13)
+ (469e3d86)
+2020-11-05T11:29:13.0192433+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font-size: ;
+                    ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 55, column 22)
+ (fff37487)
+2020-11-05T11:30:04.4827973+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        font-style: ;
+                 ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 53, column 19)
+ (789e1d7b)
+2020-11-05T16:14:45.6478138+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T16:14:45.6718805+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T16:14:45.6762495+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-11-05T16:16:52.5017895+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        pa
+       ^
+      Property "pa" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 55, column 9)
+ (f0ece73a)
+2020-11-05T16:16:54.7887563+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        padd
+       ^
+      Property "padd" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 55, column 9)
+ (fc9200f7)
+2020-11-05T16:16:56.4575980+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        padding: ;
+              ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 55, column 16)
+ (2029d356)
+2020-11-05T16:16:56.8997326+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        padding: ;
+              ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 55, column 16)
+ (2029d356)
+2020-11-05T16:19:00.7208898+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        font-style: ;
+                 ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 55, column 19)
+ (0f6fd7e9)
+2020-11-05T16:24:30.3052249+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(34,5): error TS2393: Duplicate function implementation.
+    src/app/faq-kategori/faq-kategori.component.ts(39,5): error TS2393: Duplicate function implementation.
+    
+ (fe2d12e1)
+2020-11-05T16:28:31.8269558+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(36,9): error TS2304: Cannot find name 'thisprop'.
+    
+ (e752db64)
+2020-11-05T16:28:32.7869299+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(36,14): error TS2339: Property 'prop' does not exist on type 'FaqKategoriComponent'.
+    
+ (b055161b)
+2020-11-05T16:31:29.5957037+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(41,14): error TS2339: Property 'isExpandedSpors' does not exist on type 'FaqKategoriComponent'.
+    
+ (ac2fe231)
+2020-11-05T16:31:34.0706266+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(41,14): error TS2339: Property 'isExpandedSpors' does not exist on type 'FaqKategoriComponent'.
+    src/app/faq-kategori/faq-kategori.component.ts(41,38): error TS2339: Property 'isExpandedSpors' does not exist on type 'FaqKategoriComponent'.
+    
+ (c039bcff)
+2020-11-05T16:31:42.1104820+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(42,14): error TS2339: Property 'isExpandedSpors' does not exist on type 'FaqKategoriComponent'.
+    src/app/faq-kategori/faq-kategori.component.ts(42,38): error TS2339: Property 'isExpandedSpors' does not exist on type 'FaqKategoriComponent'.
+    
+ (ba0eba82)
+2020-11-05T16:31:43.5086481+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(17,5): error TS2300: Duplicate identifier 'isExpanded'.
+    src/app/faq-kategori/faq-kategori.component.ts(42,14): error TS2339: Property 'isExpandedSpors' does not exist on type 'FaqKategoriComponent'.
+    src/app/faq-kategori/faq-kategori.component.ts(42,38): error TS2339: Property 'isExpandedSpors' does not exist on type 'FaqKategoriComponent'.
+    
+ (47622887)
+2020-11-05T16:35:44.2677976+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+.active 
+       ^
+      Invalid CSS after ".active": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 62, column 9)
+ (2ec757fe)
+2020-11-05T16:35:46.6537972+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font-
+   ^
+      Property "font-" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 63, column 5)
+ (251ef502)
+2020-11-05T16:35:47.3041275+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font-we
+   ^
+      Property "font-we" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 63, column 5)
+ (e8c1e5ba)
+2020-11-05T16:35:48.1966649+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font-weight: ;
+              ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 63, column 16)
+ (be61d524)
+2020-11-05T16:40:08.1289752+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    ul
+   ^
+      Property "ul" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 61, column 5)
+ (9bf1c98a)
+2020-11-05T16:40:09.3797127+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    ul 
+   ^
+      Property "ul" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 61, column 5)
+ (53a0c82e)
+2020-11-05T16:40:21.1340065+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        list
+       ^
+      Property "list" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 62, column 9)
+ (e79bc443)
+2020-11-05T16:40:23.1158948+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        list-style: ;
+                 ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 62, column 19)
+ (cf52c082)
+2020-11-05T16:41:12.3837890+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        li
+       ^
+      Property "li" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 65, column 9)
+ (860f0a68)
+2020-11-05T16:41:17.5346580+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font
+           ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 66, column 13)
+ (835522ad)
+2020-11-05T16:41:18.9664049+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font-size: ;
+                    ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 66, column 22)
+ (059c982e)
+2020-11-05T16:41:20.6846632+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font-size: 1.;
+                       ^
+      Invalid CSS after "...   font-size: 1": expected expression (e.g. 1px, bold), was ".;"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 66, column 25)
+ (b4c40943)
+2020-11-05T16:44:01.8662574+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            marign
+           ^
+      Property "marign" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 67, column 13)
+ (09905ef5)
+2020-11-05T16:44:03.2200110+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            mar
+           ^
+      Property "mar" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 67, column 13)
+ (5703223c)
+2020-11-05T16:44:04.0779190+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            margin
+           ^
+      Property "margin" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 67, column 13)
+ (6fbe48c0)
+2020-11-05T16:44:05.8632373+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            margin-top: ;
+                     ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 67, column 23)
+ (b882e0b4)
+2020-11-05T16:52:28.8259766+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            color
+           ^
+      Property "color" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 68, column 13)
+ (68ea93ac)
+2020-11-05T16:52:29.3973513+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            color: ;
+                ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 68, column 18)
+ (473149eb)
+2020-11-05T16:52:39.9054376+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            opa
+           ^
+      Property "opa" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 68, column 13)
+ (827cca72)
+2020-11-05T16:52:40.4169342+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            opacity: ;
+                  ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 68, column 20)
+ (5df2712b)
+2020-11-05T16:52:41.6543438+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            opacity: .;
+                    ^
+      Invalid CSS after "...       opacity:": expected expression (e.g. 1px, bold), was ".;"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 68, column 22)
+ (d4558b42)
+2020-11-05T16:56:01.7967537+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        }
+        ^
+      Invalid CSS after "        }": expected "}", was "&"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 58, column 10)
+ (95b2c35c)
+2020-11-05T16:56:06.3388391+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font
+           ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 60, column 13)
+ (4d33300c)
+2020-11-05T16:56:11.4387570+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            text-decoration: ;
+                          ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 60, column 28)
+ (4bf1babc)
+2020-11-05T16:57:53.6207236+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font
+           ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 72, column 13)
+ (046c2490)
+2020-11-05T16:57:54.8216459+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font-st
+           ^
+      Property "font-st" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 72, column 13)
+ (4fa4ff1e)
+2020-11-05T16:57:55.3344349+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            font-style: ;
+                     ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 72, column 23)
+ (a224a937)
+2020-11-05T17:00:52.5646165+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'med' does not exist on type 'FaqKategoriComponent'.
+    
+ (0235a5d3)
+2020-11-05T17:00:53.6688642+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medS' does not exist on type 'FaqKategoriComponent'.
+    
+ (12782793)
+2020-11-05T17:00:54.8929921+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:00:55.3972652+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:34:5 - error TS1109: Expression expected.
+
+34     }
+       ~
+
+ (793c81f7)
+2020-11-05T17:00:55.9360681+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:34:5 - error TS1109: Expression expected.
+
+34     }
+       ~
+
+ (793c81f7)
+2020-11-05T17:00:56.4700803+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:00:58.1828259+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:00:59.8282384+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:00.8517418+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    src/app/faq-kategori/faq-kategori.component.ts(33,37): error TS2339: Property 'fi' does not exist on type 'any[]'.
+    
+ (99c8fa94)
+2020-11-05T17:01:02.3983532+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:03.8398125+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:33:48 - error TS1109: Expression expected.
+
+33         this.medSvar = this.svarene.filter(e =>)
+                                                  ~
+
+ (c43bcb2b)
+2020-11-05T17:01:04.0499314+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    src/app/faq-kategori/faq-kategori.component.ts(33,44): error TS2304: Cannot find name 'e'.
+    
+ (658a1bb6)
+2020-11-05T17:01:05.2990338+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:06.3560263+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:33:51 - error TS1003: Identifier expected.
+
+33         this.medSvar = this.svarene.filter(e => e.)
+                                                     ~
+
+ (68bbc785)
+2020-11-05T17:01:06.6480083+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:07.7304071+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:09.1888276+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:10.2928942+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:12.3020024+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:33:59 - error TS1109: Expression expected.
+
+33         this.medSvar = this.svarene.filter(e => e.svar !==)
+                                                             ~
+
+ (297bd405)
+2020-11-05T17:01:12.6707264+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:13.2421478+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:33:59 - error TS1109: Expression expected.
+
+33         this.medSvar = this.svarene.filter(e => e.svar !===)
+                                                             ~
+
+ (cc2a7cf8)
+2020-11-05T17:01:13.8672576+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:33:59 - error TS1109: Expression expected.
+
+33         this.medSvar = this.svarene.filter(e => e.svar !=== )
+                                                             ~
+
+ (23be7ee2)
+2020-11-05T17:01:14.1879693+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:15.4177437+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:33:59 - error TS1109: Expression expected.
+
+33         this.medSvar = this.svarene.filter(e => e.svar !=== "")
+                                                             ~
+
+ (f985d1ff)
+2020-11-05T17:01:15.4296367+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:16.3351042+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:17.0106555+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:33:59 - error TS1109: Expression expected.
+
+33         this.medSvar = this.svarene.filter(e => e.svar !=== "");
+                                                             ~
+
+ (b776786e)
+2020-11-05T17:01:17.3714306+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:18.3635874+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(33,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (dddf045d)
+2020-11-05T17:01:26.9156828+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:34:59 - error TS1109: Expression expected.
+
+34         this.medSvar = this.svarene.filter(e => e.svar !=== "");
+                                                             ~
+
+ (165840f9)
+2020-11-05T17:01:27.9824256+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(15,5): error TS2300: Duplicate identifier 'utenSvar'.
+    src/app/faq-kategori/faq-kategori.component.ts(34,14): error TS2339: Property 'medSvar' does not exist on type 'FaqKategoriComponent'.
+    
+ (3e472558)
+2020-11-05T17:01:31.1274823+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:34:59 - error TS1109: Expression expected.
+
+34         this.medSvar = this.svarene.filter(e => e.svar !=== "");
+                                                             ~
+
+ (165840f9)
+2020-11-05T17:01:38.4695573+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:34:59 - error TS1109: Expression expected.
+
+34         this.medSvar = this.svarene.filter(e => e.svar !=== "");
+                                                             ~
+
+ (165840f9)
+2020-11-05T17:01:38.9142584+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:34:59 - error TS1109: Expression expected.
+
+34         this.medSvar = this.svarene.filter(e => e.svar !=== "");
+                                                             ~
+
+ (165840f9)
+2020-11-05T17:05:26.4476641+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    text
+   ^
+      Property "text" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 78, column 5)
+ (99d16784)
+2020-11-05T17:05:28.6199525+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    text-decoration: ;
+                  ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 78, column 20)
+ (0e64ed12)
+2020-11-05T22:05:19.2153797+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-05T22:05:19.2314623+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-05T22:05:19.2339298+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-11-05T22:08:38.2985938+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        align-items: center;
+       ^
+      Invalid CSS after "...    align-items": expected "}", was ": center;"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 9, column 9)
+ (92e72985)
+2020-11-05T22:08:43.0768839+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        align-items: center;
+       ^
+      Invalid CSS after "...    align-items": expected "}", was ": center;"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 9, column 9)
+ (92e72985)
+2020-11-05T22:10:15.2036112+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        i 
+       ^
+      Property "i" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 11, column 9)
+ (66ecd92c)
+2020-11-05T22:10:18.2330171+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            wid
+           ^
+      Property "wid" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 12, column 13)
+ (ff5020ce)
+2020-11-05T22:10:18.9771421+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            width: ;
+                ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 12, column 18)
+ (2da82ce1)
+2020-11-05T22:13:20.2757082+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            tex
+           ^
+      Property "tex" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 12, column 13)
+ (92250462)
+2020-11-05T22:13:21.2885044+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            text
+           ^
+      Property "text" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 12, column 13)
+ (324267f2)
+2020-11-05T22:13:22.7268675+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            text-align: ;
+                     ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 12, column 23)
+ (0c2282b2)
+2020-11-05T22:14:00.6077337+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            trans
+           ^
+      Property "trans" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 14, column 13)
+ (4198ff02)
+2020-11-05T22:14:04.8851364+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            tr
+           ^
+      Property "tr" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 15, column 13)
+ (69bca5ac)
+2020-11-05T22:14:05.7607947+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            trans
+           ^
+      Property "trans" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 15, column 13)
+ (7360c3f4)
+2020-11-05T22:14:08.9053753+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            transform
+           ^
+      Property "transform" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 15, column 13)
+ (b99780d0)
+2020-11-05T22:14:09.5983106+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            transform: ;
+                    ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 15, column 22)
+ (a88746bf)
+2020-11-05T22:16:06.1594125+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            li
+           ^
+      Property "li" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 13, column 13)
+ (a92b737d)
+2020-11-05T22:16:11.1419626+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            ce
+           ^
+      Property "ce" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 13, column 13)
+ (c8daa09d)
+2020-11-05T22:16:13.0916986+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            li
+           ^
+      Property "li" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 13, column 13)
+ (a92b737d)
+2020-11-05T22:16:14.2019802+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            s
+           ^
+      Property "s" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 13, column 13)
+ (e0505333)
+2020-11-05T22:17:35.9731291+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            margin
+           ^
+      Property "margin" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 13, column 13)
+ (0407b9e2)
+2020-11-05T22:17:37.4544573+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            margin-ri
+           ^
+      Property "margin-ri" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 13, column 13)
+ (fc453391)
+2020-11-05T22:17:38.0815804+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            margin-right: ;
+                       ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 13, column 25)
+ (5884da92)
+2020-11-05T22:33:02.1589886+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font
+   ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 87, column 5)
+ (89958bd7)
+2020-11-05T22:33:04.2144922+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font-weight: ;
+              ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 87, column 16)
+ (a38f0f3f)
+2020-11-05T22:40:07.9104376+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    margin-right: 10px;
+                      ^
+      Invalid CSS after "...in-right: 10px;": expected "}", was "/"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 48, column 24)
+ (4d134dea)

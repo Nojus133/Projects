@@ -1,0 +1,587 @@
+2020-10-31T11:00:27.9604542+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-31T11:00:27.9728095+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-31T11:00:27.9766117+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-31T11:02:39.4924055+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:02:40.7940323+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:05:31.5994864+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:05:33.6759642+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:05:35.3278750+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:05:36.1893340+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:06:12.4201347+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:06:15.2218482+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:06:27.1946585+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(1,36): error TS2724: Module '"C:/Users/Budre/source/repos/oblig3/oblig3/ClientApp/node_modules/@angular/core/core"' has no exported member 'ngOnChanges'. Did you mean 'OnChanges'?
+    src/app/faq-kategori/faq-kategori.component.ts(10,46): error TS2304: Cannot find name 'OnChanges'.
+    
+ (632d5370)
+2020-10-31T11:06:29.5148192+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:09:38.7628638+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:09:39.9610507+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:09:49.5767862+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:11:5 - error TS1136: Property assignment expected.
+
+11     @Input() kategori: string;
+       ~
+app/faq-kategori/faq-kategori.component.ts:11:13 - error TS1146: Declaration expected.
+
+11     @Input() kategori: string;
+               
+app/faq-kategori/faq-kategori.component.ts:12:13 - error TS1146: Declaration expected.
+
+12     @Input() alleFaq: Array<any>;
+               
+app/faq-kategori/faq-kategori.component.ts:12:33 - error TS1005: '(' expected.
+
+12     @Input() alleFaq: Array<any>;
+                                   ~
+app/faq-kategori/faq-kategori.component.ts:13:24 - error TS1005: '(' expected.
+
+13     svarene: Array<any>;
+                          ~
+app/faq-kategori/faq-kategori.component.ts:17:24 - error TS1005: ',' expected.
+
+17     ngOnchanges(changes: SimpleChanges) {
+                          ~
+app/faq-kategori/faq-kategori.component.ts:17:41 - error TS1005: ';' expected.
+
+17     ngOnchanges(changes: SimpleChanges) {
+                                           ~
+app/faq-kategori/faq-kategori.component.ts:21:16 - error TS1005: ';' expected.
+
+21     ngOnInit() {
+                  ~
+app/faq-kategori/faq-kategori.component.ts:27:15 - error TS1005: ';' expected.
+
+27     hentFaq() {
+                 ~
+app/faq-kategori/faq-kategori.component.ts:31:15 - error TS1005: ';' expected.
+ (4c0521d8)
+2020-10-31T11:09:50.2331470+01:00  [ERR] 
+31     toggle(e) {
+                 ~
+app/faq-kategori/faq-kategori.component.ts:35:1 - error TS1128: Declaration or statement expected.
+
+35 }
+   ~
+
+    
+ (f1a3edde)
+2020-10-31T11:09:50.2374561+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    src/app/faq-kategori/faq-kategori.component.ts(10,58): error TS2500: A class can only implement an identifier/qualified-name with optional type arguments.
+    src/app/faq-kategori/faq-kategori.component.ts(11,24): error TS2693: 'string' only refers to a type, but is being used as a value here.
+    src/app/faq-kategori/faq-kategori.component.ts(15,17): error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+    src/app/faq-kategori/faq-kategori.component.ts(17,5): error TS2304: Cannot find name 'ngOnchanges'.
+    src/app/faq-kategori/faq-kategori.component.ts(17,17): error TS2304: Cannot find name 'changes'.
+    src/app/faq-kategori/faq-kategori.component.ts(17,26): error TS2693: 'SimpleChanges' only refers to a type, but is being used as a value here.
+    src/app/faq-kategori/faq-kategori.component.ts(18,21): error TS2304: Cannot find name 'changes'.
+    src/app/faq-kategori/faq-kategori.component.ts(21,5): error TS2304: Cannot find name 'ngOnInit'.
+    src/app/faq-kategori/faq-kategori.component.ts(27,5): error TS2304: Cannot find name 'hentFaq'.
+    src/app/faq-kategori/faq-kategori.component.ts(31,5): error TS2552: Cannot find name 'toggle'. Did you mean 'ontoggle'?
+    src/app/faq-kategori/faq-kategori.component.ts(31,12): error TS2304: Cannot find name 'e'.
+    src/app/faq-kategori/faq-kategori.component.ts(32,9): error TS2304: Cannot find name 'e'.
+    
+ (9f139aed)
+2020-10-31T11:09:52.2902061+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    src/app/faq-kategori/faq-kategori.component.ts(10,57): error TS2304: Cannot find name 'On'.
+    
+ (04353883)
+2020-10-31T11:09:54.6722348+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:10:05.7606738+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(10,14): error TS2420: Class 'FaqKategoriComponent' incorrectly implements interface 'OnChanges'.
+      Property 'ngOnChanges' is missing in type 'FaqKategoriComponent' but required in type 'OnChanges'.
+    
+ (3e64b219)
+2020-10-31T11:12:07.8812714+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(19,9): error TS2304: Cannot find name 'thi'.
+    
+ (5086fe31)
+2020-10-31T11:12:10.3077519+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:20:5 - error TS1003: Identifier expected.
+
+20     }
+       ~
+
+ (2a57046d)
+2020-10-31T11:12:15.8904140+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:20:5 - error TS1109: Expression expected.
+
+20     }
+       ~
+
+ (8df42295)
+2020-10-31T11:12:16.9799708+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:20:5 - error TS1109: Expression expected.
+
+20     }
+       ~
+
+ (8df42295)
+2020-10-31T11:12:24.2308894+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:20:5 - error TS1109: Expression expected.
+
+20     }
+       ~
+
+ (8df42295)
+2020-10-31T11:13:14.5764198+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(19,14): error TS2339: Property 'al' does not exist on type 'FaqKategoriComponent'.
+    
+ (b0aa643f)
+2020-10-31T11:13:16.9414233+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:20:5 - error TS1109: Expression expected.
+
+20     }
+       ~
+
+ (8df42295)
+2020-10-31T11:13:18.0046962+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:20:5 - error TS1109: Expression expected.
+
+20     }
+       ~
+
+ (8df42295)
+2020-10-31T11:13:25.4799414+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:20:5 - error TS1003: Identifier expected.
+
+20     }
+       ~
+
+ (2a57046d)
+2020-10-31T11:13:25.4898217+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(19,9): error TS2740: Type 'SimpleChanges' is missing the following properties from type 'any[]': length, pop, push, concat, and 26 more.
+    
+ (e9b1a155)
+2020-10-31T11:13:26.0507845+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(19,9): error TS2740: Type 'SimpleChange' is missing the following properties from type 'any[]': length, pop, push, concat, and 26 more.
+    
+ (ba9c2e35)
+2020-10-31T11:13:27.8363105+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(19,9): error TS2740: Type 'SimpleChange' is missing the following properties from type 'any[]': length, pop, push, concat, and 26 more.
+    
+ (ba9c2e35)
+2020-10-31T11:13:28.5158566+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(19,9): error TS2740: Type 'SimpleChange' is missing the following properties from type 'any[]': length, pop, push, concat, and 26 more.
+    
+ (ba9c2e35)
+2020-10-31T11:13:29.8604421+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(19,40): error TS2339: Property 'cur' does not exist on type 'SimpleChange'.
+    
+ (1a39d2ee)
+2020-10-31T11:13:47.7129223+01:00  [ERR]     ERROR in src/app/faq-kategori/faq-kategori.component.ts(20,9): error TS2304: Cannot find name 'thi'.
+    
+ (3fbb7e76)
+2020-10-31T11:13:49.9632124+01:00  [ERR] ERROR in app/faq-kategori/faq-kategori.component.ts:21:5 - error TS1003: Identifier expected.
+
+21     }
+       ~
+
+ (c021f37f)
+2020-10-31T11:21:32.1937200+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-31T11:21:32.2048923+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-31T11:21:32.2067187+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-31T11:26:29.5909965+01:00  [ERR] ERROR in app/faq/faq.component.ts:20:64 - error TS1003: Identifier expected.
+
+20       null,Validators.compose([Validators.required, Validators.])
+                                                                  ~
+
+ (34710c04)
+2020-10-31T11:26:33.1673523+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,64): error TS2339: Property 'm' does not exist on type 'typeof Validators'.
+    
+ (b7586b81)
+2020-10-31T11:26:34.3298919+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,64): error TS2339: Property 'm' does not exist on type 'typeof Validators'.
+    
+ (b7586b81)
+2020-10-31T11:26:35.1004493+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,53): error TS2322: Type '(maxLength: number) => ValidatorFn' is not assignable to type 'ValidatorFn'.
+      Types of parameters 'maxLength' and 'control' are incompatible.
+        Type 'AbstractControl' is not assignable to type 'number'.
+    
+ (6236a94c)
+2020-10-31T11:26:41.9331153+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,53): error TS2554: Expected 1 arguments, but got 0.
+    
+ (028082b5)
+2020-10-31T11:26:52.6019181+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,80): error TS2304: Cannot find name 'Vali'.
+    
+ (0db4bc47)
+2020-10-31T11:26:53.3284967+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,80): error TS2322: Type 'typeof Validators' is not assignable to type 'ValidatorFn'.
+      Type 'typeof Validators' provides no match for the signature '(control: AbstractControl): ValidationErrors'.
+    
+ (507d4508)
+2020-10-31T11:26:55.1179142+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,80): error TS2322: Type '(min: number) => ValidatorFn' is not assignable to type 'ValidatorFn'.
+      Types of parameters 'min' and 'control' are incompatible.
+        Type 'AbstractControl' is not assignable to type 'number'.
+    
+ (543070d8)
+2020-10-31T11:26:56.0190586+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,80): error TS2322: Type '(minLength: number) => ValidatorFn' is not assignable to type 'ValidatorFn'.
+      Types of parameters 'minLength' and 'control' are incompatible.
+        Type 'AbstractControl' is not assignable to type 'number'.
+    
+ (6e7198c7)
+2020-10-31T11:26:57.4655311+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(20,80): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c0fac191)
+2020-10-31T11:27:34.1982215+01:00 800004ae-0006-fc00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived'
+   at System.Net.WebSockets.WebSocketValidate.ThrowIfInvalidState(WebSocketState currentState, Boolean isDisposed, WebSocketState[] validStates)
+   at System.Net.WebSockets.ManagedWebSocket.CloseOutputAsyncCore(WebSocketCloseStatus closeStatus, String statusDescription, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2020-10-31T11:27:34.2039168+01:00 800004ae-0006-fc00-b63f-84710c7967bb [WRN] The response has already started, the error page middleware will not be executed. (e1dd4c0d)
+2020-10-31T11:27:34.2223502+01:00 800004ae-0006-fc00-b63f-84710c7967bb [ERR] Connection ID ""18158513724938257581"", Request ID ""800004ae-0006-fc00-b63f-84710c7967bb"": An unhandled exception was thrown by the application. (bf316047)
+System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived'
+   at System.Net.WebSockets.WebSocketValidate.ThrowIfInvalidState(WebSocketState currentState, Boolean isDisposed, WebSocketState[] validStates)
+   at System.Net.WebSockets.ManagedWebSocket.CloseOutputAsyncCore(WebSocketCloseStatus closeStatus, String statusDescription, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2020-10-31T13:28:41.1978796+01:00 80000555-0004-fc00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived'
+   at System.Net.WebSockets.WebSocketValidate.ThrowIfInvalidState(WebSocketState currentState, Boolean isDisposed, WebSocketState[] validStates)
+   at System.Net.WebSockets.ManagedWebSocket.CloseOutputAsyncCore(WebSocketCloseStatus closeStatus, String statusDescription, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2020-10-31T13:28:41.2026317+01:00 80000555-0004-fc00-b63f-84710c7967bb [WRN] The response has already started, the error page middleware will not be executed. (e1dd4c0d)
+2020-10-31T13:28:41.2105311+01:00 80000555-0004-fc00-b63f-84710c7967bb [ERR] Connection ID ""18158513716348323156"", Request ID ""80000555-0004-fc00-b63f-84710c7967bb"": An unhandled exception was thrown by the application. (bf316047)
+System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived'
+   at System.Net.WebSockets.WebSocketValidate.ThrowIfInvalidState(WebSocketState currentState, Boolean isDisposed, WebSocketState[] validStates)
+   at System.Net.WebSockets.ManagedWebSocket.CloseOutputAsyncCore(WebSocketCloseStatus closeStatus, String statusDescription, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2020-10-31T13:29:23.3200478+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-31T13:29:23.3337716+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-31T13:29:23.3357026+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-31T13:36:14.1616685+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-31T13:36:14.1770154+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-31T13:36:14.1808465+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-31T13:42:34.4646732+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-31T13:42:34.4812799+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-31T13:42:34.4833799+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-31T13:52:15.4488305+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+
+^
+      Invalid CSS after ".utenSvar": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 74, column 1)
+ (446a973c)
+2020-10-31T13:52:18.0239603+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    foint
+   ^
+      Property "foint" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 74, column 5)
+ (0d99e8bd)
+2020-10-31T13:52:19.0636032+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    fo
+   ^
+      Property "fo" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 74, column 5)
+ (d3a335d4)
+2020-10-31T13:52:19.7718111+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font
+   ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 74, column 5)
+ (836a9df1)
+2020-10-31T13:52:22.2216168+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font-sty
+   ^
+      Property "font-sty" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 74, column 5)
+ (188f3646)
+2020-10-31T13:52:22.9588441+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font-style: ;
+             ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 74, column 15)
+ (d9e4e94d)
+2020-10-31T14:03:01.5289421+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(19,3): error TS2304: Cannot find name 'validering'.
+    src/app/faq/faq.component.ts(29,33): error TS2339: Property 'validering' does not exist on type 'FaqComponent'.
+    
+ (2c620dad)
+2020-10-31T14:03:22.8017430+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(37,5): error TS2304: Cannot find name 'l'.
+    
+ (166ede9a)
+2020-10-31T14:03:27.1970468+01:00  [ERR] ERROR in app/faq/faq.component.ts:38:5 - error TS1109: Expression expected.
+
+38     const nySporsmaal = new Faq();
+       ~~~~~
+
+ (d6fbbdf1)
+2020-10-31T14:03:27.8262136+01:00  [ERR] ERROR in app/faq/faq.component.ts:38:5 - error TS1109: Expression expected.
+
+38     const nySporsmaal = new Faq();
+       ~~~~~
+
+ (d6fbbdf1)
+2020-10-31T14:03:56.6109402+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(45,13): error TS2304: Cannot find name 'thi'.
+    
+ (1157bbc8)
+2020-10-31T14:03:58.2720439+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(45,18): error TS2339: Property 'loa' does not exist on type 'FaqComponent'.
+    
+ (52414782)
+2020-10-31T14:04:02.2655142+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(45,28): error TS2304: Cannot find name 'fa'.
+    
+ (84529efe)
+2020-10-31T14:06:50.8497037+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+.loa
+   ^
+      Invalid CSS after ".loa": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 69, column 5)
+ (62feda7b)
+2020-10-31T14:06:51.7781729+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+.loading
+       ^
+      Invalid CSS after ".loading": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 69, column 9)
+ (b67610fb)
+2020-10-31T14:06:53.2342731+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+}
+^
+      Invalid CSS after "}": expected 1 selector or at-rule, was ".loading::"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 67, column 2)
+ (5a62f04e)
+2020-10-31T14:06:54.9728982+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+.loading::after
+              ^
+      Invalid CSS after ".loading::after": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 69, column 16)
+ (0751a046)
+2020-10-31T14:06:55.5656102+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+.loading::after 
+               ^
+      Invalid CSS after ".loading::after": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 69, column 17)
+ (aab99848)
+2020-10-31T14:06:58.5522671+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    conte
+   ^
+      Property "conte" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 70, column 5)
+ (546abd21)
+2020-10-31T14:06:59.5426963+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    content: ;
+          ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 70, column 12)
+ (fcf509c3)
+2020-10-31T14:15:29.3473434+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  posi
+ ^
+      Property "posi" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 112, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (3746dc14)
+2020-10-31T14:15:54.9709657+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    posi
+   ^
+      Property "posi" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 77, column 5)
+ (c1e294d1)
+2020-10-31T14:15:56.3073582+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    position: ;
+           ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 77, column 13)
+ (4c102c24)
+2020-10-31T14:16:56.2946409+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    height: ;
+         ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 79, column 11)
+ (ff02bef6)
+2020-10-31T14:17:11.8598020+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    top: ;
+      ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 78, column 8)
+ (34156df9)
+2020-10-31T14:20:39.5337807+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    width: 1.em;
+           ^
+      Invalid CSS after "    width: 1": expected expression (e.g. 1px, bold), was ".em;"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 80, column 13)
+ (fa2d6165)
+2020-10-31T14:20:48.2355455+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    lef
+   ^
+      Property "lef" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 79, column 5)
+ (07c471d2)
+2020-10-31T14:20:48.7523411+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    left: ;
+       ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 79, column 9)
+ (d20c6280)
+2020-10-31T14:21:15.4358916+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    tra
+   ^
+      Property "tra" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 80, column 5)
+ (4250ffda)
+2020-10-31T14:21:16.7359525+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    transform: ;
+            ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 80, column 14)
+ (9f70ab01)
+2020-10-31T14:29:04.6581529+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+}
+^
+      Invalid CSS after "}": expected 1 selector or at-rule, was "."
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 91, column 2)
+ (a5289b8f)
+2020-10-31T14:29:06.1028571+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  
+ ^
+      Invalid CSS after ".hide": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 94, column 3)
+ (fa8eb19f)
+2020-10-31T14:29:08.3619487+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    visi
+   ^
+      Property "visi" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 94, column 5)
+ (cd57696e)
+2020-10-31T14:29:09.0708563+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    visibility: ;
+             ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 94, column 15)
+ (f5d1c8a7)
+2020-10-31T14:32:55.4064443+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(37,17): error TS2304: Cannot find name 'sa'.
+    
+ (770ec389)
+2020-10-31T14:32:56.1043847+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(37,17): error TS2304: Cannot find name 's'.
+    
+ (b289e7bd)
+2020-10-31T14:32:57.1131937+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(37,17): error TS2304: Cannot find name 'skj'.
+    
+ (717628dd)
+2020-10-31T14:36:50.6990539+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    content: ;
+          ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 71, column 12)
+ (86e2e2cd)
+2020-10-31T14:37:48.2397600+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font
+   ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 70, column 5)
+ (79588afa)
+2020-10-31T14:37:49.5520995+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    font-style: ;
+             ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 70, column 15)
+ (a770695a)

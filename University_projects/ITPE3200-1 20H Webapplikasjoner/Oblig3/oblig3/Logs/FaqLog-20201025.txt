@@ -1,0 +1,288 @@
+2020-10-25T18:18:31.1448816+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-25T18:18:31.1825329+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-25T18:18:31.1871614+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-25T18:22:39.1428694+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-25T18:22:39.1676756+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-25T18:22:39.1711465+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-25T21:03:33.6076211+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-25T21:03:33.6195361+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-25T21:03:33.6223617+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-25T21:06:26.8638092+01:00  [ERR] ERROR in app/faq/faq.component.ts:16:14 - error TS1005: ';' expected.
+
+16   constructor(private _http: HttpClient) {}
+                ~
+app/faq/faq.component.ts:16:42 - error TS1005: '=>' expected.
+
+16   constructor(private _http: HttpClient) {}
+                                            ~
+app/faq/faq.component.ts:18:14 - error TS1005: ';' expected.
+
+18   ngOnInit() {
+                ~
+app/faq/faq.component.ts:22:13 - error TS1005: ';' expected.
+
+22   toggle(e) {
+               ~
+app/faq/faq.component.ts:27:17 - error TS1005: ';' expected.
+
+27   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:41:1 - error TS1128: Declaration or statement expected.
+
+41 }
+   ~
+
+ (dc56531e)
+2020-10-25T21:06:27.4912911+01:00  [ERR] ERROR in app/faq/faq.component.ts:16:14 - error TS1005: ';' expected.
+
+16   constructor(private _http: HttpClient) {}
+                ~
+app/faq/faq.component.ts:16:42 - error TS1005: '=>' expected.
+
+16   constructor(private _http: HttpClient) {}
+                                            ~
+app/faq/faq.component.ts:18:14 - error TS1005: ';' expected.
+
+18   ngOnInit() {
+                ~
+app/faq/faq.component.ts:22:13 - error TS1005: ';' expected.
+
+22   toggle(e) {
+               ~
+app/faq/faq.component.ts:27:17 - error TS1005: ';' expected.
+
+27   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:41:1 - error TS1128: Declaration or statement expected.
+
+41 }
+   ~
+
+ (dc56531e)
+2020-10-25T21:06:27.5408807+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(16,3): error TS2304: Cannot find name 'constructor'.
+    src/app/faq/faq.component.ts(16,15): error TS2369: A parameter property is only allowed in a constructor implementation.
+    src/app/faq/faq.component.ts(18,3): error TS2304: Cannot find name 'ngOnInit'.
+    src/app/faq/faq.component.ts(22,3): error TS2552: Cannot find name 'toggle'. Did you mean 'ontoggle'?
+    src/app/faq/faq.component.ts(22,10): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(23,5): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(27,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(28,5): error TS2347: Untyped function calls may not accept type arguments.
+    
+ (ee813b3c)
+2020-10-25T21:06:28.0494264+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(16,3): error TS2304: Cannot find name 'constructor'.
+    src/app/faq/faq.component.ts(16,15): error TS2369: A parameter property is only allowed in a constructor implementation.
+    src/app/faq/faq.component.ts(18,3): error TS2304: Cannot find name 'ngOnInit'.
+    src/app/faq/faq.component.ts(22,3): error TS2552: Cannot find name 'toggle'. Did you mean 'ontoggle'?
+    src/app/faq/faq.component.ts(22,10): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(23,5): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(27,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(28,5): error TS2347: Untyped function calls may not accept type arguments.
+    
+ (ee813b3c)
+2020-10-25T21:06:30.2879590+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(14,19): error TS2304: Cannot find name 'Arr'.
+    
+ (7a956876)
+2020-10-25T21:06:33.7952606+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(14,19): error TS2314: Generic type 'Array<T>' requires 1 type argument(s).
+    
+ (6f838265)
+2020-10-25T21:06:36.7848765+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(14,19): error TS2314: Generic type 'Array<T>' requires 1 type argument(s).
+    
+ (6f838265)
+2020-10-25T21:06:48.3906536+01:00  [ERR] ERROR in app/faq/faq.component.ts:14:25 - error TS1005: '>' expected.
+
+14   alleKategorier: Array<;
+                           ~
+
+ (b0c50637)
+2020-10-25T21:06:48.9667643+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(14,19): error TS2314: Generic type 'Array<T>' requires 1 type argument(s).
+    
+ (6f838265)
+2020-10-25T21:06:49.7806325+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(14,19): error TS2314: Generic type 'Array<T>' requires 1 type argument(s).
+    src/app/faq/faq.component.ts(14,24): error TS1099: Type argument list cannot be empty.
+    
+ (fcacfff1)
+2020-10-25T21:06:53.0595093+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(14,25): error TS2304: Cannot find name 's'.
+    
+ (51ebed45)
+2020-10-25T21:07:20.6401647+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(39,3): error TS2391: Function implementation is missing or not immediately following the declaration.
+    
+ (99cd756f)
+2020-10-25T21:07:28.4928823+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(39,3): error TS2391: Function implementation is missing or not immediately following the declaration.
+    
+ (99cd756f)
+2020-10-25T21:07:30.0027659+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(39,3): error TS2391: Function implementation is missing or not immediately following the declaration.
+    
+ (99cd756f)
+2020-10-25T21:07:45.7150786+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,13): error TS2304: Cannot find name 'get'.
+    
+ (2571ed03)
+2020-10-25T21:07:48.7393826+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,13): error TS2304: Cannot find name 'getAll'.
+    
+ (30bd3b0a)
+2020-10-25T21:07:57.0225832+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,13): error TS2554: Expected 1 arguments, but got 0.
+    
+ (582a1868)
+2020-10-25T21:07:58.9283719+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,36): error TS2304: Cannot find name 'sva'.
+    
+ (a9f4b2ba)
+2020-10-25T21:08:07.7825883+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(41,5): error TS2304: Cannot find name 'lis'.
+    
+ (015cdd48)
+2020-10-25T21:08:11.8412230+01:00  [ERR] ERROR in app/faq/faq.component.ts:42:3 - error TS1003: Identifier expected.
+
+42   }
+     ~
+
+ (835fdf70)
+2020-10-25T21:09:42.3607511+01:00  [ERR] ERROR in app/faq/faq.component.ts:41:11 - error TS1003: Identifier expected.
+
+41     liste..map(item => item.age)
+             ~
+
+ (2c4cc2a3)
+2020-10-25T21:10:45.2057861+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(41,20): error TS2304: Cannot find name 'item'.
+    
+ (ac93e593)
+2020-10-25T21:11:09.9890246+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(41,5): error TS2552: Cannot find name 'reliste'. Did you mean 'liste'?
+    
+ (e2ef3b2d)
+2020-10-25T21:11:17.5467123+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,13): error TS2304: Cannot find name 'thisthis'.
+    
+ (3c1c8c9d)
+2020-10-25T21:11:18.2497049+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,18): error TS2339: Property 'this' does not exist on type 'FaqComponent'.
+    
+ (50deac11)
+2020-10-25T21:11:20.1207474+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,18): error TS2339: Property 'a├╕this' does not exist on type 'FaqComponent'.
+    
+ (50da9dc0)
+2020-10-25T21:11:21.5830089+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,18): error TS2339: Property 'athis' does not exist on type 'FaqComponent'.
+    
+ (fae13156)
+2020-10-25T21:11:22.8077731+01:00  [ERR] ERROR in app/faq/faq.component.ts:33:22 - error TS1005: ';' expected.
+
+33             this.all this.getAlleKategorier(svarene);
+                        ~~~~
+
+ (08e1a33f)
+2020-10-25T21:11:22.8647856+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,18): error TS2339: Property 'allthis' does not exist on type 'FaqComponent'.
+    
+ (a3ed66e3)
+2020-10-25T21:11:23.4516928+01:00  [ERR] ERROR in app/faq/faq.component.ts:33:23 - error TS1005: ';' expected.
+
+33             this.alle this.getAlleKategorier(svarene);
+                         ~~~~
+
+ (1be520bd)
+2020-10-25T21:11:23.5331606+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,18): error TS2339: Property 'all' does not exist on type 'FaqComponent'.
+    
+ (1d067666)
+2020-10-25T21:11:24.3302017+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(33,18): error TS2339: Property 'alle' does not exist on type 'FaqComponent'.
+    
+ (7bb71d9e)
+2020-10-25T21:11:25.0742770+01:00  [ERR] ERROR in app/faq/faq.component.ts:33:33 - error TS1005: ';' expected.
+
+33             this.alleKategorier this.getAlleKategorier(svarene);
+                                   ~~~~
+
+ (3a0e3575)
+2020-10-25T21:11:27.3393963+01:00  [ERR] ERROR in app/faq/faq.component.ts:33:34 - error TS1005: ';' expected.
+
+33             this.alleKategorier  this.getAlleKategorier(svarene);
+                                    ~~~~
+
+ (02ee168e)
+2020-10-25T21:12:29.7634845+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(34,30): error TS2339: Property 'alle' does not exist on type 'FaqComponent'.
+    
+ (cd7f0024)
+2020-10-25T21:12:31.1581299+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(34,30): error TS2339: Property 'alleK' does not exist on type 'FaqComponent'.
+    
+ (fd5bd57d)
+2020-10-25T21:13:17.7243079+01:00  [ERR] ERROR in app/faq/faq.component.ts:44:6 - error TS1003: Identifier expected.
+
+44     .;
+        ~
+
+ (641361e8)
+2020-10-25T21:13:33.9115190+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(44,10): error TS2304: Cannot find name 'e'.
+    
+ (28877bb8)
+2020-10-25T21:13:34.7686205+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(44,10): error TS2304: Cannot find name 'e'.
+    
+ (28877bb8)
+2020-10-25T21:13:35.2491623+01:00  [ERR] ERROR in app/faq/faq.component.ts:44:12 - error TS1005: ',' expected.
+
+44     .map(e 0);
+              ~
+
+ (04748b4c)
+2020-10-25T21:13:35.8934946+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(44,10): error TS2304: Cannot find name 'e'.
+    
+ (28877bb8)
+2020-10-25T21:13:36.5778636+01:00  [ERR] ERROR in app/faq/faq.component.ts:44:13 - error TS1109: Expression expected.
+
+44     .map(e =);
+               ~
+
+ (25f22299)
+2020-10-25T21:13:36.5981058+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(44,10): error TS2304: Cannot find name 'e'.
+    
+ (28877bb8)
+2020-10-25T21:13:37.2169713+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(44,10): error TS2304: Cannot find name 'e'.
+    
+ (28877bb8)
+2020-10-25T21:13:37.3797739+01:00  [ERR] ERROR in app/faq/faq.component.ts:44:14 - error TS1109: Expression expected.
+
+44     .map(e =>);
+                ~
+
+ (b4f60601)
+2020-10-25T21:13:38.1166760+01:00  [ERR] ERROR in app/faq/faq.component.ts:44:15 - error TS1109: Expression expected.
+
+44     .map(e => );
+                 ~
+
+ (c2be5f7d)
+2020-10-25T21:13:39.4142727+01:00  [ERR] ERROR in app/faq/faq.component.ts:44:17 - error TS1003: Identifier expected.
+
+44     .map(e => e.);
+                   ~
+
+ (b543592c)
+2020-10-25T21:16:14.3759202+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(14,25): error TS2304: Cannot find name 's'.
+    
+ (51ebed45)
+2020-10-25T21:46:46.7960616+01:00  [ERR] ERROR in app/faq/faq.component.ts:13:10 - error TS1005: ';' expected.
+
+13   alleFaq: Array<Faq>;
+            ~
+app/faq/faq.component.ts:13:22 - error TS1005: '(' expected.
+
+13   alleFaq: Array<Faq>;
+                        ~
+
+ (3f963aa2)
+2020-10-25T21:46:47.2922697+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(13,3): error TS2304: Cannot find name 'alleFaq'.
+    src/app/faq/faq.component.ts(13,12): error TS2391: Function implementation is missing or not immediately following the declaration.
+    src/app/faq/faq.component.ts(31,18): error TS2339: Property 'alleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(34,30): error TS2339: Property 'alleFaq' does not exist on type 'FaqComponent'.
+    
+ (8a6942ec)
+2020-10-25T21:47:38.6612811+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,21): error TS2304: Cannot find name 'num'.
+    
+ (30430637)
+2020-10-25T21:47:40.3920504+01:00  [ERR] ERROR in app/faq/faq.component.ts:13:10 - error TS1005: ';' expected.
+
+13   alleFaq: Array<Faq>;
+            ~
+app/faq/faq.component.ts:13:22 - error TS1005: '(' expected.
+
+13   alleFaq: Array<Faq>;
+                        ~
+
+ (3f963aa2)
+2020-10-25T21:47:40.9324768+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(13,3): error TS2304: Cannot find name 'alleFaq'.
+    src/app/faq/faq.component.ts(13,12): error TS2391: Function implementation is missing or not immediately following the declaration.
+    src/app/faq/faq.component.ts(31,18): error TS2339: Property 'alleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(34,30): error TS2339: Property 'alleFaq' does not exist on type 'FaqComponent'.
+    
+ (8a6942ec)

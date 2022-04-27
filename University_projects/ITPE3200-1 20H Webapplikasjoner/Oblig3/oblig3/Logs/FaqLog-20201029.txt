@@ -1,0 +1,1313 @@
+2020-10-29T08:57:11.6286148+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T08:57:11.6414629+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T08:57:11.6436699+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T09:21:45.9665642+01:00  [ERR] ERROR in app/faq/faq.component.ts:18:14 - error TS1005: ';' expected.
+
+18   constructor(private _http: HttpClient) {}
+                ~
+app/faq/faq.component.ts:18:42 - error TS1005: '=>' expected.
+
+18   constructor(private _http: HttpClient) {}
+                                            ~
+app/faq/faq.component.ts:20:14 - error TS1005: ';' expected.
+
+20   ngOnInit() {
+                ~
+app/faq/faq.component.ts:26:17 - error TS1005: ';' expected.
+
+26   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:39:28 - error TS1005: ';' expected.
+
+39   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:44:18 - error TS1005: ';' expected.
+
+44   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:48:1 - error TS1128: Declaration or statement expected.
+
+48 }
+   ~
+
+ (909159be)
+2020-10-29T09:21:48.5352980+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(18,3): error TS2304: Cannot find name 'constructor'.
+    src/app/faq/faq.component.ts(18,15): error TS2369: A parameter property is only allowed in a constructor implementation.
+    src/app/faq/faq.component.ts(20,3): error TS2304: Cannot find name 'ngOnInit'.
+    src/app/faq/faq.component.ts(26,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(27,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(39,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(39,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(44,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(44,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(45,5): error TS2304: Cannot find name 'e'.
+    
+ (1e2c9d86)
+2020-10-29T09:21:50.5160158+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(16,11): error TS2304: Cannot find name 'form'.
+    
+ (a092ca88)
+2020-10-29T09:21:51.7727770+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(16,11): error TS2304: Cannot find name 'form'.
+    
+ (a092ca88)
+2020-10-29T09:21:52.8660544+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(16,11): error TS2304: Cannot find name 'form'.
+    
+ (a092ca88)
+2020-10-29T09:21:57.9967507+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(16,11): error TS2304: Cannot find name 'formgro'.
+    
+ (35c5f8fc)
+2020-10-29T09:23:25.7797590+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(19,33): error TS2339: Property 'validering' does not exist on type 'FaqComponent'.
+    
+ (6a1d761f)
+2020-10-29T09:23:28.7237231+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(21,33): error TS2339: Property 'validering' does not exist on type 'FaqComponent'.
+    
+ (b4d61efb)
+2020-10-29T09:23:30.8725992+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(21,33): error TS2339: Property 'validering' does not exist on type 'FaqComponent'.
+    
+ (b4d61efb)
+2020-10-29T09:23:42.8873968+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(21,33): error TS2339: Property 'validering' does not exist on type 'FaqComponent'.
+    
+ (b4d61efb)
+2020-10-29T09:29:22.4014680+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 34:14
+Module parse failed: Unexpected token (34:14)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|     }
+|     lagreFaq() {
+>         const ;
+|     }
+|     hentAlleFaq() {
+ (c2c70479)
+2020-10-29T09:29:23.2566632+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(34,10): error TS1123: Variable declaration list cannot be empty.
+    
+ (44775040)
+2020-10-29T09:29:38.7898200+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 34:15
+Module parse failed: Unexpected token (34:15)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|     }
+|     lagreFaq() {
+>         const n;
+|     }
+|     hentAlleFaq() {
+ (72a496a7)
+2020-10-29T09:29:39.6658401+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(34,11): error TS1155: 'const' declarations must be initialized.
+    
+ (aaae295c)
+2020-10-29T09:29:41.7383637+01:00  [ERR] ERROR in app/faq/faq.component.ts:35:3 - error TS1109: Expression expected.
+
+35   }
+     ~
+
+ERROR in ./src/app/faq/faq.component.ts 34:15
+Module parse failed: Unexpected token (34:15)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|     }
+|     lagreFaq() {
+>         const n;
+|     }
+|     hentAlleFaq() {
+ (4daaf079)
+2020-10-29T09:29:45.0724652+01:00  [ERR] ERROR in app/faq/faq.component.ts:35:3 - error TS1109: Expression expected.
+
+35   }
+     ~
+
+ERROR in ./src/app/faq/faq.component.ts 34:15
+Module parse failed: Unexpected token (34:15)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|     }
+|     lagreFaq() {
+>         const n;
+|     }
+|     hentAlleFaq() {
+ (4daaf079)
+2020-10-29T09:29:49.8345362+01:00  [ERR] ERROR in app/faq/faq.component.ts:34:29 - error TS1005: ',' expected.
+
+34     const nyFaq = new Faq() {
+                               ~
+
+ (b2dd2da0)
+2020-10-29T09:29:51.3857502+01:00  [ERR] ERROR in app/faq/faq.component.ts:34:29 - error TS1005: ',' expected.
+
+34     const nyFaq = new Faq() {}
+                               ~
+
+ (aeb10e68)
+2020-10-29T09:30:03.6280191+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(35,5): error TS2304: Cannot find name 'ny'.
+    
+ (197eab0a)
+2020-10-29T09:30:04.2366250+01:00  [ERR] ERROR in app/faq/faq.component.ts:36:3 - error TS1003: Identifier expected.
+
+36   }
+     ~
+
+ (ba62cbcb)
+2020-10-29T09:30:06.4156892+01:00  [ERR] ERROR in app/faq/faq.component.ts:36:3 - error TS1109: Expression expected.
+
+36   }
+     ~
+
+ (55f5f8a5)
+2020-10-29T09:30:07.1797047+01:00  [ERR] ERROR in app/faq/faq.component.ts:36:3 - error TS1109: Expression expected.
+
+36   }
+     ~
+
+ (55f5f8a5)
+2020-10-29T09:30:24.0309443+01:00  [ERR] ERROR in app/faq/faq.component.ts:35:12 - error TS1003: Identifier expected.
+
+35     nyFaq. =
+              ~
+app/faq/faq.component.ts:36:3 - error TS1109: Expression expected.
+
+36   }
+     ~
+
+ (090c1423)
+2020-10-29T09:31:01.5307752+01:00  [ERR] ERROR in app/faq/faq.component.ts:36:3 - error TS1109: Expression expected.
+
+36   }
+     ~
+
+ (55f5f8a5)
+2020-10-29T09:31:03.3445000+01:00  [ERR] ERROR in app/faq/faq.component.ts:36:3 - error TS1109: Expression expected.
+
+36   }
+     ~
+
+ (55f5f8a5)
+2020-10-29T09:31:27.0515451+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(35,5): error TS2322: Type 'this' is not assignable to type 'string'.
+      Type 'FaqComponent' is not assignable to type 'string'.
+    
+ (e7f5949a)
+2020-10-29T09:31:29.0719963+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(35,5): error TS2322: Type 'FormGroup' is not assignable to type 'string'.
+    
+ (3a2bd1df)
+2020-10-29T09:31:30.4082394+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(35,34): error TS2339: Property 'va' does not exist on type 'FormGroup'.
+    
+ (83b92373)
+2020-10-29T09:31:33.2209246+01:00  [ERR] ERROR in app/faq/faq.component.ts:36:3 - error TS1003: Identifier expected.
+
+36   }
+     ~
+
+ (ba62cbcb)
+2020-10-29T09:31:51.1766148+01:00  [ERR] ERROR in app/faq/faq.component.ts:37:3 - error TS1003: Identifier expected.
+
+37   }
+     ~
+
+ (e9ff0b80)
+2020-10-29T09:32:15.1846480+01:00  [ERR] ERROR in app/faq/faq.component.ts:37:3 - error TS1109: Expression expected.
+
+37   }
+     ~
+
+ (d48b0bf0)
+2020-10-29T09:32:17.3109212+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(36,5): error TS2322: Type 'this' is not assignable to type 'string'.
+      Type 'FaqComponent' is not assignable to type 'string'.
+    
+ (785bde60)
+2020-10-29T09:32:18.8528573+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(36,5): error TS2322: Type 'this' is not assignable to type 'string'.
+      Type 'FaqComponent' is not assignable to type 'string'.
+    
+ (785bde60)
+2020-10-29T09:32:20.1258408+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(36,5): error TS2322: Type 'FormGroup' is not assignable to type 'string'.
+    
+ (a11ef130)
+2020-10-29T09:32:26.0158532+01:00  [ERR] ERROR in app/faq/faq.component.ts:37:6 - error TS1127: Invalid character.
+
+37     N\nyFaq
+        
+
+ (73b6ff74)
+2020-10-29T09:32:26.7365448+01:00  [ERR] ERROR in app/faq/faq.component.ts:37:6 - error TS1127: Invalid character.
+
+37     N\nyFaq.
+        
+app/faq/faq.component.ts:38:3 - error TS1003: Identifier expected.
+
+38   }
+     ~
+
+ (ce30368d)
+2020-10-29T09:32:26.9176135+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(37,5): error TS2304: Cannot find name 'N'.
+    
+ (f60dfa4e)
+2020-10-29T09:32:28.1085315+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(37,5): error TS2304: Cannot find name 'N'.
+    
+ (f60dfa4e)
+2020-10-29T09:32:30.2208754+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(37,5): error TS2304: Cannot find name 'N'.
+    
+ (f60dfa4e)
+2020-10-29T09:32:31.5100814+01:00  [ERR] ERROR in app/faq/faq.component.ts:38:3 - error TS1003: Identifier expected.
+
+38   }
+     ~
+
+ (31f730bd)
+2020-10-29T09:32:31.6752438+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(37,5): error TS2304: Cannot find name 'ny'.
+    
+ (a82f25ec)
+2020-10-29T09:32:42.9719098+01:00  [ERR] ERROR in app/faq/faq.component.ts:39:3 - error TS1003: Identifier expected.
+
+39   }
+     ~
+
+ (a10deb55)
+2020-10-29T09:33:35.1185355+01:00  [ERR] ERROR in app/faq/faq.component.ts:51:17 - error TS1005: ';' expected.
+
+51   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:64:28 - error TS1005: ';' expected.
+
+64   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:69:18 - error TS1005: ';' expected.
+
+69   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:73:1 - error TS1128: Declaration or statement expected.
+
+73 }
+   ~
+
+ (bfa18b01)
+2020-10-29T09:33:36.3150652+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(30,10): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(40,34): error TS2304: Cannot find name 'lagretKunde'.
+    src/app/faq/faq.component.ts(42,18): error TS2339: Property 'hentAlleKunder' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(43,18): error TS2339: Property 'visSkjemaRegistrere' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(44,18): error TS2339: Property 'visListe' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(51,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(52,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(64,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(64,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(69,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(69,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(70,5): error TS2304: Cannot find name 'e'.
+    
+ (96e82bed)
+2020-10-29T09:33:38.4429057+01:00  [ERR] ERROR in app/faq/faq.component.ts:51:17 - error TS1005: ';' expected.
+
+51   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:64:28 - error TS1005: ';' expected.
+
+64   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:69:18 - error TS1005: ';' expected.
+
+69   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:73:1 - error TS1128: Declaration or statement expected.
+
+73 }
+   ~
+
+ (bfa18b01)
+2020-10-29T09:33:39.0699417+01:00  [ERR] ERROR in app/faq/faq.component.ts:51:17 - error TS1005: ';' expected.
+
+51   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:64:28 - error TS1005: ';' expected.
+
+64   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:69:18 - error TS1005: ';' expected.
+
+69   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:73:1 - error TS1128: Declaration or statement expected.
+
+73 }
+   ~
+
+ (bfa18b01)
+2020-10-29T09:33:39.6064380+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(30,10): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(40,34): error TS2304: Cannot find name 'nyF'.
+    src/app/faq/faq.component.ts(42,18): error TS2339: Property 'hentAlleKunder' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(43,18): error TS2339: Property 'visSkjemaRegistrere' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(44,18): error TS2339: Property 'visListe' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(51,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(52,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(64,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(64,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(69,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(69,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(70,5): error TS2304: Cannot find name 'e'.
+    
+ (bcf7cf63)
+2020-10-29T09:33:40.6143999+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(30,10): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(42,18): error TS2339: Property 'hentAlleKunder' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(43,18): error TS2339: Property 'visSkjemaRegistrere' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(44,18): error TS2339: Property 'visListe' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(51,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(52,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(64,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(64,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(69,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(69,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(70,5): error TS2304: Cannot find name 'e'.
+    
+ (c466241a)
+2020-10-29T09:33:53.3568551+01:00  [ERR] ERROR in app/faq/faq.component.ts:51:17 - error TS1005: ';' expected.
+
+51   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:64:28 - error TS1005: ';' expected.
+
+64   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:69:18 - error TS1005: ';' expected.
+
+69   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:73:1 - error TS1128: Declaration or statement expected.
+
+73 }
+   ~
+
+ (bfa18b01)
+2020-10-29T09:33:54.2577665+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(30,10): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(42,18): error TS2339: Property 'hent' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(43,18): error TS2339: Property 'visSkjemaRegistrere' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(44,18): error TS2339: Property 'visListe' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(51,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(52,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(64,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(64,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(69,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(69,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(70,5): error TS2304: Cannot find name 'e'.
+    
+ (2d60870e)
+2020-10-29T09:33:54.6387488+01:00  [ERR] ERROR in app/faq/faq.component.ts:51:17 - error TS1005: ';' expected.
+
+51   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:64:28 - error TS1005: ';' expected.
+
+64   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:69:18 - error TS1005: ';' expected.
+
+69   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:73:1 - error TS1128: Declaration or statement expected.
+
+73 }
+   ~
+
+ (bfa18b01)
+2020-10-29T09:33:55.7139244+01:00  [ERR] ERROR in app/faq/faq.component.ts:51:17 - error TS1005: ';' expected.
+
+51   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:64:28 - error TS1005: ';' expected.
+
+64   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:69:18 - error TS1005: ';' expected.
+
+69   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:73:1 - error TS1128: Declaration or statement expected.
+
+73 }
+   ~
+
+ (bfa18b01)
+2020-10-29T09:33:55.7320280+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(30,10): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(42,18): error TS2339: Property 'hentAlle' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(43,18): error TS2339: Property 'visSkjemaRegistrere' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(44,18): error TS2339: Property 'visListe' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(51,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(52,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(64,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(64,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(69,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(69,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(70,5): error TS2304: Cannot find name 'e'.
+    
+ (bcbb8245)
+2020-10-29T09:33:56.5910282+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(30,10): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(42,18): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(43,18): error TS2339: Property 'visSkjemaRegistrere' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(44,18): error TS2339: Property 'visListe' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(51,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(52,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(64,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(64,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(69,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(69,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(70,5): error TS2304: Cannot find name 'e'.
+    
+ (b6ec4ed4)
+2020-10-29T09:34:30.0965012+01:00  [ERR] ERROR in app/faq/faq.component.ts:50:17 - error TS1005: ';' expected.
+
+50   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:63:28 - error TS1005: ';' expected.
+
+63   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:68:18 - error TS1005: ';' expected.
+
+68   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:72:1 - error TS1128: Declaration or statement expected.
+
+72 }
+   ~
+
+ (6eeb9680)
+2020-10-29T09:34:31.0192863+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(30,10): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(42,18): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(50,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(51,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(63,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(63,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(68,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(68,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(69,5): error TS2304: Cannot find name 'e'.
+    
+ (ea4c9a05)
+2020-10-29T09:34:36.2050575+01:00  [ERR] ERROR in app/faq/faq.component.ts:50:17 - error TS1005: ';' expected.
+
+50   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:63:28 - error TS1005: ';' expected.
+
+63   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:68:18 - error TS1005: ';' expected.
+
+68   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:72:1 - error TS1128: Declaration or statement expected.
+
+72 }
+   ~
+
+ (6eeb9680)
+2020-10-29T09:34:37.0010969+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(30,10): error TS2339: Property 'hentAlleFaq' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(50,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(51,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(63,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(63,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(68,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(68,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(69,5): error TS2304: Cannot find name 'e'.
+    
+ (fabded19)
+2020-10-29T09:43:39.5783063+01:00  [ERR]     ERROR in src/app/app.module.ts(3,23): error TS2305: Module '"C:/Users/Budre/source/repos/oblig3/oblig3/ClientApp/node_modules/@angular/forms/forms"' has no exported member 'Re'.
+    
+ (a7e7db63)
+2020-10-29T09:43:49.9002096+01:00  [ERR]     ERROR in src/app/app.module.ts(27,5): error TS2304: Cannot find name 'Rea'.
+    
+ (8a2645fc)
+2020-10-29T09:43:51.1290279+01:00  [ERR]     ERROR in src/app/app.module.ts(27,5): error TS2304: Cannot find name 'Reac'.
+    
+ (a83bfaa3)
+2020-10-29T09:49:14.9317804+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(22,5): error TS18004: No value exists in scope for the shorthand property 'kategor'. Either declare one or provide an initializer.
+    
+ (75cad680)
+2020-10-29T09:49:15.3075478+01:00  [ERR] ERROR in app/faq/faq.component.ts:23:3 - error TS1109: Expression expected.
+
+23   }
+     ~
+
+ (37c44f27)
+2020-10-29T09:49:16.0910246+01:00  [ERR] ERROR in app/faq/faq.component.ts:23:3 - error TS1109: Expression expected.
+
+23   }
+     ~
+
+ (37c44f27)
+2020-10-29T10:01:44.9829408+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  back
+ ^
+      Property "back" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (57d12b32)
+2020-10-29T10:01:45.6303684+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  backgr
+ ^
+      Property "backgr" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (c26dc644)
+2020-10-29T10:01:51.1049846+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  background
+ ^
+      Property "background" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (1a710827)
+2020-10-29T10:01:52.7297249+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  background-co
+ ^
+      Property "background-co" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (38f58e96)
+2020-10-29T10:01:52.9135726+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  background-color: ;
+                 ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 19)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (f7c01690)
+2020-10-29T10:02:12.9190566+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+}
+^
+      Invalid CSS after "}": expected 1 selector or at-rule, was ".:disabled,"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 119, column 2)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (365ec666)
+2020-10-29T10:02:16.4582756+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+}
+^
+      Invalid CSS after "}": expected 1 selector or at-rule, was ".btn1:disabled,"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 119, column 2)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (d5bb664b)
+2020-10-29T10:02:26.9384753+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  ligh
+ ^
+      Property "ligh" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (c86199ec)
+2020-10-29T10:02:28.3657707+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  b
+ ^
+      Property "b" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (97f0e16f)
+2020-10-29T10:02:29.1708164+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  back
+ ^
+      Property "back" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (57d12b32)
+2020-10-29T10:02:30.8823482+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  background-color: ;
+                 ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 19)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (f7c01690)
+2020-10-29T10:02:38.2784005+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  background-color: lighten($color: #, $amount: 0);
+                                   ^
+      Invalid CSS after "...lighten($color:": expected expression (e.g. 1px, bold), was "#, $amount: 0);"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 37)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (3c6ec7de)
+2020-10-29T10:02:38.7524970+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  background-color: lighten($color: , $amount: 0);
+                                   ^
+      Invalid CSS after "...lighten($color:": expected expression (e.g. 1px, bold), was ", $amount: 0);"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 37)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (c85b04dc)
+2020-10-29T10:02:39.6740453+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  background-color: lighten($, $amount: 0);
+                           ^
+      Invalid CSS after "...color: lighten(": expected expression (e.g. 1px, bold), was "$, $amount: 0);"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 29)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (0b49eb3c)
+2020-10-29T10:02:40.3162255+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  background-color: lighten(, $amount: 0);
+                          ^
+      Invalid CSS after "...color: lighten(": expected ")", was ", $amount: 0);"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 123, column 28)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (ce803645)
+2020-10-29T10:03:35.7317689+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  curs
+ ^
+      Property "curs" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 124, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (923ceeae)
+2020-10-29T10:03:37.7291938+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  cursor: ;
+       ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 124, column 9)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (8afa3230)
+2020-10-29T10:03:41.1782130+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  cursor: ;
+       ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 124, column 9)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (8afa3230)
+2020-10-29T10:05:09.1876565+01:00 80000110-0001-fb00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived'
+   at System.Net.WebSockets.WebSocketValidate.ThrowIfInvalidState(WebSocketState currentState, Boolean isDisposed, WebSocketState[] validStates)
+   at System.Net.WebSockets.ManagedWebSocket.CloseOutputAsyncCore(WebSocketCloseStatus closeStatus, String statusDescription, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-10-29T10:05:09.1977032+01:00 80000110-0001-fb00-b63f-84710c7967bb [WRN] The response has already started, the error page middleware will not be executed. (e1dd4c0d)
+2020-10-29T10:05:09.2308334+01:00 80000110-0001-fb00-b63f-84710c7967bb [ERR] Connection ID ""18086456109425492239"", Request ID ""80000110-0001-fb00-b63f-84710c7967bb"": An unhandled exception was thrown by the application. (bf316047)
+System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived'
+   at System.Net.WebSockets.WebSocketValidate.ThrowIfInvalidState(WebSocketState currentState, Boolean isDisposed, WebSocketState[] validStates)
+   at System.Net.WebSockets.ManagedWebSocket.CloseOutputAsyncCore(WebSocketCloseStatus closeStatus, String statusDescription, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2020-10-29T10:23:43.4212366+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+aler
+   ^
+      Invalid CSS after "aler": expected "{", was ""
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 127, column 5)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (c283903c)
+2020-10-29T10:23:50.1009248+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  font
+ ^
+      Property "font" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 128, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (bdc36912)
+2020-10-29T10:23:50.8668008+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  font-si
+ ^
+      Property "font-si" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 128, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (351d7aa2)
+2020-10-29T10:23:51.6418210+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  font-size: ;
+          ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 128, column 12)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (8ae32854)
+2020-10-29T10:23:52.5599369+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  font-size: 1.;
+             ^
+      Invalid CSS after "  font-size: 1": expected expression (e.g. 1px, bold), was ".;"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 128, column 15)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (db3263ec)
+2020-10-29T10:23:56.4382749+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  col
+ ^
+      Property "col" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 129, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (0cb965f1)
+2020-10-29T10:23:58.2341596+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  color: ;
+      ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 129, column 8)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (ef29a62d)
+2020-10-29T10:24:15.9830332+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  m
+ ^
+      Property "m" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 130, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (1944bfb4)
+2020-10-29T10:24:19.3607931+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  p
+ ^
+      Property "p" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 131, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (c8b0b1ca)
+2020-10-29T10:24:35.8853723+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  color: #;
+        ^
+      Invalid CSS after "  color:": expected expression (e.g. 1px, bold), was "#;"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 129, column 10)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (a0c98cbd)
+2020-10-29T10:26:23.4208367+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  visi
+ ^
+      Property "visi" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 136, column 3)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (6b0784ef)
+2020-10-29T10:26:23.9571127+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  visibility: ;
+           ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 136, column 13)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (1ec653f0)
+2020-10-29T10:26:27.1238138+01:00  [ERR] ERROR in ./src/styles.scss
+Module build failed (from ./node_modules/mini-css-extract-plugin/dist/loader.js):
+ModuleBuildError: Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+  visibility: ;
+           ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\styles.scss (line 136, column 13)
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\webpack\lib\NormalModule.js:313:20
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:367:11
+    at C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:233:18
+    at context.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\loader-runner\lib\LoaderRunner.js:111:13)
+    at Object.callback (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\sass-loader\lib\loader.js:90:7)
+    at Object.done [as callback] (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\neo-async\async.js:8067:18)
+    at options.error (C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\node_modules\node-sass\lib\index.js:294:32)
+ (1ec653f0)
+2020-10-29T10:28:12.0609808+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        mar
+       ^
+      Property "mar" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 63, column 9)
+ (b6dfa2ed)
+2020-10-29T10:28:12.8183009+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        margin
+       ^
+      Property "margin" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 63, column 9)
+ (a79d3344)
+2020-10-29T10:28:14.8562257+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        margin-bo
+       ^
+      Property "margin-bo" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 63, column 9)
+ (82a4d746)
+2020-10-29T10:28:15.2409078+01:00  [ERR] ERROR in ./src/app/faq/faq.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        margin-bottom: ;
+                    ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq\faq.component.scss (line 63, column 22)
+ (9f838a28)
+2020-10-29T10:46:05.7635269+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T10:46:05.7885462+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T10:46:05.7919764+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T10:50:46.1742063+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T10:50:46.1941394+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T10:50:46.1980927+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T10:57:05.1770496+01:00  [ERR] ERROR in app/faq/faq.component.ts:37:12 - error TS1134: Variable declaration expected.
+
+37     const  = new Faq();
+              ~
+app/faq/faq.component.ts:37:14 - error TS1134: Variable declaration expected.
+
+37     const  = new Faq();
+                ~~~
+app/faq/faq.component.ts:38:5 - error TS1128: Declaration or statement expected.
+
+38     .kategori = this.skjema.value.kategori;
+       ~
+app/faq/faq.component.ts:39:5 - error TS1128: Declaration or statement expected.
+
+39     .spors = this.skjema.value.spors;
+       ~
+app/faq/faq.component.ts:40:5 - error TS1128: Declaration or statement expected.
+
+40     .svar = "";
+       ~
+app/faq/faq.component.ts:41:5 - error TS1128: Declaration or statement expected.
+
+41     .rating = 0;
+       ~
+
+ (3e6da52b)
+2020-10-29T10:57:40.4959418+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T10:57:40.5223144+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T10:57:40.5263750+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T11:01:20.1410583+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T11:01:20.1657144+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T11:01:20.1694770+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T11:14:09.3606630+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T11:14:09.3811256+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T11:14:09.3845013+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T14:47:05.2794310+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T14:47:05.3012331+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T14:47:05.3177307+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T14:48:21.6541638+01:00  [ERR] ERROR in app/faq/faq.component.ts:43:12 - error TS1005: ',' expected.
+
+43     console.log(nySporsmaal);
+              ~
+app/faq/faq.component.ts:43:16 - error TS1005: ',' expected.
+
+43     console.log(nySporsmaal);
+                  ~
+
+ (47f072d0)
+2020-10-29T14:48:23.0850496+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 41:16
+Module parse failed: Unexpected token (41:16)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // nySporsmaal.svar = "";
+|         // nySporsmaal.rating = 0;
+>         const ny;
+|         console.log(nySporsmaal);
+|         this._http.post("api/faq/", nySporsmaal)
+ (64131ea3)
+2020-10-29T14:48:23.7572831+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 41:16
+Module parse failed: Unexpected token (41:16)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // nySporsmaal.svar = "";
+|         // nySporsmaal.rating = 0;
+>         const ny;
+|         console.log(nySporsmaal);
+|         this._http.post("api/faq/", nySporsmaal)
+ (64131ea3)
+2020-10-29T14:48:24.4444639+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 41:17
+Module parse failed: Unexpected token (41:17)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // nySporsmaal.svar = "";
+|         // nySporsmaal.rating = 0;
+>         const nyS;
+|         console.log(nySporsmaal);
+|         this._http.post("api/faq/", nySporsmaal)
+ (1020af76)
+2020-10-29T14:48:25.0450472+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 41:18
+Module parse failed: Unexpected token (41:18)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // nySporsmaal.svar = "";
+|         // nySporsmaal.rating = 0;
+>         const nySp;
+|         console.log(nySporsmaal);
+|         this._http.post("api/faq/", nySporsmaal)
+ (826986dd)
+2020-10-29T14:48:25.5492377+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 41:25
+Module parse failed: Unexpected token (41:25)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // nySporsmaal.svar = "";
+|         // nySporsmaal.rating = 0;
+>         const nySporsmaal;
+|         console.log(nySporsmaal);
+|         this._http.post("api/faq/", nySporsmaal)
+ (32dc0c4e)
+2020-10-29T14:48:26.0860411+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 41:25
+Module parse failed: Unexpected token (41:25)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // nySporsmaal.svar = "";
+|         // nySporsmaal.rating = 0;
+>         const nySporsmaal;
+|         console.log(nySporsmaal);
+|         this._http.post("api/faq/", nySporsmaal)
+ (32dc0c4e)
+2020-10-29T14:48:26.8506900+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(43,17): error TS2304: Cannot find name 'nySporsmaal'.
+    src/app/faq/faq.component.ts(44,33): error TS2304: Cannot find name 'nySporsmaal'.
+    
+ (e5c7399e)
+2020-10-29T14:48:28.6716285+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(42,11): error TS1155: 'const' declarations must be initialized.
+    
+ (68a629ec)
+2020-10-29T14:48:36.9619195+01:00  [ERR] ERROR in app/faq/faq.component.ts:44:5 - error TS1109: Expression expected.
+
+44     }
+       ~
+
+ (4d4b4a71)
+2020-10-29T14:48:37.6592227+01:00  [ERR] ERROR in app/faq/faq.component.ts:44:5 - error TS1109: Expression expected.
+
+44     }
+       ~
+
+ (4d4b4a71)
+2020-10-29T14:48:37.6793002+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(43,7): error TS18004: No value exists in scope for the shorthand property 'kategori'. Either declare one or provide an initializer.
+    
+ (b29c5abe)
+2020-10-29T14:48:38.9613004+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(43,7): error TS18004: No value exists in scope for the shorthand property 'kategori'. Either declare one or provide an initializer.
+    
+ (b29c5abe)
+2020-10-29T14:48:40.5862023+01:00  [ERR] ERROR in ./src/app/faq/faq.component.ts 42:21
+Module parse failed: Shorthand property assignments are valid only in destructuring patterns (42:21)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // nySporsmaal.rating = 0;
+|         const nySporsmaal = {
+>             kategori = "billetter"
+|         };
+|         console.log(nySporsmaal);
+ (c9e155f5)
+2020-10-29T14:48:41.1051958+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(43,7): error TS18004: No value exists in scope for the shorthand property 'kategori'. Either declare one or provide an initializer.
+    src/app/faq/faq.component.ts(43,16): error TS1312: '=' can only be used in an object literal property inside a destructuring assignment.
+    
+ (dc7687fa)
+2020-10-29T14:48:54.8233927+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(44,7): error TS18004: No value exists in scope for the shorthand property 'spors'. Either declare one or provide an initializer.
+    
+ (19f30436)
+2020-10-29T14:48:56.0263895+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(44,7): error TS18004: No value exists in scope for the shorthand property 'spors'. Either declare one or provide an initializer.
+    
+ (19f30436)
+2020-10-29T14:48:56.3062634+01:00  [ERR] ERROR in app/faq/faq.component.ts:45:5 - error TS1109: Expression expected.
+
+45     }
+       ~
+
+ (242b426a)
+2020-10-29T14:48:57.0294297+01:00  [ERR] ERROR in app/faq/faq.component.ts:45:5 - error TS1109: Expression expected.
+
+45     }
+       ~
+
+ (242b426a)
+2020-10-29T14:49:03.7606255+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(44,27): error TS2339: Property 'val' does not exist on type 'FormGroup'.
+    
+ (2e9a052b)
+2020-10-29T14:51:09.0571096+01:00  [ERR] ERROR in app/faq/faq.component.ts:49:11 - error TS1135: Argument expression expected.
+
+49           => {
+             ~~
+app/faq/faq.component.ts:50:17 - error TS1005: ':' expected.
+
+50             this.hentAlleFaq();
+                   ~
+app/faq/faq.component.ts:50:31 - error TS1005: ',' expected.
+
+50             this.hentAlleFaq();
+                                 ~
+app/faq/faq.component.ts:51:17 - error TS1005: ':' expected.
+
+51             this.isOpen = !this.isOpen;
+                   ~
+app/faq/faq.component.ts:51:39 - error TS1005: ',' expected.
+
+51             this.isOpen = !this.isOpen;
+                                         ~
+
+ (7de8b95e)
+2020-10-29T14:51:09.7373452+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(50,13): error TS2345: Argument of type '{ this: boolean; }' is not assignable to parameter of type '(value: Object) => void'.
+      Object literal may only specify known properties, and 'this' does not exist in type '(value: Object) => void'.
+    src/app/faq/faq.component.ts(51,13): error TS1117: An object literal cannot have multiple properties with the same name in strict mode.
+    
+ (850f36ed)
+2020-10-29T14:51:16.3502436+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(49,11): error TS1200: Line terminator not permitted before arrow.
+    
+ (63d01a41)
+2020-10-29T15:12:21.4542895+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T15:12:21.4677897+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T15:12:21.4697597+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T15:17:30.9262008+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(47,21): error TS2304: Cannot find name 'a'.
+    
+ (24df9dfc)
+2020-10-29T15:25:36.4843300+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T15:25:36.5005767+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T15:25:36.5029545+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T15:32:49.5507790+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T15:32:49.5633883+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T15:32:49.5651827+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T15:33:19.4571435+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T15:33:19.4735973+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T15:33:19.4764160+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-29T15:34:23.9632460+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-29T15:34:23.9764405+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-29T15:34:23.9790823+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)

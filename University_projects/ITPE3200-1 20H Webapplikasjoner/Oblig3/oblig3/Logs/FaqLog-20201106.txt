@@ -1,0 +1,521 @@
+2020-11-06T11:15:59.7200844+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-06T11:15:59.7486083+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-06T11:15:59.7531590+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-11-06T11:18:16.0360964+01:00  [ERR] ERROR in ./src/app/faq-kategori/faq-kategori.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+    background: #;  
+               ^
+      Invalid CSS after "    background:": expected expression (e.g. 1px, bold), was "#;  "
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-kategori\faq-kategori.component.scss (line 42, column 17)
+ (fa09361a)
+2020-11-06T11:23:03.7037737+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(66,5): error TS2304: Cannot find name 'con'.
+    
+ (1433c8b1)
+2020-11-06T11:23:05.2956461+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(66,5): error TS2304: Cannot find name 'cons'.
+    
+ (03b421f5)
+2020-11-06T11:27:09.8256335+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2304: Cannot find name 'opp'.
+    
+ (626e96db)
+2020-11-06T11:34:26.2881044+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(66,22): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    
+ (81eed057)
+2020-11-06T11:34:31.1341405+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(66,22): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    
+ (da6ce3f9)
+2020-11-06T11:34:32.0474227+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:34:40.7006628+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:34:44.6719492+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(67,22): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    
+ (8c955976)
+2020-11-06T11:34:46.6818527+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.ts 60:14
+Module parse failed: Unexpected token (60:14)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // if (this.likes === this.sporsmaal.rating) return;
+|         // const rating = this.likes - this.sporsmaal.rating;
+>         const ;
+|         const nyRating = new Faq;
+|         nyRating.id = this.sporsmaal.id;
+ (0611438a)
+2020-11-06T11:34:46.7099277+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(67,22): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    
+ (8c955976)
+2020-11-06T11:34:48.2477788+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.ts 60:16
+Module parse failed: Unexpected token (60:16)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // if (this.likes === this.sporsmaal.rating) return;
+|         // const rating = this.likes - this.sporsmaal.rating;
+>         const ra;
+|         const nyRating = new Faq;
+|         nyRating.id = this.sporsmaal.id;
+ (f90162e5)
+2020-11-06T11:34:48.3072809+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(64,9): error TS1123: Variable declaration list cannot be empty.
+    src/app/faq-item/faq-item.component.ts(67,22): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    
+ (12666cf9)
+2020-11-06T11:34:50.0123101+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.ts 60:20
+Module parse failed: Unexpected token (60:20)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // if (this.likes === this.sporsmaal.rating) return;
+|         // const rating = this.likes - this.sporsmaal.rating;
+>         const rating;
+|         const nyRating = new Faq;
+|         nyRating.id = this.sporsmaal.id;
+ (98eb9538)
+2020-11-06T11:34:50.0439153+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(64,10): error TS1155: 'const' declarations must be initialized.
+    src/app/faq-item/faq-item.component.ts(67,22): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    
+ (a74e0d57)
+2020-11-06T11:34:50.9872879+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:65:4 - error TS1109: Expression expected.
+
+65  		const nyRating = new Faq;
+    		~~~~~
+
+ERROR in ./src/app/faq-item/faq-item.component.ts 60:20
+Module parse failed: Unexpected token (60:20)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // if (this.likes === this.sporsmaal.rating) return;
+|         // const rating = this.likes - this.sporsmaal.rating;
+>         const rating;
+|         const nyRating = new Faq;
+|         nyRating.id = this.sporsmaal.id;
+ (4a17fbfb)
+2020-11-06T11:34:51.2486776+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(64,10): error TS1155: 'const' declarations must be initialized.
+    
+ (f820ad5d)
+2020-11-06T11:34:52.4427120+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:34:53.4798244+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:34:54.5044133+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:34:56.4707172+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:35:01.1237763+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:64:18 - error TS1110: Type expected.
+
+64  		const rating: = num;
+    		              ~
+
+ (a7d342a9)
+2020-11-06T11:35:01.7060680+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:64:19 - error TS1110: Type expected.
+
+64  		const rating:  = num;
+    		               ~
+
+ (b8f6077f)
+2020-11-06T11:35:02.0690259+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:35:03.6929336+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:35:05.2649259+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(64,18): error TS2749: 'num' refers to a value, but is being used as a type here.
+    
+ (c3bdc84f)
+2020-11-06T11:35:06.2235870+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(41,4): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (c07bfd51)
+2020-11-06T11:35:28.6093825+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (d4abd33f)
+2020-11-06T11:35:51.5581293+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (a9197202)
+2020-11-06T11:35:52.6442906+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(51,5): error TS2554: Expected 1 arguments, but got 0.
+    src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (d4abd33f)
+2020-11-06T11:35:53.2727730+01:00 80000575-0006-fe00-b63f-84710c7967bb [ERR] An unhandled exception has occurred while executing the request. (48a46595)
+System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived'
+   at System.Net.WebSockets.WebSocketValidate.ThrowIfInvalidState(WebSocketState currentState, Boolean isDisposed, WebSocketState[] validStates)
+   at System.Net.WebSockets.ManagedWebSocket.CloseOutputAsyncCore(WebSocketCloseStatus closeStatus, String statusDescription, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2020-11-06T11:35:53.2805402+01:00 80000575-0006-fe00-b63f-84710c7967bb [WRN] The response has already started, the error page middleware will not be executed. (e1dd4c0d)
+2020-11-06T11:35:53.3043569+01:00 80000575-0006-fe00-b63f-84710c7967bb [ERR] Connection ID ""18302628913014113652"", Request ID ""80000575-0006-fe00-b63f-84710c7967bb"": An unhandled exception was thrown by the application. (bf316047)
+System.Net.WebSockets.WebSocketException (0x80004005): The WebSocket is in an invalid state ('Aborted') for this operation. Valid states are: 'Open, CloseReceived'
+   at System.Net.WebSockets.WebSocketValidate.ThrowIfInvalidState(WebSocketState currentState, Boolean isDisposed, WebSocketState[] validStates)
+   at System.Net.WebSockets.ManagedWebSocket.CloseOutputAsyncCore(WebSocketCloseStatus closeStatus, String statusDescription, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PumpWebSocket(WebSocket source, WebSocket destination, Int32 bufferSize, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.AcceptProxyWebSocketRequest(HttpContext context, Uri destinationUri, CancellationToken cancellationToken)
+   at Microsoft.AspNetCore.SpaServices.Extensions.Proxy.SpaProxy.PerformProxyRequest(HttpContext context, HttpClient httpClient, Task`1 baseUriTask, CancellationToken applicationStoppingToken, Boolean proxy404s)
+   at Microsoft.AspNetCore.Builder.SpaProxyingExtensions.<>c__DisplayClass2_0.<<UseProxyToSpaDevelopmentServer>b__0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2020-11-06T11:35:53.7957232+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(55,5): error TS2554: Expected 1 arguments, but got 0.
+    
+ (a9197202)
+2020-11-06T11:37:37.5338619+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(50,5): error TS2365: Operator '+=' cannot be applied to types 'number' and 'void'.
+    
+ (4ad4505c)
+2020-11-06T11:37:49.5023029+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(54,5): error TS2365: Operator '+=' cannot be applied to types 'number' and 'void'.
+    
+ (affbafea)
+2020-11-06T11:54:28.2617497+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(61,3): error TS2389: Function implementation name must be 'handleRating'.
+    
+ (68a5fa77)
+2020-11-06T11:54:29.8403381+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(61,3): error TS2389: Function implementation name must be 'handleRating'.
+    
+ (68a5fa77)
+2020-11-06T11:54:30.6171516+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:59:19 - error TS1144: '{' or ';' expected.
+
+59  	handleRating(e) 7
+    	                ~
+
+ (c6c1a945)
+2020-11-06T11:54:30.9130631+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(61,3): error TS2389: Function implementation name must be 'handleRating'.
+    
+ (68a5fa77)
+2020-11-06T11:54:36.6136818+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:61:3 - error TS1003: Identifier expected.
+
+61  	}
+    	~
+
+ (d14ac461)
+2020-11-06T11:55:53.8465594+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:62:3 - error TS1005: '(' expected.
+
+62  	}
+    	~
+
+ (34478e4a)
+2020-11-06T11:55:54.3110982+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:61:8 - error TS1109: Expression expected.
+
+61  		if ()
+    		    ~
+app/faq-item/faq-item.component.ts:62:3 - error TS1109: Expression expected.
+
+62  	}
+    	~
+
+ (7c134718)
+2020-11-06T11:56:01.4597691+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:62:3 - error TS1109: Expression expected.
+
+62  	}
+    	~
+
+ (893363f8)
+2020-11-06T11:56:03.7930859+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:61:28 - error TS1109: Expression expected.
+
+61  		if (e.currentTarget.id =)
+    		                        ~
+app/faq-item/faq-item.component.ts:62:3 - error TS1109: Expression expected.
+
+62  	}
+    	~
+
+ (2796c06d)
+2020-11-06T11:56:04.8527490+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:61:30 - error TS1109: Expression expected.
+
+61  		if (e.currentTarget.id ===)
+    		                          ~
+app/faq-item/faq-item.component.ts:62:3 - error TS1109: Expression expected.
+
+62  	}
+    	~
+
+ (8801d851)
+2020-11-06T11:56:05.4241501+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:61:31 - error TS1109: Expression expected.
+
+61  		if (e.currentTarget.id === )
+    		                           ~
+app/faq-item/faq-item.component.ts:62:3 - error TS1109: Expression expected.
+
+62  	}
+    	~
+
+ (5a89f9c5)
+2020-11-06T11:56:07.1678875+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:62:3 - error TS1109: Expression expected.
+
+62  	}
+    	~
+
+ (893363f8)
+2020-11-06T11:57:55.7618775+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(62,10): error TS2339: Property 'th' does not exist on type 'FaqItemComponent'.
+    
+ (63481cb3)
+2020-11-06T11:58:07.5958726+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:66:4 - error TS1003: Identifier expected.
+
+66  		}
+    		~
+
+ (b51cae5a)
+2020-11-06T11:58:10.5964535+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(65,10): error TS2339: Property 'thu' does not exist on type 'FaqItemComponent'.
+    
+ (ca3a0926)
+2020-11-06T11:58:11.9739874+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:65:20 - error TS1005: ';' expected.
+
+65  			this.thumbsDown:
+    			               ~
+
+ (fafbdabc)
+2020-11-06T11:58:31.1446477+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(67,16): error TS2304: Cannot find name 'li'.
+    
+ (c6c85c2f)
+2020-11-06T12:00:50.6480401+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(63,9): error TS2339: Property 'o' does not exist on type 'FaqItemComponent'.
+    
+ (deed989a)
+2020-11-06T12:00:52.0687629+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(63,4): error TS2554: Expected 1 arguments, but got 0.
+    
+ (e5b65468)
+2020-11-06T12:01:10.4686787+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.ts 69:14
+Module parse failed: Identifier 'rating' has already been declared (69:14)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // if (this.likes === this.sporsmaal.rating) return;
+|         const rating = this.likes - this.sporsmaal.rating;
+>         const rating = num;
+|         const nyRating = new Faq;
+|         nyRating.id = this.sporsmaal.id;
+ (c4236117)
+2020-11-06T12:01:11.3051619+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(68,10): error TS2451: Cannot redeclare block-scoped variable 'rating'.
+    src/app/faq-item/faq-item.component.ts(70,10): error TS2451: Cannot redeclare block-scoped variable 'rating'.
+    
+ (2917c878)
+2020-11-06T12:01:21.4310853+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(69,4): error TS2304: Cannot find name 'cons'.
+    
+ (65ad6074)
+2020-11-06T12:04:14.6992994+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:13:19 - error TS1109: Expression expected.
+
+13  	teller: number= ;
+    	                ~
+
+ (c1b39954)
+2020-11-06T12:04:15.8758630+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:13:20 - error TS1109: Expression expected.
+
+13  	teller: number = ;
+    	                 ~
+
+ (6c531247)
+2020-11-06T12:06:02.5556559+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:51:4 - error TS1109: Expression expected.
+
+51  		} else {
+    		~
+
+ (9ccbea03)
+2020-11-06T12:06:02.9838480+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:51:4 - error TS1109: Expression expected.
+
+51  		} else {
+    		~
+
+ (9ccbea03)
+2020-11-06T12:06:23.8503516+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(54,5): error TS2663: Cannot find name 'teller'. Did you mean the instance member 'this.teller'?
+    
+ (59ad5d14)
+2020-11-06T12:06:24.8410174+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:55:4 - error TS1109: Expression expected.
+
+55  		}
+    		~
+
+ (8d3e76c0)
+2020-11-06T12:06:25.5034733+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:55:4 - error TS1109: Expression expected.
+
+55  		}
+    		~
+
+ (8d3e76c0)
+2020-11-06T12:06:42.5563106+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:38:4 - error TS1109: Expression expected.
+
+38  		} else {
+    		~
+
+ (48c106e4)
+2020-11-06T12:06:49.2524433+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:42:4 - error TS1109: Expression expected.
+
+42  		}
+    		~
+
+ (311e738f)
+2020-11-06T12:07:19.1034838+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(68,29): error TS2339: Property 'te' does not exist on type 'FaqItemComponent'.
+    
+ (7b515275)
+2020-11-06T12:07:31.4368448+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(75,16): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    src/app/faq-item/faq-item.component.ts(79,22): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    
+ (a74eb0a9)
+2020-11-06T12:11:33.1753048+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:75:4 - error TS1005: '(' expected.
+
+75  		const rating: number = num;
+    		~~~~~
+
+ (cf8377ae)
+2020-11-06T12:11:34.2331175+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:75:4 - error TS1005: '(' expected.
+
+75  		const rating: number = num;
+    		~~~~~
+
+ (cf8377ae)
+2020-11-06T12:11:35.2999161+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:74:8 - error TS1109: Expression expected.
+
+74  		if ()
+    		    ~
+
+ (265a7d7d)
+2020-11-06T12:11:36.2058021+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.ts 75:12
+Module parse failed: Unexpected token (75:12)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // const rating = this.likes - this.sporsmaal.rating;
+|         if (num)
+>             const rating = num;
+|         console.log(rating);
+|         const nyRating = new Faq;
+ (557214e1)
+2020-11-06T12:11:37.6330005+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(75,4): error TS1156: 'const' declarations can only be declared inside a block.
+    
+ (92474783)
+2020-11-06T12:11:38.3999009+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.ts 75:12
+Module parse failed: Unexpected token (75:12)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // const rating = this.likes - this.sporsmaal.rating;
+|         if (num === 0)
+>             const rating = num;
+|         console.log(rating);
+|         const nyRating = new Faq;
+ (2113a656)
+2020-11-06T12:11:38.9656370+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(75,4): error TS1156: 'const' declarations can only be declared inside a block.
+    
+ (92474783)
+2020-11-06T12:11:40.2041545+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(75,4): error TS1156: 'const' declarations can only be declared inside a block.
+    
+ (92474783)
+2020-11-06T12:11:54.1368256+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(78,16): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    src/app/faq-item/faq-item.component.ts(82,22): error TS2552: Cannot find name 'rating'. Did you mean 'nyRating'?
+    
+ (83c26074)
+2020-11-06T12:12:15.7399501+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(76,10): error TS2339: Property 's' does not exist on type 'FaqItemComponent'.
+    
+ (1263266f)
+2020-11-06T12:15:15.3090236+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.ts 74:20
+Module parse failed: Unexpected token (74:20)
+File was processed with these loaders:
+ * ./node_modules/@ngtools/webpack/src/index.js
+You may need an additional loader to handle the result of these loaders.
+|         // if (this.likes === this.sporsmaal.rating) return;
+|         // const rating = this.likes - this.sporsmaal.rating;
+>         const rating;
+|         console.log(rating);
+|         const nyRating = new Faq;
+ (c6bdcfb2)
+2020-11-06T12:15:16.6906098+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(74,10): error TS1155: 'const' declarations must be initialized.
+    
+ (8a7db63e)
+2020-11-06T12:21:47.4652682+01:00  [ERR] ERROR in app/faq-item/faq-item.component.ts:52:12 - error TS1005: ',' expected.
+
+52  		if (this.harPressetDislikeKnapp === false) {
+    		        ~
+app/faq-item/faq-item.component.ts:52:36 - error TS1005: ',' expected.
+
+52  		if (this.harPressetDislikeKnapp === false) {
+    		                                ~~~
+app/faq-item/faq-item.component.ts:52:45 - error TS1005: ';' expected.
+
+52  		if (this.harPressetDislikeKnapp === false) {
+    		                                         ~
+app/faq-item/faq-item.component.ts:56:6 - error TS1128: Declaration or statement expected.
+
+56  		} else {
+    		  ~~~~
+app/faq-item/faq-item.component.ts:61:3 - error TS1128: Declaration or statement expected.
+
+61  	}
+    	~
+app/faq-item/faq-item.component.ts:63:19 - error TS1005: ';' expected.
+
+63  	handleRating(e) {
+    	                ~
+app/faq-item/faq-item.component.ts:74:23 - error TS1005: ';' expected.
+
+74  	oppdaterRating(num) {
+    	                    ~
+app/faq-item/faq-item.component.ts:93:1 - error TS1128: Declaration or statement expected.
+
+93 }
+   ~
+
+ (e8c6c45a)
+2020-11-06T12:21:48.5221023+01:00  [ERR]     ERROR in src/app/faq-item/faq-item.component.ts(63,3): error TS2304: Cannot find name 'handleRating'.
+    src/app/faq-item/faq-item.component.ts(63,16): error TS2304: Cannot find name 'e'.
+    src/app/faq-item/faq-item.component.ts(64,8): error TS2304: Cannot find name 'e'.
+    src/app/faq-item/faq-item.component.ts(67,8): error TS2304: Cannot find name 'e'.
+    src/app/faq-item/faq-item.component.ts(74,3): error TS2304: Cannot find name 'oppdaterRating'.
+    src/app/faq-item/faq-item.component.ts(74,18): error TS2304: Cannot find name 'num'.
+    src/app/faq-item/faq-item.component.ts(77,27): error TS2304: Cannot find name 'num'.
+    
+ (5ce8446e)
+2020-11-06T13:04:13.4848593+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-06T13:04:13.5053845+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-06T13:04:13.5084255+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-11-06T13:11:31.8743650+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-06T13:11:31.9074197+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-06T13:11:31.9164500+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-11-06T15:46:39.9390132+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-06T15:46:39.9577337+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-06T15:46:39.9605694+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)

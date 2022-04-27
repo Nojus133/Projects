@@ -1,0 +1,534 @@
+2020-10-30T08:56:43.0115267+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-30T08:56:43.0363364+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-30T08:56:43.0418251+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-30T09:05:44.3493888+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-30T09:05:44.3765099+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-30T09:05:44.3804072+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-30T09:12:21.0214311+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        margin: 0;
+                 ^
+      Invalid CSS after "        margin: 0;": expected "}", was "&"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 9, column 19)
+ (12ee74d9)
+2020-10-30T09:12:22.7465390+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+        margin: 0;
+                 ^
+      Invalid CSS after "        margin: 0;": expected "}", was "&:hover"
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 9, column 19)
+ (60531cf2)
+2020-10-30T09:12:29.8394446+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            te
+           ^
+      Property "te" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 11, column 13)
+ (f4fc8b6f)
+2020-10-30T09:12:30.5841291+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            text
+           ^
+      Property "text" must be followed by a ':'
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 11, column 13)
+ (6c51886f)
+2020-10-30T09:12:33.1389036+01:00  [ERR] ERROR in ./src/app/faq-item/faq-item.component.scss
+Module build failed (from ./node_modules/sass-loader/lib/loader.js):
+
+            text-decoration: ;
+                          ^
+      Style declaration must contain a value
+      in C:\Users\Budre\source\repos\oblig3\oblig3\ClientApp\src\app\faq-item\faq-item.component.scss (line 11, column 28)
+ (abbcdef1)
+2020-10-30T09:14:39.3057677+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-30T09:14:39.3247494+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-30T09:14:39.3284035+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-30T09:19:40.4613589+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-30T09:19:40.5024368+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-30T09:19:40.5078130+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-30T09:27:24.2333334+01:00  [ERR] ERROR in app/faq/faq.component.ts:43:62 - error TS1135: Argument expression expected.
+
+43     this._http.post<any>("api/faq/", nySporsmaal).subscribe( => {
+                                                                ~~
+app/faq/faq.component.ts:44:17 - error TS1005: ':' expected.
+
+44             this.hentAlleFaq();
+                   ~
+app/faq/faq.component.ts:44:31 - error TS1005: ',' expected.
+
+44             this.hentAlleFaq();
+                                 ~
+app/faq/faq.component.ts:45:17 - error TS1005: ':' expected.
+
+45             this.isOpen = !this.isOpen;
+                   ~
+app/faq/faq.component.ts:45:39 - error TS1005: ',' expected.
+
+45             this.isOpen = !this.isOpen;
+                                         ~
+
+ (e668cf13)
+2020-10-30T09:30:55.9946332+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(59,30): error TS2339: Property 'alle' does not exist on type 'FaqComponent'.
+    
+ (8b256aef)
+2020-10-30T09:55:48.6898023+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-30T09:55:48.7191274+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-30T09:55:48.7242238+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-30T10:00:59.0276120+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(27,80): error TS2304: Cannot find name 'NgZone'.
+    src/app/faq/faq.component.ts(60,18): error TS2339: Property 'ref' does not exist on type 'FaqComponent'.
+    
+ (b6fe947e)
+2020-10-30T10:01:03.8847360+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(1,48): error TS2305: Module '"C:/Users/Budre/source/repos/oblig3/oblig3/ClientApp/node_modules/@angular/core/core"' has no exported member 'n'.
+    src/app/faq/faq.component.ts(27,80): error TS2304: Cannot find name 'NgZone'.
+    src/app/faq/faq.component.ts(60,18): error TS2339: Property 'ref' does not exist on type 'FaqComponent'.
+    
+ (3c9ecc1b)
+2020-10-30T10:01:07.3424267+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(1,48): error TS2305: Module '"C:/Users/Budre/source/repos/oblig3/oblig3/ClientApp/node_modules/@angular/core/core"' has no exported member 'ng'.
+    src/app/faq/faq.component.ts(27,80): error TS2304: Cannot find name 'NgZone'.
+    src/app/faq/faq.component.ts(60,18): error TS2339: Property 'ref' does not exist on type 'FaqComponent'.
+    
+ (1506860b)
+2020-10-30T10:01:08.7778929+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(60,18): error TS2339: Property 'ref' does not exist on type 'FaqComponent'.
+    
+ (c35dd0f3)
+2020-10-30T10:01:10.3813478+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(60,18): error TS2339: Property 'ref' does not exist on type 'FaqComponent'.
+    
+ (c35dd0f3)
+2020-10-30T10:01:35.6098890+01:00  [ERR] ERROR in app/faq/faq.component.ts:66:4 - error TS1005: ')' expected.
+
+66   };
+      ~
+app/faq/faq.component.ts:68:28 - error TS1005: ';' expected.
+
+68   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:73:18 - error TS1005: ';' expected.
+
+73   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:82:2 - error TS1005: '}' expected.
+
+82 }
+    
+
+ (b6d20636)
+2020-10-30T10:01:36.5615736+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(59,40): error TS2339: Property 'getAlleKategorier' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(64,9): error TS2345: Argument of type '() => void' is not assignable to parameter of type 'any[]'.
+      Type '() => void' is missing the following properties from type 'any[]': pop, push, concat, join, and 25 more.
+    src/app/faq/faq.component.ts(68,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(68,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(69,12): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(73,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(73,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(79,5): error TS2304: Cannot find name 'e'.
+    
+ (68fcb885)
+2020-10-30T10:01:37.7047692+01:00  [ERR] ERROR in app/faq/faq.component.ts:58:35 - error TS1005: ')' expected.
+
+58             this.alleFaq = svarene;
+                                     ~
+
+ (fb400e97)
+2020-10-30T10:01:38.6751981+01:00  [ERR] ERROR in app/faq/faq.component.ts:58:13 - error TS1005: ',' expected.
+
+58             this.alleFaq = svarene;
+               ~~~~
+app/faq/faq.component.ts:58:35 - error TS1005: ')' expected.
+
+58             this.alleFaq = svarene;
+                                     ~
+
+ (9af6359d)
+2020-10-30T10:04:16.8064466+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-30T10:04:16.8295850+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-30T10:04:16.8334357+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-30T10:16:39.1873552+01:00  [ERR] ERROR in app/faq/faq.component.ts:11:28 - error TS1005: '{' expected.
+
+11 export class FaqComponent  impl{
+                              ~~~~
+app/faq/faq.component.ts:11:32 - error TS1005: ';' expected.
+
+11 export class FaqComponent  impl{
+                                  ~
+app/faq/faq.component.ts:12:22 - error TS1005: '(' expected.
+
+12   alleFaq: Array<Faq>;
+                        ~
+app/faq/faq.component.ts:14:32 - error TS1005: '(' expected.
+
+14   alleKategorier: Array<string>;
+                                  ~
+app/faq/faq.component.ts:27:23 - error TS1005: ',' expected.
+
+27   constructor(private _http: HttpClient, private fb: FormBuilder, private zone:NgZone) {
+                         ~~~~~
+app/faq/faq.component.ts:27:28 - error TS1005: ',' expected.
+
+27   constructor(private _http: HttpClient, private fb: FormBuilder, private zone:NgZone) {
+                              ~
+app/faq/faq.component.ts:27:50 - error TS1005: ',' expected.
+
+27   constructor(private _http: HttpClient, private fb: FormBuilder, private zone:NgZone) {
+                                                    ~~
+app/faq/faq.component.ts:27:52 - error TS1005: ',' expected.
+
+27   constructor(private _http: HttpClient, private fb: FormBuilder, private zone:NgZone) {
+                                                      ~
+app/faq/faq.component.ts:27:75 - error TS1005: ',' expected.
+
+27   constructor(private _http: HttpClient, private fb: FormBuilder, private zone:NgZone) {
+ (cc8ea70e)
+2020-10-30T10:16:40.2519716+01:00  [ERR]                                                                              ~~~~
+app/faq/faq.component.ts:27:79 - error TS1005: ',' expected.
+
+27   constructor(private _http: HttpClient, private fb: FormBuilder, private zone:NgZone) {
+                                                                                 ~
+app/faq/faq.component.ts:27:88 - error TS1005: ';' expected.
+
+27   constructor(private _http: HttpClient, private fb: FormBuilder, private zone:NgZone) {
+                                                                                          ~
+app/faq/faq.component.ts:31:14 - error TS1005: ';' expected.
+
+31   ngOnInit() {
+                ~
+app/faq/faq.component.ts:35:14 - error TS1005: ';' expected.
+
+35   lagreFaq() {
+                ~
+app/faq/faq.component.ts:54:17 - error TS1005: ';' expected.
+
+54   hentAlleFaq() {
+                   ~
+app/faq/faq.component.ts:70:28 - error TS1005: ';' expected.
+
+70   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:75:18 - error TS1005: ';' expected.
+
+75   toggleModal(e) {
+                    ~
+
+
+ (cd47d5bc)
+2020-10-30T10:16:40.2589110+01:00  [ERR] ERROR in app/faq/faq.component.ts:12:22 - error TS1005: '(' expected.
+
+12   alleFaq: Array<Faq>;
+                        ~
+app/faq/faq.component.ts:13:25 - error TS1005: ',' expected.
+
+13   laster: boolean = true;
+                           ~
+app/faq/faq.component.ts:14:32 - error TS1005: '(' expected.
+
+14   alleKategorier: Array<string>;
+                                  ~
+app/faq/faq.component.ts:15:26 - error TS1005: ',' expected.
+
+15   isOpen: boolean = false;
+                            ~
+app/faq/faq.component.ts:16:20 - error TS1005: ',' expected.
+
+16   skjema: FormGroup;
+                      ~
+app/faq/faq.component.ts:27:3 - error TS1005: ',' expected.
+
+27   constructor(private _http: HttpClient, private fb: FormBuilder, private zone:NgZone) {
+     ~~~~~~~~~~~
+app/faq/faq.component.ts:31:3 - error TS1005: ',' expected.
+
+31   ngOnInit() {
+     ~~~~~~~~
+app/faq/faq.component.ts:35:3 - error TS1005: ',' expected.
+
+35   lagreFaq() {
+     ~~~~~~~~
+app/faq/faq.component.ts:54:3 - error TS1005: ',' expected.
+
+54   hentAlleFaq() {
+     ~~~~~~~~~~~
+app/faq/faq.component.ts:68:4 - error TS1005: ',' expected.
+
+68   };
+      ~
+app/faq/faq.component.ts:75:3 - error TS1005: ',' expected.
+
+75   toggleModal(e) {
+     ~~~~~~~~~~~
+ (7b10cb0d)
+2020-10-30T10:16:40.8065802+01:00  [ERR] app/faq/faq.component.ts:84:2 - error TS1005: '{' expected.
+
+84 }
+    
+
+    
+ (4ab9feac)
+2020-10-30T10:16:40.8389645+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(11,28): error TS2304: Cannot find name 'impl'.
+    src/app/faq/faq.component.ts(13,11): error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+    src/app/faq/faq.component.ts(15,11): error TS2693: 'boolean' only refers to a type, but is being used as a value here.
+    src/app/faq/faq.component.ts(18,3): error TS2304: Cannot find name 'validering'.
+    src/app/faq/faq.component.ts(27,3): error TS2304: Cannot find name 'constructor'.
+    src/app/faq/faq.component.ts(27,15): error TS2304: Cannot find name 'private'.
+    src/app/faq/faq.component.ts(27,23): error TS2304: Cannot find name '_http'.
+    src/app/faq/faq.component.ts(27,42): error TS2304: Cannot find name 'private'.
+    src/app/faq/faq.component.ts(27,50): error TS2304: Cannot find name 'fb'.
+    src/app/faq/faq.component.ts(27,67): error TS2304: Cannot find name 'private'.
+    src/app/faq/faq.component.ts(27,75): error TS2304: Cannot find name 'zone'.
+    src/app/faq/faq.component.ts(28,19): error TS2304: Cannot find name 'fb'.
+    src/app/faq/faq.component.ts(31,3): error TS2304: Cannot find name 'ngOnInit'.
+    src/app/faq/faq.component.ts(35,3): error TS2304: Cannot find name 'lagreFaq'.
+    src/app/faq/faq.component.ts(43,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(54,3): error TS2304: Cannot find name 'hentAlleFaq'.
+    src/app/faq/faq.component.ts(55,5): error TS2347: Untyped function calls may not accept type arguments.
+    src/app/faq/faq.component.ts(70,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(70,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(75,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(75,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(81,5): error TS2304: Cannot find name 'e'.
+    
+ (4e389a0a)
+2020-10-30T10:16:42.6542187+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(11,39): error TS2500: A class can only implement an identifier/qualified-name with optional type arguments.
+    
+ (76e41ecc)
+2020-10-30T10:16:50.3297657+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(11,39): error TS2304: Cannot find name 'Af'.
+    
+ (b99c9e3f)
+2020-10-30T10:16:51.4464447+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(11,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (242bc4f3)
+2020-10-30T10:16:52.5588049+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(11,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (242bc4f3)
+2020-10-30T10:16:53.5286993+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(11,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (242bc4f3)
+2020-10-30T10:17:04.1167906+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(11,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (242bc4f3)
+2020-10-30T10:17:35.4243477+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:17:36.3466551+01:00  [ERR] ERROR in app/faq/faq.component.ts:5:1 - error TS1128: Declaration or statement expected.
+
+5 import
+  ~~~~~~
+
+ (0f3da0c0)
+2020-10-30T10:17:37.4116979+01:00  [ERR] ERROR in app/faq/faq.component.ts:7:1 - error TS1005: 'from' expected.
+
+7 @Component({
+  ~
+
+ (7aa10bff)
+2020-10-30T10:17:37.5036651+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:17:38.1091229+01:00  [ERR] ERROR in app/faq/faq.component.ts:7:1 - error TS1005: 'from' expected.
+
+7 @Component({
+  ~
+
+ (7aa10bff)
+2020-10-30T10:17:38.6207424+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:17:39.6109466+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:17:56.9300649+01:00  [ERR] ERROR in app/faq/faq.component.ts:7:1 - error TS1005: 'from' expected.
+
+7 @Component({
+  ~
+
+ (7aa10bff)
+2020-10-30T10:17:57.6327583+01:00  [ERR] ERROR in app/faq/faq.component.ts:7:1 - error TS1005: 'from' expected.
+
+7 @Component({
+  ~
+
+ (7aa10bff)
+2020-10-30T10:17:57.8745042+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:17:59.5298678+01:00  [ERR] ERROR in app/faq/faq.component.ts:7:1 - error TS1109: Expression expected.
+
+7 @Component({
+  ~
+
+ (74866711)
+2020-10-30T10:17:59.5469134+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:18:00.5128594+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:18:02.2831984+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(5,38): error TS2307: Cannot find module ''.
+    src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (a87918b5)
+2020-10-30T10:18:05.5780160+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(5,38): error TS2307: Cannot find module '..'.
+    src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (0696907c)
+2020-10-30T10:18:06.5702294+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(5,38): error TS2307: Cannot find module '../'.
+    src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (0d78d9e7)
+2020-10-30T10:18:09.7012539+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(5,38): error TS2307: Cannot find module '../faq-kategori'.
+    src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (5f3aaabd)
+2020-10-30T10:18:12.8306849+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(5,38): error TS2307: Cannot find module '../faq-kategori/'.
+    src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (958ce47a)
+2020-10-30T10:18:13.6563967+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:18:16.0426097+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:18:49.5995209+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:18:51.0257673+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:18:52.7454721+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    src/app/faq/faq.component.ts(13,4): error TS2554: Expected 2 arguments, but got 1.
+    src/app/faq/faq.component.ts(13,14): error TS2304: Cannot find name 'ChildComponent'.
+    
+ (a7f220e8)
+2020-10-30T10:18:56.3719609+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    src/app/faq/faq.component.ts(13,4): error TS2554: Expected 2 arguments, but got 1.
+    
+ (d11cd580)
+2020-10-30T10:18:58.3566389+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    src/app/faq/faq.component.ts(13,4): error TS2554: Expected 2 arguments, but got 1.
+    
+ (d11cd580)
+2020-10-30T10:19:21.4283325+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(13,4): error TS2554: Expected 2 arguments, but got 1.
+    src/app/faq/faq.component.ts(16,10): error TS2339: Property 'message' does not exist on type 'FaqComponent'.
+    
+ (cfa7dc1a)
+2020-10-30T10:19:28.9786351+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(13,4): error TS2554: Expected 2 arguments, but got 1.
+    src/app/faq/faq.component.ts(16,10): error TS2339: Property 'a' does not exist on type 'FaqComponent'.
+    
+ (0e30936b)
+2020-10-30T10:19:30.1675543+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(13,4): error TS2554: Expected 2 arguments, but got 1.
+    
+ (ae3f189e)
+2020-10-30T10:19:31.2812602+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(13,4): error TS2554: Expected 2 arguments, but got 1.
+    
+ (ae3f189e)
+2020-10-30T10:20:35.7673432+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (9ae9f8b3)
+2020-10-30T10:20:37.2474504+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(5,38): error TS2307: Cannot find module '../faq-kategori/'.
+    src/app/faq/faq.component.ts(12,14): error TS2420: Class 'FaqComponent' incorrectly implements interface 'AfterViewInit'.
+      Property 'ngAfterViewInit' is missing in type 'FaqComponent' but required in type 'AfterViewInit'.
+    
+ (958ce47a)
+2020-10-30T10:21:05.9491295+01:00  [ERR] ERROR in app/faq/faq.component.ts:64:10 - error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+
+64         },
+            ~
+app/faq/faq.component.ts:65:15 - error TS1005: ';' expected.
+
+65         error => console.log(error),
+                 ~~
+app/faq/faq.component.ts:65:25 - error TS1005: ';' expected.
+
+65         error => console.log(error),
+                           ~
+app/faq/faq.component.ts:65:36 - error TS1144: '{' or ';' expected.
+
+65         error => console.log(error),
+                                      ~
+app/faq/faq.component.ts:66:9 - error TS1068: Unexpected token. A constructor, method, accessor, or property was expected.
+
+66         () => console.log("ferdig get-api/faq")
+           ~
+app/faq/faq.component.ts:67:5 - error TS1128: Declaration or statement expected.
+
+67     );
+       ~
+app/faq/faq.component.ts:68:3 - error TS1128: Declaration or statement expected.
+
+68   };
+     ~
+app/faq/faq.component.ts:70:28 - error TS1005: ';' expected.
+
+70   getAlleKategorier(liste) {
+                              ~
+app/faq/faq.component.ts:75:18 - error TS1005: ';' expected.
+
+75   toggleModal(e) {
+                    ~
+app/faq/faq.component.ts:84:1 - error TS1128: Declaration or statement expected.
+
+84 }
+   ~
+
+ (6ea6fcd1)
+2020-10-30T10:21:07.4098013+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(59,40): error TS2339: Property 'getAlleKategorier' does not exist on type 'FaqComponent'.
+    src/app/faq/faq.component.ts(70,3): error TS2304: Cannot find name 'getAlleKategorier'.
+    src/app/faq/faq.component.ts(70,21): error TS2304: Cannot find name 'liste'.
+    src/app/faq/faq.component.ts(75,3): error TS2304: Cannot find name 'toggleModal'.
+    src/app/faq/faq.component.ts(75,15): error TS2304: Cannot find name 'e'.
+    src/app/faq/faq.component.ts(81,5): error TS2304: Cannot find name 'e'.
+    
+ (72daca46)
+2020-10-30T10:22:39.4127366+01:00  [ERR] ERROR in app/faq/faq.component.ts:64:9 - error TS1003: Identifier expected.
+
+64         },
+           ~
+
+ (d7e5da9e)
+2020-10-30T10:22:59.0708413+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-10-30T10:22:59.1008951+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-10-30T10:22:59.1045448+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
+2020-10-30T10:29:29.9752907+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(62,33): error TS2339: Property 'changeDetectorRef' does not exist on type 'FaqComponent'.
+    
+ (f9d6b88f)
+2020-10-30T10:29:51.6690874+01:00  [ERR] ERROR in app/faq/faq.component.ts:62:24 - error TS1135: Argument expression expected.
+
+62             setTimeout(=>{this.ref.detectChanges()},0);
+                          ~~
+app/faq/faq.component.ts:62:31 - error TS1005: ':' expected.
+
+62             setTimeout(=>{this.ref.detectChanges()},0);
+                                 ~
+
+ (ecb18188)
+2020-10-30T10:29:52.7927636+01:00  [ERR]     ERROR in src/app/faq/faq.component.ts(62,27): error TS2345: Argument of type '{ this: any; }' is not assignable to parameter of type 'TimerHandler'.
+      Object literal may only specify known properties, and 'this' does not exist in type 'Function'.
+    
+ (c27b73f2)

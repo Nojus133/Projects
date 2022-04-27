@@ -1,0 +1,3 @@
+2020-11-09T10:38:26.6838535+01:00  [INF] Application started. Press Ctrl+C to shut down. (dcaefe54)
+2020-11-09T10:38:26.8860027+01:00  [INF] Hosting environment: "Development" (c3307c92)
+2020-11-09T10:38:26.8978714+01:00  [INF] Content root path: "C:\Users\Budre\source\repos\oblig3\oblig3" (b5d60022)
