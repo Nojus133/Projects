@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="8dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/itemContainer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingStart="12dp"
+            android:paddingTop="8dp"
+            android:paddingEnd="12dp"
+            android:paddingBottom="16dp">
+
+            <TextView
+                android:id="@+id/husNr"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Hus 18"
+                android:textColor="@color/black"
+                android:textSize="22sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/arrow"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="8dp"
+                android:text="▼"
+                app:layout_constraintBottom_toBottomOf="@+id/husNr"
+                app:layout_constraintStart_toEndOf="@+id/husNr"
+                app:layout_constraintTop_toTopOf="@+id/husNr" />
+
+            <TextView
+                android:id="@+id/adresse"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ellipsize="end"
+                android:maxLines="1"
+                android:text="Pilestredet 35, 0182, Oslo, Norway"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/husNr" />
+
+            <TextView
+                android:id="@+id/koordinater"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="59.654365 : 10.564566"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/adresse" />
+
+            <TextView
+                android:id="@+id/antall_etasjer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="5 etasjer"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/koordinater" />
+
+            <androidx.constraintlayout.widget.ConstraintLayout
+                android:id="@+id/expandable"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:layout_constraintTop_toBottomOf="@id/antall_etasjer">
+
+                <TextView
+                    android:id="@+id/beskrivelseLabel"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:text="Beskrivelse"
+                    android:textColor="@color/black"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent" />
+
+                <TextView
+                    android:id="@+id/beskrivelse"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:maxLength="100"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus non volutpat nunc. Aliquam sagittis diam erat, at vehicula velit posuere sed. In id maximus odio, non rutrum quam. Fusce orci elit, placerat et mattis a, aliquet id nisi. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Praesent non enim dui. Sed at odio eu ante pharetra scelerisque. Donec malesuada lacinia ante vitae consequat. Cras commodo lobortis ex, at cursus turpis maximus eget. Ut luctus mollis eros, at dictum urna accumsan eleifend. Proin."
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/beskrivelseLabel" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chip_endre"
+                    style="Widget.MaterialComponents.Chip.Action"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:text="Endre"
+                    app:chipBackgroundColor="@color/white"
+                    app:chipEndPadding="12dp"
+                    app:chipIcon="@drawable/ic_baseline_edit_24"
+                    app:chipIconTint="@color/purple_500"
+                    app:chipStartPadding="12dp"
+                    app:chipStrokeColor="@android:color/secondary_text_dark"
+                    app:chipStrokeWidth="1dp"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toBottomOf="@id/beskrivelse" />
+
+                <com.google.android.material.chip.Chip
+                    android:id="@+id/chip_delete"
+                    style="Widget.MaterialComponents.Chip.Action"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginStart="8dp"
+                    android:layout_marginTop="4dp"
+                    android:text="Slett"
+                    app:chipBackgroundColor="@color/white"
+                    app:chipEndPadding="12dp"
+                    app:chipIcon="@drawable/ic_baseline_delete_24"
+                    app:chipIconTint="@color/purple_500"
+                    app:chipStartPadding="12dp"
+                    app:chipStrokeColor="@android:color/secondary_text_dark"
+                    app:chipStrokeWidth="1dp"
+                    app:layout_constraintStart_toEndOf="@+id/chip_endre"
+                    app:layout_constraintTop_toBottomOf="@id/beskrivelse" />
+
+            </androidx.constraintlayout.widget.ConstraintLayout>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.cardview.widget.CardView>
+</LinearLayout>
