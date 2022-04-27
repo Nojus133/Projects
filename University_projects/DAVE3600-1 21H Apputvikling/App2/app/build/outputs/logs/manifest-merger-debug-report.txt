@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+MERGED from [androidx.databinding:viewbinding:7.0.1] C:\Users\nojam\.gradle\caches\transforms-3\ff5d982a54f36c84e4fced91462e97bb\transformed\jetified-viewbinding-7.0.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\nojam\.gradle\caches\transforms-3\912d237a25b428afc626c9aa7f359d78\transformed\preference-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\nojam\.gradle\caches\transforms-3\d15eef891a421cfa8ee31a95de275c6f\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nojam\.gradle\caches\transforms-3\402267f0a254460e87e9435a96f5bfba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\3109fa55ae143c0f8f7eeab21d745e0d\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\55e311d705e7ca24b3efd8612e6caa41\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\c84966d631d6e0b75d6bb70ed84f0980\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\c0c83e0907b7ac1ffcebe49c9ab95d3f\transformed\recyclerview-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\nojam\.gradle\caches\transforms-3\df40d3cd1d23b4ca50e531b45116ad84\transformed\fragment-1.2.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\e83c61d08e7d6a18054b889d35435de4\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\1ea53c2095fc748f851c30510ed97702\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\ff22d43b9c58a17396f4d0be46fee4e4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\1fc3776f3934c6467dd6a93111d4ebbe\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\a6de1821a286637aca342ffe2e3e8574\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\18df5355695c88d1f8c8fa013cd2b5aa\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\b82ee3598c1d957ab5d129dd4a9ec094\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\20a17e71544c4e7bb3fb65a7d7b86673\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\e4894677dd6b25cfa14192e9c70b4dd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\bc661fbb93df02fd062b2985ab38e216\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\8211363af40047e76e4390b012dd3d05\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\8739ef9f080f0ee06c65833001c9e975\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\00578af765a5666fe2159a6bf90585e6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\d750a4640ecd46134a88514ecad02d3f\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\9e43550e678ca1123a99dd5e1b82ae60\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\3dbba80c5a903ceacab599a9f7a74b07\transformed\jetified-activity-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\71189fea469fb47b0b68202a61af4a55\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\eef5b881f034328977a13b223dc94321\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\nojam\.gradle\caches\transforms-3\df38c170263def37d6f651d33d9eb878\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\14ce081772fbaefa60f9b525e8651f2f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\ffb4596ee7e80973d42422f5ef69480b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\47866abb0c08980901b0c447c97b25e8\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\36ef86b488ad0236ce77cc22790f462b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\524c6a3849ffabd24a7a3da79bf65f22\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\cdab6885b438a759bbebc3bab0411230\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\364cd11e18b25eea3f64fd0a4b722373\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\2f8e445222e4e599ddd0550fcb0ff3e9\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\b0f0415adc5c28937a118b56a214efc7\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\585f1b03bc0825a7adc8ae1fef4a3f03\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nojam\.gradle\caches\transforms-3\4b48d18b90de8c4339b4c1aff40a9f65\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\bc95c3427b7854c0aefcf784df8e7a89\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nojam\.gradle\caches\transforms-3\32384a04bd6e5a2a6f25214da7b607db\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\3b9b53105509eef60ab6de9e9a319267\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+	package
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:1-55:12
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:6:22-64
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:8:22-78
+application
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:9:5-53:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\nojam\.gradle\caches\transforms-3\d15eef891a421cfa8ee31a95de275c6f\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\nojam\.gradle\caches\transforms-3\d15eef891a421cfa8ee31a95de275c6f\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nojam\.gradle\caches\transforms-3\402267f0a254460e87e9435a96f5bfba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nojam\.gradle\caches\transforms-3\402267f0a254460e87e9435a96f5bfba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\nojam\.gradle\caches\transforms-3\df38c170263def37d6f651d33d9eb878\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\nojam\.gradle\caches\transforms-3\df38c170263def37d6f651d33d9eb878\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\ffb4596ee7e80973d42422f5ef69480b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\ffb4596ee7e80973d42422f5ef69480b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\nojam\.gradle\caches\transforms-3\df38c170263def37d6f651d33d9eb878\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:14:9-54
+	android:installLocation
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:10:9-47
+	android:icon
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:16:9-51
+receiver#com.example.s344224mappe2.MinBroadcastReceiver
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:17:9-24:20
+	android:exported
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:19:13-36
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:18:13-74
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:com.example.s344224mappe2.MinBroadcastReceiver
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:20:13-23:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:21:17-79
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:21:25-76
+action#com.example.s344224mappe2.MinBroadcastReceiver
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:22:17-89
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:22:25-86
+service#com.example.s344224mappe2.SettPeriodiskService
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:25:9-80
+	android:enabled
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:25:18-40
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:25:41-77
+service#com.example.s344224mappe2.SjekkRestaurantBestillingerService
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:26:9-94
+	android:enabled
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:26:18-40
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:26:41-91
+activity#com.example.s344224mappe2.LeggTilRestaurantActivity
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:28:9-31:58
+	android:parentActivityName
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:31:13-55
+	android:exported
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:29:13-54
+activity#com.example.s344224mappe2.LeggTilBestillingActivity
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:32:9-35:58
+	android:parentActivityName
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:35:13-55
+	android:exported
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:33:13-54
+activity#com.example.s344224mappe2.LeggTilVennActivity
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:36:9-39:58
+	android:parentActivityName
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:39:13-55
+	android:exported
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:37:13-48
+activity#com.example.s344224mappe2.SetPreferencesActivity
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:40:9-42:39
+	android:exported
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:42:13-36
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:41:13-51
+activity#com.example.s344224mappe2.MainActivity
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:43:9-52:20
+	android:launchMode
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:46:13-43
+	android:exported
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:45:13-36
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:44:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:47:13-51:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml:50:27-74
+uses-sdk
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.0.1] C:\Users\nojam\.gradle\caches\transforms-3\ff5d982a54f36c84e4fced91462e97bb\transformed\jetified-viewbinding-7.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:7.0.1] C:\Users\nojam\.gradle\caches\transforms-3\ff5d982a54f36c84e4fced91462e97bb\transformed\jetified-viewbinding-7.0.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\nojam\.gradle\caches\transforms-3\912d237a25b428afc626c9aa7f359d78\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.preference:preference:1.1.1] C:\Users\nojam\.gradle\caches\transforms-3\912d237a25b428afc626c9aa7f359d78\transformed\preference-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\nojam\.gradle\caches\transforms-3\d15eef891a421cfa8ee31a95de275c6f\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\nojam\.gradle\caches\transforms-3\d15eef891a421cfa8ee31a95de275c6f\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nojam\.gradle\caches\transforms-3\402267f0a254460e87e9435a96f5bfba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] C:\Users\nojam\.gradle\caches\transforms-3\402267f0a254460e87e9435a96f5bfba\transformed\constraintlayout-2.0.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\3109fa55ae143c0f8f7eeab21d745e0d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\3109fa55ae143c0f8f7eeab21d745e0d\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\55e311d705e7ca24b3efd8612e6caa41\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\55e311d705e7ca24b3efd8612e6caa41\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\c84966d631d6e0b75d6bb70ed84f0980\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\c84966d631d6e0b75d6bb70ed84f0980\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\c0c83e0907b7ac1ffcebe49c9ab95d3f\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\c0c83e0907b7ac1ffcebe49c9ab95d3f\transformed\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\nojam\.gradle\caches\transforms-3\df40d3cd1d23b4ca50e531b45116ad84\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] C:\Users\nojam\.gradle\caches\transforms-3\df40d3cd1d23b4ca50e531b45116ad84\transformed\fragment-1.2.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\e83c61d08e7d6a18054b889d35435de4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\e83c61d08e7d6a18054b889d35435de4\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\1ea53c2095fc748f851c30510ed97702\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\1ea53c2095fc748f851c30510ed97702\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\ff22d43b9c58a17396f4d0be46fee4e4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\ff22d43b9c58a17396f4d0be46fee4e4\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\1fc3776f3934c6467dd6a93111d4ebbe\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\1fc3776f3934c6467dd6a93111d4ebbe\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\a6de1821a286637aca342ffe2e3e8574\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\nojam\.gradle\caches\transforms-3\a6de1821a286637aca342ffe2e3e8574\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\18df5355695c88d1f8c8fa013cd2b5aa\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\18df5355695c88d1f8c8fa013cd2b5aa\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\b82ee3598c1d957ab5d129dd4a9ec094\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\b82ee3598c1d957ab5d129dd4a9ec094\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\20a17e71544c4e7bb3fb65a7d7b86673\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\20a17e71544c4e7bb3fb65a7d7b86673\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\e4894677dd6b25cfa14192e9c70b4dd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\e4894677dd6b25cfa14192e9c70b4dd3\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\bc661fbb93df02fd062b2985ab38e216\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\bc661fbb93df02fd062b2985ab38e216\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\8211363af40047e76e4390b012dd3d05\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\8211363af40047e76e4390b012dd3d05\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\8739ef9f080f0ee06c65833001c9e975\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\8739ef9f080f0ee06c65833001c9e975\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\00578af765a5666fe2159a6bf90585e6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\00578af765a5666fe2159a6bf90585e6\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\d750a4640ecd46134a88514ecad02d3f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\d750a4640ecd46134a88514ecad02d3f\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\9e43550e678ca1123a99dd5e1b82ae60\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\9e43550e678ca1123a99dd5e1b82ae60\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\3dbba80c5a903ceacab599a9f7a74b07\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\3dbba80c5a903ceacab599a9f7a74b07\transformed\jetified-activity-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\71189fea469fb47b0b68202a61af4a55\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\71189fea469fb47b0b68202a61af4a55\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\eef5b881f034328977a13b223dc94321\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\eef5b881f034328977a13b223dc94321\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\nojam\.gradle\caches\transforms-3\df38c170263def37d6f651d33d9eb878\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\nojam\.gradle\caches\transforms-3\df38c170263def37d6f651d33d9eb878\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\14ce081772fbaefa60f9b525e8651f2f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\14ce081772fbaefa60f9b525e8651f2f\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\ffb4596ee7e80973d42422f5ef69480b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\nojam\.gradle\caches\transforms-3\ffb4596ee7e80973d42422f5ef69480b\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\47866abb0c08980901b0c447c97b25e8\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\47866abb0c08980901b0c447c97b25e8\transformed\jetified-lifecycle-viewmodel-savedstate-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\36ef86b488ad0236ce77cc22790f462b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\36ef86b488ad0236ce77cc22790f462b\transformed\lifecycle-viewmodel-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\524c6a3849ffabd24a7a3da79bf65f22\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\524c6a3849ffabd24a7a3da79bf65f22\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\cdab6885b438a759bbebc3bab0411230\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\cdab6885b438a759bbebc3bab0411230\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\364cd11e18b25eea3f64fd0a4b722373\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\364cd11e18b25eea3f64fd0a4b722373\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\2f8e445222e4e599ddd0550fcb0ff3e9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\2f8e445222e4e599ddd0550fcb0ff3e9\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\b0f0415adc5c28937a118b56a214efc7\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\b0f0415adc5c28937a118b56a214efc7\transformed\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\585f1b03bc0825a7adc8ae1fef4a3f03\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\585f1b03bc0825a7adc8ae1fef4a3f03\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nojam\.gradle\caches\transforms-3\4b48d18b90de8c4339b4c1aff40a9f65\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\nojam\.gradle\caches\transforms-3\4b48d18b90de8c4339b4c1aff40a9f65\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\bc95c3427b7854c0aefcf784df8e7a89\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] C:\Users\nojam\.gradle\caches\transforms-3\bc95c3427b7854c0aefcf784df8e7a89\transformed\lifecycle-livedata-core-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nojam\.gradle\caches\transforms-3\32384a04bd6e5a2a6f25214da7b607db\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\nojam\.gradle\caches\transforms-3\32384a04bd6e5a2a6f25214da7b607db\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\3b9b53105509eef60ab6de9e9a319267\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\nojam\.gradle\caches\transforms-3\3b9b53105509eef60ab6de9e9a319267\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\nojam\Desktop\Apputvikling\s344224Mappe2\app\src\main\AndroidManifest.xml
