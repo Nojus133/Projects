@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+    <SwitchPreferenceCompat
+        app:key="notifikasjoner"
+        app:title="Tillat notifikasjoner"
+        app:summary="Slå av/på SMS-påminnelse"/>
+
+    <com.example.s344224mappe2.TimePreference
+        app:key="tid"
+        app:title="Velg tidspunkt"
+        app:defaultValue="09:00" />
+</PreferenceScreen>

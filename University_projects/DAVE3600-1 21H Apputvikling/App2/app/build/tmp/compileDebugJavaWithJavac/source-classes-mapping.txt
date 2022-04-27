@@ -1,0 +1,116 @@
+com/example/s344224mappe2/TimeDialog.java
+ com.example.s344224mappe2.TimeDialog
+com/example/s344224mappe2/SettPeriodiskService.java
+ com.example.s344224mappe2.SettPeriodiskService
+com/example/s344224mappe2/Utils.java
+ com.example.s344224mappe2.Utils
+com/example/s344224mappe2/Venn.java
+ com.example.s344224mappe2.Venn
+ com.example.s344224mappe2.Venn$1
+com/example/s344224mappe2/DBHandler.java
+ com.example.s344224mappe2.DBHandler
+com/example/s344224mappe2/MinBroadcastReceiver.java
+ com.example.s344224mappe2.MinBroadcastReceiver
+com/example/s344224mappe2/Restaurant.java
+ com.example.s344224mappe2.Restaurant
+ com.example.s344224mappe2.Restaurant$1
+com/example/s344224mappe2/Bestilling.java
+ com.example.s344224mappe2.Bestilling
+ com.example.s344224mappe2.Bestilling$1
+com/example/s344224mappe2/BuildConfig.java
+ com.example.s344224mappe2.BuildConfig
+com/example/s344224mappe2/MyDialog.java
+ com.example.s344224mappe2.MyDialog
+ com.example.s344224mappe2.MyDialog$1
+ com.example.s344224mappe2.MyDialog$2
+ com.example.s344224mappe2.MyDialog$DialogClickListener
+com/example/s344224mappe2/TimePreference.java
+ com.example.s344224mappe2.TimePreference
+com/example/s344224mappe2/databinding/ActivityMainBinding.java
+ com.example.s344224mappe2.databinding.ActivityMainBinding
+com/example/s344224mappe2/SetPreferencesActivity.java
+ com.example.s344224mappe2.SetPreferencesActivity
+com/example/s344224mappe2/LeggTilBestillingActivity.java
+ com.example.s344224mappe2.LeggTilBestillingActivity
+ com.example.s344224mappe2.LeggTilBestillingActivity$1
+ com.example.s344224mappe2.LeggTilBestillingActivity$2
+ com.example.s344224mappe2.LeggTilBestillingActivity$3
+ com.example.s344224mappe2.LeggTilBestillingActivity$4
+ com.example.s344224mappe2.LeggTilBestillingActivity$5
+ com.example.s344224mappe2.LeggTilBestillingActivity$6
+ com.example.s344224mappe2.LeggTilBestillingActivity$7
+com/example/s344224mappe2/RestaurantListAdapter.java
+ com.example.s344224mappe2.RestaurantListAdapter
+ com.example.s344224mappe2.RestaurantListAdapter$1
+ com.example.s344224mappe2.RestaurantListAdapter$1$1
+ com.example.s344224mappe2.RestaurantListAdapter$AdapterCallback
+ com.example.s344224mappe2.RestaurantListAdapter$RestaurantViewHolder
+com/example/s344224mappe2/databinding/DropdownItemBinding.java
+ com.example.s344224mappe2.databinding.DropdownItemBinding
+com/example/s344224mappe2/databinding/ListItem3Binding.java
+ com.example.s344224mappe2.databinding.ListItem3Binding
+com/example/s344224mappe2/databinding/ListItem2Binding.java
+ com.example.s344224mappe2.databinding.ListItem2Binding
+com/example/s344224mappe2/MainActivity.java
+ com.example.s344224mappe2.MainActivity
+ com.example.s344224mappe2.MainActivity$1
+com/example/s344224mappe2/LeggTilVennActivity.java
+ com.example.s344224mappe2.LeggTilVennActivity
+ com.example.s344224mappe2.LeggTilVennActivity$1
+ com.example.s344224mappe2.LeggTilVennActivity$2
+com/example/s344224mappe2/BestillingerFragment.java
+ com.example.s344224mappe2.BestillingerFragment
+ com.example.s344224mappe2.BestillingerFragment$1
+ com.example.s344224mappe2.BestillingerFragment$2
+ com.example.s344224mappe2.BestillingerFragment$3
+ com.example.s344224mappe2.BestillingerFragment$BestillingerFragmentListener
+com/example/s344224mappe2/databinding/ListItemBinding.java
+ com.example.s344224mappe2.databinding.ListItemBinding
+com/example/s344224mappe2/databinding/FragmentBestillingerBinding.java
+ com.example.s344224mappe2.databinding.FragmentBestillingerBinding
+com/example/s344224mappe2/VennerFragment.java
+ com.example.s344224mappe2.VennerFragment
+ com.example.s344224mappe2.VennerFragment$1
+ com.example.s344224mappe2.VennerFragment$2
+ com.example.s344224mappe2.VennerFragment$3
+ com.example.s344224mappe2.VennerFragment$VennerFragmentListener
+com/example/s344224mappe2/VennListAdapter.java
+ com.example.s344224mappe2.VennListAdapter
+ com.example.s344224mappe2.VennListAdapter$1
+ com.example.s344224mappe2.VennListAdapter$1$1
+ com.example.s344224mappe2.VennListAdapter$AdapterCallback
+ com.example.s344224mappe2.VennListAdapter$VennViewHolder
+com/example/s344224mappe2/databinding/FragmentVennerBinding.java
+ com.example.s344224mappe2.databinding.FragmentVennerBinding
+com/example/s344224mappe2/databinding/FragmentRestauranterBinding.java
+ com.example.s344224mappe2.databinding.FragmentRestauranterBinding
+com/example/s344224mappe2/databinding/ActivitySetPreferencesBinding.java
+ com.example.s344224mappe2.databinding.ActivitySetPreferencesBinding
+com/example/s344224mappe2/RestauranterFragment.java
+ com.example.s344224mappe2.RestauranterFragment
+ com.example.s344224mappe2.RestauranterFragment$1
+ com.example.s344224mappe2.RestauranterFragment$2
+ com.example.s344224mappe2.RestauranterFragment$3
+ com.example.s344224mappe2.RestauranterFragment$ListFragmentListener
+com/example/s344224mappe2/SjekkRestaurantBestillingerService.java
+ com.example.s344224mappe2.SjekkRestaurantBestillingerService
+com/example/s344224mappe2/BestillingListAdapter.java
+ com.example.s344224mappe2.BestillingListAdapter
+ com.example.s344224mappe2.BestillingListAdapter$1
+ com.example.s344224mappe2.BestillingListAdapter$1$1
+ com.example.s344224mappe2.BestillingListAdapter$AdapterCallback
+ com.example.s344224mappe2.BestillingListAdapter$BestillingViewHolder
+com/example/s344224mappe2/databinding/MultipleDropdownItemBinding.java
+ com.example.s344224mappe2.databinding.MultipleDropdownItemBinding
+com/example/s344224mappe2/databinding/ActivityLeggtilVennBinding.java
+ com.example.s344224mappe2.databinding.ActivityLeggtilVennBinding
+com/example/s344224mappe2/databinding/ActivityLeggtilBestillingBinding.java
+ com.example.s344224mappe2.databinding.ActivityLeggtilBestillingBinding
+com/example/s344224mappe2/databinding/ActivityLeggtilRestaurantBinding.java
+ com.example.s344224mappe2.databinding.ActivityLeggtilRestaurantBinding
+com/example/s344224mappe2/LeggTilRestaurantActivity.java
+ com.example.s344224mappe2.LeggTilRestaurantActivity
+ com.example.s344224mappe2.LeggTilRestaurantActivity$1
+ com.example.s344224mappe2.LeggTilRestaurantActivity$2
+com/example/s344224mappe2/preferansefragment.java
+ com.example.s344224mappe2.preferansefragment

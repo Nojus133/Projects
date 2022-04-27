@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_bestillinger"
+        android:icon="@drawable/ic_bestillinger"
+        android:title="@string/nav_bestilling"/>
+    <item
+        android:id="@+id/nav_restauranter"
+        android:icon="@drawable/ic_baseline_local_cafe_24"
+        android:title="@string/nav_restauranter"/>
+    <item
+        android:id="@+id/nav_venner"
+        android:icon="@drawable/ic_venner"
+        android:title="@string/nav_venner"/>
+</menu>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:minHeight="?attr/listPreferredItemHeight"
+    android:paddingStart="?attr/listPreferredItemPaddingStart"
+    android:paddingEnd="?attr/listPreferredItemPaddingEnd"
+    android:paddingVertical="8dp"
+    android:descendantFocusability="blocksDescendants">
+
+    <TextView
+        android:id="@+id/text_id"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:visibility="gone" />
+
+    <ImageButton
+        android:id="@+id/delete_item"
+        android:layout_width="48dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:background="#00FFFFFF"
+        tools:srcCompat="@drawable/ic_baseline_delete_24" />
+
+    <TextView
+        android:id="@+id/text1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="6dp"
+        android:layout_toStartOf="@id/delete_item"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Navn"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/text2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text3"
+        android:layout_marginBottom="3dp"
+        android:layout_toStartOf="@id/delete_item"
+        android:drawableStart="@drawable/ic_baseline_location_on_24"
+        android:gravity="center_vertical"
+        android:text="Adresse"
+        android:textAppearance="?attr/textAppearanceListItemSecondary"
+        android:textColor="@color/grey_primary" />
+
+    <TextView
+        android:id="@+id/text3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text4"
+        android:layout_marginBottom="3dp"
+        android:layout_toStartOf="@id/delete_item"
+        android:drawableStart="@drawable/ic_baseline_local_phone_24"
+        android:gravity="center_vertical"
+        android:text="Telefon"
+        android:textAppearance="?attr/textAppearanceListItemSecondary"
+        android:textColor="@color/grey_primary" />
+
+    <TextView
+        android:id="@+id/text4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/text1"
+        android:layout_marginBottom="3dp"
+        android:layout_toStartOf="@id/delete_item"
+        android:drawableStart="@drawable/ic_baseline_local_dining_24"
+        android:gravity="center_vertical"
+        android:text="Type"
+        android:textAppearance="?attr/textAppearanceListItemSecondary"
+        android:textColor="@color/grey_primary" />
+</RelativeLayout>

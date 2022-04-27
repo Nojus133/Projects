@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Restaurant bestilling</string>
+    <string name="toolbar_bestilling">Dine bestillinger</string>
+    <string name="toolbar_restauranter">Dine restauranter</string>
+    <string name="toolbar_venner">Dine venner</string>
+    <string name="toolbar_preferences">Varslingsinnstillinger</string>
+    <string name="toolbar_legg_til_restaurant">Ny restaurant</string>
+    <string name="toolbar_endre_restaurant">Endre restaurant</string>
+    <string name="toolbar_legg_til_venn">Ny venn</string>
+    <string name="toolbar_endre_venn">Endre venn</string>
+    <string name="toolbar_legg_til_bestilling">Ny bestilling</string>
+    <string name="toolbar_endre_bestilling">Endre bestilling</string>
+    <string name="nav_bestilling">Bestillinger</string>
+    <string name="nav_restauranter">Restauranter</string>
+    <string name="nav_venner">Venner</string>
+    <string name="empty_list_restauranter">"Det finnes ingen registrerte restauranter. \nFor å legge til et restaurant klikk på + knapp."</string>
+    <string name="empty_list_venner">"Det finnes ingen registrerte venner. \nFor å legge til en venn klikk på + knapp."</string>
+    <string name="empty_list_bestillinger">"Det finnes ingen registrerte bestillinger. \nFor å legge til en bestilling klikk på + knapp."</string>
+
+    <string name="channel_name">Restaurant Bestillinger</string>
+    <string name="channel_description">Notifikasjoner for restaurantbBestillinger</string>
+</resources>
