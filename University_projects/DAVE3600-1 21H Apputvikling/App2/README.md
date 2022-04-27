@@ -1,11 +1,11 @@
-#Oblig 2
+# Oblig 2
 
 Applikasjonen er laget for å gjøre restaurant reservasjoner. Appen fungerer ved å
 velge restauranter som bruker kan registrere på applikasjon. Brukeren har også mulighet til å
 legge til venner som skal være med i reservasjon. For bestillingen kan man velge ønskende
 dato og tidspunkt. 
 
-##Skjermbilder
+## Skjermbilder
 ![1](https://user-images.githubusercontent.com/54367157/165469294-8cea195e-255c-4956-a21c-6fb48822bce5.PNG)
 ![2](https://user-images.githubusercontent.com/54367157/165469293-e45f7deb-2838-4760-8d3a-f1e3b33505a2.PNG)
 ![3](https://user-images.githubusercontent.com/54367157/165469291-e8fb4fe7-9ebf-4539-bda2-3f504a4e81ae.PNG)
